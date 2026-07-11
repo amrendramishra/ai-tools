@@ -1,0 +1,42 @@
+{
+  "acknowledgment": {
+    "professional": "Thank you for your email. I have received your message and will review it shortly.",
+    "casual": "Got it! Thanks for sending this over. I'll take a look soon.",
+    "friendly": "Hi! Thanks so much for reaching out. I'll circle back shortly!"
+  },
+  "meeting_accept": {
+    "professional": "Thank you for the invitation. I'm available at the proposed time and will attend.",
+    "casual": "Sounds good! I'm free then. See you there.",
+    "friendly": "That works perfectly for me! Looking forward to it!"
+  },
+  "meeting_decline": {
+    "professional": "Thank you for the invitation. Unfortunately, I have a scheduling conflict. Could we reschedule?",
+    "casual": "Sorry, I can't make that time. Can we find another slot?",
+    "friendly": "Oh no, I wish I could make it! Could we find another time that works?"
+  },
+  "follow_up": {
+    "professional": "I wanted to follow up on my previous email. I'd appreciate an update when convenient.",
+    "casual": "Hey, just checking in. Any updates?",
+    "friendly": "Hi! Just wanted to gently bump this. No rush at all!"
+  },
+  "thank_you": {
+    "professional": "Thank you for your assistance. Your help has been invaluable.",
+    "casual": "Thanks a lot for helping out! Really appreciate it.",
+    "friendly": "You're amazing! Thank you so much!"
+  },
+  "information_request": {
+    "professional": "I'm writing to request additional information regarding this matter.",
+    "casual": "Quick question - could you clarify this for me?",
+    "friendly": "Hey! I was wondering if you could help me understand this better."
+  },
+  "deadline_extension": {
+    "professional": "I'm writing to request an extension. I would need additional time to deliver quality work.",
+    "casual": "Would it be possible to push the deadline? Let me know if that works.",
+    "friendly": "I hate to ask, but would it be possible to get a little more time on this?"
+  },
+  "out_of_office": {
+    "professional": "I am currently out of the office with limited access to email. For urgent matters, please contact my team.",
+    "casual": "I'm out of office. For anything urgent, reach out to the team.",
+    "friendly": "Thanks for your message! I'm currently away but will get back to you soon!"
+  }
+}

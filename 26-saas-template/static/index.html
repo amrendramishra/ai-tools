@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NeuralAPI - AI-Powered APIs</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0a0a1a;color:#e0e0e0;line-height:1.6}
+a{color:#7c3aed;text-decoration:none}
+.container{max-width:1200px;margin:0 auto;padding:0 20px}
+header{padding:20px 0;position:fixed;top:0;width:100%;background:rgba(10,10,26,0.95);backdrop-filter:blur(10px);z-index:100;border-bottom:1px solid rgba(124,58,237,0.2)}
+header .container{display:flex;justify-content:space-between;align-items:center}
+.logo{font-size:1.5rem;font-weight:700;background:linear-gradient(135deg,#7c3aed,#06b6d4);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+nav a{margin-left:30px;color:#a0a0b0;transition:color 0.3s}
+nav a:hover{color:#7c3aed}
+.hero{min-height:100vh;display:flex;align-items:center;text-align:center;padding-top:80px;background:radial-gradient(ellipse at center,rgba(124,58,237,0.1) 0%,transparent 70%)}
+.hero h1{font-size:3.5rem;margin-bottom:20px;background:linear-gradient(135deg,#fff,#7c3aed);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.hero p{font-size:1.3rem;color:#a0a0b0;max-width:600px;margin:0 auto 40px}
+.btn{display:inline-block;padding:14px 32px;border-radius:8px;font-weight:600;transition:all 0.3s;cursor:pointer;border:none;font-size:1rem}
+.btn-primary{background:linear-gradient(135deg,#7c3aed,#06b6d4);color:#fff}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 10px 40px rgba(124,58,237,0.3)}
+.btn-secondary{border:2px solid #7c3aed;color:#7c3aed;background:transparent;margin-left:15px}
+section{padding:100px 0}
+.section-title{text-align:center;font-size:2.2rem;margin-bottom:60px;background:linear-gradient(135deg,#fff,#a78bfa);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:30px}
+.feature-card{background:rgba(124,58,237,0.05);border:1px solid rgba(124,58,237,0.2);border-radius:16px;padding:40px 30px;transition:all 0.3s}
+.feature-card:hover{transform:translateY(-5px);border-color:#7c3aed;box-shadow:0 20px 60px rgba(124,58,237,0.1)}
+.feature-card .icon{font-size:2.5rem;margin-bottom:20px}
+.feature-card h3{font-size:1.3rem;margin-bottom:10px;color:#fff}
+.feature-card p{color:#a0a0b0}
+.pricing{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:30px}
+.price-card{background:rgba(20,20,40,0.8);border:1px solid rgba(124,58,237,0.2);border-radius:16px;padding:40px;text-align:center;transition:all 0.3s}
+.price-card.featured{border-color:#7c3aed;transform:scale(1.05);background:rgba(124,58,237,0.08)}
+.price-card h3{font-size:1.5rem;color:#fff;margin-bottom:10px}
+.price-card .price{font-size:3rem;font-weight:700;color:#7c3aed;margin:20px 0}
+.price-card .price span{font-size:1rem;color:#a0a0b0}
+.price-card ul{list-style:none;margin:30px 0;text-align:left}
+.price-card ul li{padding:8px 0;color:#c0c0d0;border-bottom:1px solid rgba(255,255,255,0.05)}
+.price-card ul li::before{content:"✓ ";color:#06b6d4}
+.api-docs{background:rgba(20,20,40,0.5);border-radius:16px;padding:40px;border:1px solid rgba(124,58,237,0.2)}
+.endpoint{background:rgba(0,0,0,0.3);border-radius:8px;padding:20px;margin-bottom:15px}
+.endpoint .method{display:inline-block;padding:4px 10px;border-radius:4px;font-size:0.8rem;font-weight:700;margin-right:10px}
+.endpoint .method.post{background:rgba(6,182,212,0.2);color:#06b6d4}
+.endpoint .method.get{background:rgba(16,185,129,0.2);color:#10b981}
+.endpoint .path{font-family:monospace;color:#fff}
+.endpoint .desc{color:#a0a0b0;margin-top:8px;font-size:0.9rem}
+.demo-section{background:rgba(20,20,40,0.5);border-radius:16px;padding:40px;border:1px solid rgba(124,58,237,0.2)}
+#demo-input{width:100%;padding:15px;border-radius:8px;border:1px solid rgba(124,58,237,0.3);background:rgba(0,0,0,0.3);color:#fff;font-size:1rem;resize:vertical;min-height:100px}
+#demo-output{margin-top:20px;padding:20px;border-radius:8px;background:rgba(0,0,0,0.3);min-height:80px;color:#a0a0b0;font-family:monospace;font-size:0.9rem;white-space:pre-wrap}
+#demo-btn{margin-top:15px}
+footer{text-align:center;padding:40px 0;border-top:1px solid rgba(124,58,237,0.2);color:#606070}
+@media(max-width:768px){.hero h1{font-size:2.2rem}.pricing{grid-template-columns:1fr}.price-card.featured{transform:scale(1)}}
+</style>
+</head>
+<body>
+<header><div class="container"><div class="logo">NeuralAPI</div><nav><a href="#features">Features</a><a href="#pricing">Pricing</a><a href="#docs">API Docs</a><a href="#demo">Try It</a></nav></div></header>
+
+<section class="hero"><div class="container">
+<h1>AI-Powered APIs for Every Application</h1>
+<p>Generate text, summarize content, and translate languages with a single API call. Built for developers who ship fast.</p>
+<a href="#demo" class="btn btn-primary">Try It Free</a>
+<a href="#docs" class="btn btn-secondary">View Docs</a>
+</div></section>
+
+<section id="features"><div class="container">
+<h2 class="section-title">Powerful Features</h2>
+<div class="features">
+<div class="feature-card"><div class="icon">⚡</div><h3>Lightning Fast</h3><p>Sub-second responses powered by optimized AI models. Scale from prototype to production seamlessly.</p></div>
+<div class="feature-card"><div class="icon">🔒</div><h3>Secure by Default</h3><p>API key authentication, rate limiting, and usage tracking built in. Enterprise-grade security.</p></div>
+<div class="feature-card"><div class="icon">🌍</div><h3>Multi-Language</h3><p>Translate between 50+ languages with context-aware AI translation that preserves meaning.</p></div>
+<div class="feature-card"><div class="icon">📊</div><h3>Usage Analytics</h3><p>Track every request, monitor token usage, and optimize costs with detailed analytics.</p></div>
+</div></div></section>
+
+<section id="pricing"><div class="container">
+<h2 class="section-title">Simple Pricing</h2>
+<div class="pricing">
+<div class="price-card"><h3>Free</h3><div class="price">$0<span>/mo</span></div><ul><li>100 requests/day</li><li>Basic generation</li><li>Community support</li><li>1 API key</li></ul><a href="#demo" class="btn btn-secondary">Get Started</a></div>
+<div class="price-card featured"><h3>Pro</h3><div class="price">$29<span>/mo</span></div><ul><li>10,000 requests/day</li><li>All endpoints</li><li>Priority support</li><li>5 API keys</li><li>Custom models</li></ul><a href="#" class="btn btn-primary">Start Pro</a></div>
+<div class="price-card"><h3>Enterprise</h3><div class="price">$99<span>/mo</span></div><ul><li>Unlimited requests</li><li>Dedicated support</li><li>Unlimited API keys</li><li>Custom fine-tuning</li><li>SLA guarantee</li></ul><a href="#" class="btn btn-secondary">Contact Us</a></div>
+</div></div></section>
+
+<section id="docs"><div class="container">
+<h2 class="section-title">API Documentation</h2>
+<div class="api-docs">
+<div class="endpoint"><span class="method post">POST</span><span class="path">/api/generate</span><p class="desc">Generate text from a prompt. Send {"prompt": "your text"} with X-API-Key header.</p></div>
+<div class="endpoint"><span class="method post">POST</span><span class="path">/api/summarize</span><p class="desc">Summarize text. Send {"text": "...", "max_length": "short|medium|long"}.</p></div>
+<div class="endpoint"><span class="method post">POST</span><span class="path">/api/translate</span><p class="desc">Translate text. Send {"text": "...", "target_language": "Spanish"}.</p></div>
+<div class="endpoint"><span class="method get">GET</span><span class="path">/api/usage</span><p class="desc">Get usage statistics for your API key.</p></div>
+<div class="endpoint"><span class="method get">GET</span><span class="path">/health</span><p class="desc">Health check - no authentication required.</p></div>
+</div></div></section>
+
+<section id="demo"><div class="container">
+<h2 class="section-title">Try It Now</h2>
+<div class="demo-section">
+<textarea id="demo-input" placeholder="Enter a prompt to generate text...">Write a haiku about programming</textarea>
+<button id="demo-btn" class="btn btn-primary" onclick="runDemo()">Generate ⚡</button>
+<div id="demo-output">Response will appear here...</div>
+</div></div></section>
+
+<footer><div class="container"><p>&copy; 2024 NeuralAPI. Built with AI for AI builders.</p></div></footer>
+
+<script>
+async function runDemo(){
+  const btn=document.getElementById('demo-btn');
+  const out=document.getElementById('demo-output');
+  const prompt=document.getElementById('demo-input').value;
+  btn.disabled=true;btn.textContent='Generating...';
+  out.textContent='Processing...';
+  try{
+    const r=await fetch('/api/generate',{method:'POST',headers:{'Content-Type':'application/json','X-API-Key':'demo'},body:JSON.stringify({prompt})});
+    const d=await r.json();
+    if(d.success)out.textContent=d.data.response;
+    else out.textContent='Error: '+d.error;
+  }catch(e){out.textContent='Error: Could not connect to API.';}
+  btn.disabled=false;btn.textContent='Generate ⚡';
+}
+</script>
+</body>
+</html>

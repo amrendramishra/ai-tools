@@ -1,0 +1,104 @@
+{
+  "name": "Your Full Name",
+  "title": "Senior Software Engineer",
+  "summary": "Experienced software engineer with 5+ years building scalable applications and leading cross-functional teams.",
+  "contact": {
+    "email": "your.email@example.com",
+    "phone": "+1-555-0123",
+    "location": "San Francisco, CA",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "github": "github.com/yourusername",
+    "website": "yourwebsite.com"
+  },
+  "skills": {
+    "technical": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL",
+      "Redis",
+      "REST APIs",
+      "GraphQL",
+      "CI/CD",
+      "Terraform"
+    ],
+    "soft": [
+      "Team Leadership",
+      "Project Management",
+      "Technical Writing",
+      "Mentoring",
+      "Agile/Scrum"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Company Inc.",
+      "duration": "2021 - Present",
+      "location": "San Francisco, CA",
+      "achievements": [
+        "Led migration of monolithic application to microservices, reducing deployment time by 75%",
+        "Designed and implemented real-time data pipeline processing 1M+ events/day",
+        "Mentored team of 4 junior developers, improving team velocity by 40%",
+        "Reduced infrastructure costs by 30% through optimization and auto-scaling"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Startup Co.",
+      "duration": "2019 - 2021",
+      "location": "Remote",
+      "achievements": [
+        "Built customer-facing API serving 50K+ daily active users",
+        "Implemented automated testing pipeline achieving 95% code coverage",
+        "Developed real-time notification system using WebSockets",
+        "Contributed to open-source projects with 500+ GitHub stars"
+      ]
+    },
+    {
+      "title": "Junior Developer",
+      "company": "Agency Corp",
+      "duration": "2018 - 2019",
+      "location": "New York, NY",
+      "achievements": [
+        "Developed responsive web applications for 10+ client projects",
+        "Improved page load times by 60% through performance optimization",
+        "Built internal tools that saved 20 hours/week of manual work"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.S. Computer Science",
+      "institution": "University of California",
+      "year": "2018",
+      "gpa": "3.7/4.0",
+      "highlights": ["Dean's List", "Senior Capstone Award"]
+    }
+  ],
+  "certifications": [
+    "AWS Solutions Architect Associate",
+    "Certified Kubernetes Administrator (CKA)",
+    "Google Cloud Professional Data Engineer"
+  ],
+  "projects": [
+    {
+      "name": "Open Source CLI Tool",
+      "description": "Command-line tool for automating cloud deployments",
+      "tech": ["Python", "AWS", "Docker"],
+      "url": "github.com/user/project"
+    },
+    {
+      "name": "Real-time Analytics Dashboard",
+      "description": "Full-stack dashboard with live data visualization",
+      "tech": ["React", "Node.js", "WebSocket", "D3.js"],
+      "url": "github.com/user/dashboard"
+    }
+  ],
+  "languages": ["English (Native)", "Spanish (Conversational)"]
+}

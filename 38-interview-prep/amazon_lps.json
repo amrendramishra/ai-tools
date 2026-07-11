@@ -1,0 +1,228 @@
+{
+  "leadership_principles": [
+    {
+      "name": "Customer Obsession",
+      "description": "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.",
+      "examples": [
+        "Describe a time you went above and beyond for a customer",
+        "Tell me about a time you had to make a decision that wasn't popular but was right for the customer",
+        "How do you gather and use customer feedback?"
+      ],
+      "follow_ups": [
+        "How did you measure the customer impact?",
+        "What data did you use to validate the customer need?",
+        "How did you balance customer needs with business constraints?"
+      ]
+    },
+    {
+      "name": "Ownership",
+      "description": "Leaders are owners. They think long term and don't sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say 'that's not my job.'",
+      "examples": [
+        "Tell me about a time you took on something significant outside your area of responsibility",
+        "Describe a time when you saw a problem and took the initiative to fix it",
+        "Tell me about a time you made a hard decision to sacrifice short term for long term gain"
+      ],
+      "follow_ups": [
+        "How did you get buy-in from others?",
+        "What was the long-term impact?",
+        "How did you handle pushback?"
+      ]
+    },
+    {
+      "name": "Invent and Simplify",
+      "description": "Leaders expect and require innovation and invention from their teams, and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by 'not invented here.'",
+      "examples": [
+        "Tell me about a time you created an innovative solution to a problem",
+        "Describe a time you simplified a complex process",
+        "Tell me about an idea you had that was implemented"
+      ],
+      "follow_ups": [
+        "How did you validate the idea before implementing?",
+        "What resistance did you face?",
+        "How much simpler was the end result?"
+      ]
+    },
+    {
+      "name": "Are Right, A Lot",
+      "description": "Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.",
+      "examples": [
+        "Tell me about a time your judgment proved to be correct despite opposition",
+        "Describe a time you were wrong and how you handled it",
+        "Tell me about a decision you made with incomplete data"
+      ],
+      "follow_ups": [
+        "What data informed your decision?",
+        "How did you handle the uncertainty?",
+        "What would you do differently in retrospect?"
+      ]
+    },
+    {
+      "name": "Learn and Be Curious",
+      "description": "Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.",
+      "examples": [
+        "Tell me about a time you learned something new that changed your approach",
+        "Describe how you stay current in your field",
+        "Tell me about a time curiosity led you to a better solution"
+      ],
+      "follow_ups": [
+        "How did you apply what you learned?",
+        "How do you prioritize learning in your daily work?",
+        "What's the most impactful thing you've learned recently?"
+      ]
+    },
+    {
+      "name": "Hire and Develop the Best",
+      "description": "Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization.",
+      "examples": [
+        "Tell me about your best hire and what made them successful",
+        "Describe a time you helped develop someone on your team",
+        "Tell me about a time you had to make a tough people decision"
+      ],
+      "follow_ups": [
+        "How did you identify their potential?",
+        "What development plan did you create?",
+        "How did you measure their growth?"
+      ]
+    },
+    {
+      "name": "Insist on the Highest Standards",
+      "description": "Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes.",
+      "examples": [
+        "Tell me about a time you refused to compromise on quality",
+        "Describe a time you raised the bar for your team",
+        "Tell me about a time a deliverable didn't meet your standards"
+      ],
+      "follow_ups": [
+        "How did you communicate your standards?",
+        "What was the team's reaction?",
+        "How did you balance quality with deadlines?"
+      ]
+    },
+    {
+      "name": "Think Big",
+      "description": "Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.",
+      "examples": [
+        "Tell me about your most ambitious project",
+        "Describe a time you proposed a bold idea",
+        "Tell me about a time you challenged conventional thinking"
+      ],
+      "follow_ups": [
+        "How did you get stakeholder alignment?",
+        "What risks did you identify?",
+        "How did you break it into achievable milestones?"
+      ]
+    },
+    {
+      "name": "Bias for Action",
+      "description": "Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.",
+      "examples": [
+        "Tell me about a time you took a calculated risk",
+        "Describe a time you had to make a decision quickly",
+        "Tell me about a time when you acted without waiting for full information"
+      ],
+      "follow_ups": [
+        "What was the worst-case scenario?",
+        "How did you mitigate the risk?",
+        "What would you have done if it failed?"
+      ]
+    },
+    {
+      "name": "Frugality",
+      "description": "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.",
+      "examples": [
+        "Tell me about a time you accomplished more with fewer resources",
+        "Describe a creative solution you found due to budget constraints",
+        "Tell me about a time you reduced costs without impacting quality"
+      ],
+      "follow_ups": [
+        "How much did you save?",
+        "What trade-offs did you make?",
+        "How did you measure success?"
+      ]
+    },
+    {
+      "name": "Earn Trust",
+      "description": "Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing.",
+      "examples": [
+        "Tell me about a time you had to deliver difficult feedback",
+        "Describe a time you admitted a mistake publicly",
+        "Tell me about a time you rebuilt trust after a setback"
+      ],
+      "follow_ups": [
+        "How did the other person react?",
+        "What was the outcome for the relationship?",
+        "How do you build trust with new team members?"
+      ]
+    },
+    {
+      "name": "Dive Deep",
+      "description": "Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.",
+      "examples": [
+        "Tell me about a time you found a problem by diving into the details",
+        "Describe a time when data told a different story than what people believed",
+        "Tell me about a time you had to debug a complex issue"
+      ],
+      "follow_ups": [
+        "How deep did you have to go?",
+        "What signals told you something was wrong?",
+        "How did you prevent the issue from recurring?"
+      ]
+    },
+    {
+      "name": "Have Backbone; Disagree and Commit",
+      "description": "Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Once a decision is determined, they commit wholly.",
+      "examples": [
+        "Tell me about a time you disagreed with your manager",
+        "Describe a time you had to commit to a decision you disagreed with",
+        "Tell me about a time you convinced others to change their position"
+      ],
+      "follow_ups": [
+        "How did you present your case?",
+        "What happened after you committed?",
+        "Would you do anything differently?"
+      ]
+    },
+    {
+      "name": "Deliver Results",
+      "description": "Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.",
+      "examples": [
+        "Tell me about your most impactful project and its measurable results",
+        "Describe a time you delivered under tight deadlines",
+        "Tell me about a time you overcame significant obstacles to deliver"
+      ],
+      "follow_ups": [
+        "What metrics improved?",
+        "What obstacles did you overcome?",
+        "How did you prioritize when everything seemed urgent?"
+      ]
+    },
+    {
+      "name": "Strive to be Earth's Best Employer",
+      "description": "Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment.",
+      "examples": [
+        "Tell me about a time you improved the work environment for your team",
+        "Describe how you support diversity and inclusion",
+        "Tell me about a time you prioritized team well-being"
+      ],
+      "follow_ups": [
+        "How did you measure the impact on the team?",
+        "What feedback did you receive?",
+        "How did this affect retention or engagement?"
+      ]
+    },
+    {
+      "name": "Success and Scale Bring Broad Responsibility",
+      "description": "We started in a garage, but we're not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions.",
+      "examples": [
+        "Tell me about a time you considered the broader impact of a decision",
+        "Describe a time you had to balance business goals with social responsibility",
+        "Tell me about a time you thought about long-term consequences"
+      ],
+      "follow_ups": [
+        "What stakeholders did you consider?",
+        "How did you balance competing interests?",
+        "What was the broader impact?"
+      ]
+    }
+  ]
+}

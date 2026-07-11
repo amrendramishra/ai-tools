@@ -1,0 +1,140 @@
+{
+  "playlists": {
+    "morning_boost": {
+      "mood": "energetic",
+      "time": "morning",
+      "description": "Wake up and conquer the day",
+      "songs": [
+        {"title": "Zinda", "artist": "Bhaag Milkha Bhaag", "genre": "bollywood"},
+        {"title": "Eye of the Tiger", "artist": "Survivor", "genre": "rock"},
+        {"title": "Stronger", "artist": "Kanye West", "genre": "hip-hop"},
+        {"title": "Don't Stop Me Now", "artist": "Queen", "genre": "rock"},
+        {"title": "Kar Har Maidaan Fateh", "artist": "Sanju", "genre": "bollywood"},
+        {"title": "Believer", "artist": "Imagine Dragons", "genre": "rock"},
+        {"title": "Chak De India", "artist": "Title Track", "genre": "bollywood"},
+        {"title": "Hall of Fame", "artist": "The Script", "genre": "pop"},
+        {"title": "Unstoppable", "artist": "Sia", "genre": "pop"},
+        {"title": "Sultan", "artist": "Title Track", "genre": "bollywood"}
+      ]
+    },
+    "deep_focus": {
+      "mood": "focus",
+      "time": "work",
+      "description": "Deep concentration with no distractions",
+      "songs": [
+        {"title": "Lofi Study Beats", "artist": "ChilledCow", "genre": "lofi"},
+        {"title": "Weightless", "artist": "Marconi Union", "genre": "ambient"},
+        {"title": "Clair de Lune", "artist": "Debussy", "genre": "classical"},
+        {"title": "Gymnopédie No.1", "artist": "Erik Satie", "genre": "classical"},
+        {"title": "Ambient 1: Music for Airports", "artist": "Brian Eno", "genre": "ambient"},
+        {"title": "Rain Sounds + Lofi", "artist": "Various", "genre": "lofi"},
+        {"title": "Moonlight Sonata", "artist": "Beethoven", "genre": "classical"},
+        {"title": "Deep Focus Mix", "artist": "Various", "genre": "ambient"},
+        {"title": "Coffee Shop Ambience", "artist": "Various", "genre": "lofi"},
+        {"title": "Alpha Waves Study", "artist": "Various", "genre": "ambient"}
+      ]
+    },
+    "evening_chill": {
+      "mood": "chill",
+      "time": "evening",
+      "description": "Unwind after a productive day",
+      "songs": [
+        {"title": "Tum Se Hi", "artist": "Jab We Met", "genre": "bollywood"},
+        {"title": "Ilahi", "artist": "Yeh Jawaani Hai Deewani", "genre": "bollywood"},
+        {"title": "Khaabon Ke Parinday", "artist": "ZNMD", "genre": "bollywood"},
+        {"title": "Agar Tum Saath Ho", "artist": "Tamasha", "genre": "bollywood"},
+        {"title": "Sunset Lover", "artist": "Petit Biscuit", "genre": "electronic"},
+        {"title": "Night Changes", "artist": "One Direction", "genre": "pop"},
+        {"title": "Iktara", "artist": "Wake Up Sid", "genre": "bollywood"},
+        {"title": "Let Her Go", "artist": "Passenger", "genre": "acoustic"},
+        {"title": "Phir Se Ud Chala", "artist": "Rockstar", "genre": "bollywood"},
+        {"title": "Here Comes the Sun", "artist": "Beatles", "genre": "pop"}
+      ]
+    },
+    "sleep_mode": {
+      "mood": "chill",
+      "time": "night",
+      "description": "Drift off to peaceful sleep",
+      "songs": [
+        {"title": "Weightless", "artist": "Marconi Union", "genre": "ambient"},
+        {"title": "Sleep", "artist": "Max Richter", "genre": "classical"},
+        {"title": "Raag Yaman (Night Raga)", "artist": "Various", "genre": "classical"},
+        {"title": "Deep Sleep Music", "artist": "Various", "genre": "ambient"},
+        {"title": "Nocturne Op.9 No.2", "artist": "Chopin", "genre": "classical"},
+        {"title": "Tibetan Singing Bowls", "artist": "Various", "genre": "ambient"},
+        {"title": "Rain on Leaves", "artist": "Nature Sounds", "genre": "ambient"},
+        {"title": "Spa Music Relaxation", "artist": "Various", "genre": "ambient"},
+        {"title": "Flute Meditation", "artist": "Various", "genre": "classical"},
+        {"title": "Ocean Waves", "artist": "Nature Sounds", "genre": "ambient"}
+      ]
+    },
+    "party_mix": {
+      "mood": "party",
+      "time": "evening",
+      "description": "Get the party started!",
+      "songs": [
+        {"title": "Badtameez Dil", "artist": "Yeh Jawaani Hai Deewani", "genre": "bollywood"},
+        {"title": "Uptown Funk", "artist": "Bruno Mars", "genre": "pop"},
+        {"title": "Lungi Dance", "artist": "Chennai Express", "genre": "bollywood"},
+        {"title": "Gallan Goodiyaan", "artist": "Dil Dhadakne Do", "genre": "bollywood"},
+        {"title": "Kala Chashma", "artist": "Baar Baar Dekho", "genre": "bollywood"},
+        {"title": "Lean On", "artist": "Major Lazer", "genre": "edm"},
+        {"title": "London Thumakda", "artist": "Queen", "genre": "bollywood"},
+        {"title": "Shape of You", "artist": "Ed Sheeran", "genre": "pop"},
+        {"title": "Desi Girl", "artist": "Dostana", "genre": "bollywood"},
+        {"title": "Titanium", "artist": "David Guetta", "genre": "edm"}
+      ]
+    },
+    "romantic_evening": {
+      "mood": "romantic",
+      "time": "evening",
+      "description": "Love songs for special moments",
+      "songs": [
+        {"title": "Tum Hi Ho", "artist": "Aashiqui 2", "genre": "bollywood"},
+        {"title": "Perfect", "artist": "Ed Sheeran", "genre": "pop"},
+        {"title": "Raabta", "artist": "Agent Vinod", "genre": "bollywood"},
+        {"title": "All of Me", "artist": "John Legend", "genre": "pop"},
+        {"title": "Kal Ho Naa Ho", "artist": "Title Track", "genre": "bollywood"},
+        {"title": "Thinking Out Loud", "artist": "Ed Sheeran", "genre": "pop"},
+        {"title": "Hawayein", "artist": "Jab Harry Met Sejal", "genre": "bollywood"},
+        {"title": "A Thousand Years", "artist": "Christina Perri", "genre": "pop"},
+        {"title": "Kabira", "artist": "Yeh Jawaani Hai Deewani", "genre": "bollywood"},
+        {"title": "Can't Help Falling in Love", "artist": "Elvis Presley", "genre": "pop"}
+      ]
+    },
+    "sad_feels": {
+      "mood": "sad",
+      "time": "night",
+      "description": "When you need to feel your feelings",
+      "songs": [
+        {"title": "Channa Mereya", "artist": "Ae Dil Hai Mushkil", "genre": "bollywood"},
+        {"title": "Someone Like You", "artist": "Adele", "genre": "pop"},
+        {"title": "Tujhe Kitna Chahne Lage", "artist": "Kabir Singh", "genre": "bollywood"},
+        {"title": "Fix You", "artist": "Coldplay", "genre": "rock"},
+        {"title": "Phir Le Aya Dil", "artist": "Barfi", "genre": "bollywood"},
+        {"title": "Say Something", "artist": "A Great Big World", "genre": "pop"},
+        {"title": "Agar Tum Saath Ho", "artist": "Tamasha", "genre": "bollywood"},
+        {"title": "The Night We Met", "artist": "Lord Huron", "genre": "indie"},
+        {"title": "Ae Dil Hai Mushkil", "artist": "Title Track", "genre": "bollywood"},
+        {"title": "Hurt", "artist": "Johnny Cash", "genre": "acoustic"}
+      ]
+    },
+    "happy_vibes": {
+      "mood": "happy",
+      "time": "morning",
+      "description": "Pure joy and good vibes",
+      "songs": [
+        {"title": "Happy", "artist": "Pharrell Williams", "genre": "pop"},
+        {"title": "Balam Pichkari", "artist": "YJHD", "genre": "bollywood"},
+        {"title": "Walking on Sunshine", "artist": "Katrina & the Waves", "genre": "pop"},
+        {"title": "Gallan Goodiyaan", "artist": "Dil Dhadakne Do", "genre": "bollywood"},
+        {"title": "Good as Hell", "artist": "Lizzo", "genre": "pop"},
+        {"title": "Ainvayi Ainvayi", "artist": "Band Baaja Baaraat", "genre": "bollywood"},
+        {"title": "Best Day of My Life", "artist": "American Authors", "genre": "pop"},
+        {"title": "Matargashti", "artist": "Tamasha", "genre": "bollywood"},
+        {"title": "Can't Stop the Feeling", "artist": "Justin Timberlake", "genre": "pop"},
+        {"title": "Nachde Ne Saare", "artist": "Baar Baar Dekho", "genre": "bollywood"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "tech": [
+    "https://feeds.feedburner.com/TechCrunch",
+    "https://www.theverge.com/rss/index.xml",
+    "https://hnrss.org/frontpage",
+    "https://feeds.arstechnica.com/arstechnica/index",
+    "https://www.wired.com/feed/rss"
+  ],
+  "ai": [
+    "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+    "https://blog.google/technology/ai/rss/",
+    "https://openai.com/blog/rss.xml",
+    "https://huggingface.co/blog/feed.xml",
+    "https://www.deeplearning.ai/the-batch/feed/"
+  ],
+  "business": [
+    "https://feeds.hbr.org/harvardbusiness",
+    "https://entrepreneurshandbook.co/feed",
+    "https://feeds.feedburner.com/fastcompany/headlines",
+    "https://www.inc.com/rss",
+    "https://feeds.feedburner.com/entrepreneur/latest"
+  ],
+  "dev": [
+    "https://dev.to/feed",
+    "https://css-tricks.com/feed/",
+    "https://blog.github.com/feed/",
+    "https://stackoverflow.blog/feed/",
+    "https://martinfowler.com/feed.atom"
+  ],
+  "startup": [
+    "https://feeds.feedburner.com/venturebeat/SZYF",
+    "https://www.producthunt.com/feed",
+    "https://saastr.com/feed/",
+    "https://www.saastr.com/feed/",
+    "https://bothsidesofthetable.com/feed"
+  ],
+  "design": [
+    "https://feeds.feedburner.com/SmashingMagazine",
+    "https://alistapart.com/main/feed/",
+    "https://www.nngroup.com/feed/rss/",
+    "https://uxdesign.cc/feed",
+    "https://designmodo.com/feed/"
+  ]
+}

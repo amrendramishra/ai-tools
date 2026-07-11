@@ -1,0 +1,47 @@
+{
+  "technology": {
+    "intro_scenes": ["futuristic city aerial", "code on screen typing", "circuit board closeup", "person using laptop"],
+    "explanation_scenes": ["data visualization", "network connections animation", "server room", "holographic display"],
+    "examples_scenes": ["smartphone screen demo", "app interface mockup", "split screen comparison", "before after tech"],
+    "conclusion_scenes": ["sunset technology", "person walking future city", "subscribe button animation"],
+    "transitions": ["glitch", "zoom", "slide", "fade"],
+    "color_mood": "blue, cyan, dark backgrounds"
+  },
+  "motivation": {
+    "intro_scenes": ["sunrise timelapse", "person on mountain top", "ocean waves", "city skyline dawn"],
+    "explanation_scenes": ["person writing journal", "workout montage", "chess pieces", "road stretching ahead"],
+    "examples_scenes": ["successful people working", "team celebration", "graduation ceremony", "trophy closeup"],
+    "conclusion_scenes": ["sunset silhouette", "stars night sky", "candle flame", "person meditating"],
+    "transitions": ["fade", "dissolve", "slow zoom"],
+    "color_mood": "warm orange, gold, dramatic lighting"
+  },
+  "science": {
+    "intro_scenes": ["space nebula", "microscope view", "laboratory", "explosion slowmo"],
+    "explanation_scenes": ["atom animation", "DNA helix", "planet rotation", "chemical reaction"],
+    "examples_scenes": ["experiment demonstration", "nature documentary style", "infographic animation", "cross section diagram"],
+    "conclusion_scenes": ["galaxy zoom out", "earth from space", "aurora borealis"],
+    "transitions": ["zoom", "wipe", "morph"],
+    "color_mood": "deep blue, purple, high contrast"
+  },
+  "finance": {
+    "intro_scenes": ["stock market ticker", "coins stacking", "city financial district", "luxury lifestyle"],
+    "explanation_scenes": ["graph going up", "calculator closeup", "real estate aerial", "business meeting"],
+    "examples_scenes": ["shopping comparison", "bank vault", "compound interest chart", "portfolio dashboard"],
+    "conclusion_scenes": ["retirement beach", "family happy home", "financial freedom lifestyle"],
+    "transitions": ["slide", "fade", "cut"],
+    "color_mood": "green, gold, professional dark"
+  },
+  "education": {
+    "intro_scenes": ["library books", "classroom whiteboard", "student studying", "lightbulb moment"],
+    "explanation_scenes": ["diagram drawing", "step by step process", "mind map", "textbook pages"],
+    "examples_scenes": ["real world application", "case study visuals", "comparison table", "demo screen recording"],
+    "conclusion_scenes": ["graduation cap throw", "certificate", "thumbs up celebration"],
+    "transitions": ["fade", "slide", "cut"],
+    "color_mood": "clean white, blue accents, professional"
+  },
+  "common_broll": {
+    "universal": ["aerial cityscape", "nature landscape", "timelapse clouds", "abstract particles", "bokeh lights"],
+    "transitions": ["whoosh sound effect", "cinematic boom", "subtle click", "page turn"],
+    "text_backgrounds": ["dark gradient", "blurred background", "solid color", "subtle pattern"]
+  }
+}

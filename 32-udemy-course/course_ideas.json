@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Python Automation Masterclass: Automate Everything",
+    "category": "Python, Automation",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 12,
+    "target_audience": "Working professionals who want to automate repetitive tasks",
+    "unique_angle": "Real-world office automation projects"
+  },
+  {
+    "id": 2,
+    "title": "AI-Powered YouTube Channel Growth with Python",
+    "category": "AI, YouTube, Python",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 8,
+    "target_audience": "YouTubers and content creators wanting AI tools",
+    "unique_angle": "Build your own AI content pipeline"
+  },
+  {
+    "id": 3,
+    "title": "AWS for Beginners: Deploy Your First Cloud App",
+    "category": "AWS",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 10,
+    "target_audience": "Developers new to cloud computing",
+    "unique_angle": "Project-based with real deployments"
+  },
+  {
+    "id": 4,
+    "title": "Android App Development with Kotlin & Jetpack Compose",
+    "category": "Android",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 15,
+    "target_audience": "Mobile developers wanting modern Android skills",
+    "unique_angle": "Build 5 production apps from scratch"
+  },
+  {
+    "id": 5,
+    "title": "Build AI Agents: LangChain, CrewAI & AutoGen",
+    "category": "AI, Python",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 10,
+    "target_audience": "Developers wanting to build autonomous AI systems",
+    "unique_angle": "Multi-agent orchestration patterns"
+  },
+  {
+    "id": 6,
+    "title": "AWS Lambda & Serverless Architecture Complete Guide",
+    "category": "AWS, Python",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 8,
+    "target_audience": "Backend developers moving to serverless",
+    "unique_angle": "Cost optimization and real production patterns"
+  },
+  {
+    "id": 7,
+    "title": "YouTube Automation: Faceless Channels with AI",
+    "category": "YouTube, AI, Automation",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 6,
+    "target_audience": "Passive income seekers and content entrepreneurs",
+    "unique_angle": "Complete pipeline from script to upload"
+  },
+  {
+    "id": 8,
+    "title": "Python Web Scraping & Data Pipeline Automation",
+    "category": "Python, Automation",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 9,
+    "target_audience": "Data analysts and automation engineers",
+    "unique_angle": "Anti-detection, scheduling, and data warehousing"
+  },
+  {
+    "id": 9,
+    "title": "Local AI Setup: Ollama, LLMs & Private GPT",
+    "category": "AI, Python",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 7,
+    "target_audience": "Privacy-conscious developers wanting local AI",
+    "unique_angle": "Run AI completely offline on your machine"
+  },
+  {
+    "id": 10,
+    "title": "AWS DevOps: CI/CD, Docker, ECS & Terraform",
+    "category": "AWS, Automation",
+    "difficulty": "advanced",
+    "estimated_duration_hours": 14,
+    "target_audience": "DevOps engineers and senior developers",
+    "unique_angle": "Full production pipeline with IaC"
+  },
+  {
+    "id": 11,
+    "title": "Android Automation Testing with Espresso & UI Automator",
+    "category": "Android, Automation",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 8,
+    "target_audience": "QA engineers and Android developers",
+    "unique_angle": "CI integration with automated test pipelines"
+  },
+  {
+    "id": 12,
+    "title": "Python FastAPI: Build Production REST APIs",
+    "category": "Python",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 10,
+    "target_audience": "Backend developers wanting modern Python APIs",
+    "unique_angle": "Async, auth, testing, and deployment patterns"
+  },
+  {
+    "id": 13,
+    "title": "AI Content Creation Suite: Text, Image, Video",
+    "category": "AI, YouTube, Automation",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 8,
+    "target_audience": "Content creators and marketers",
+    "unique_angle": "Build a complete AI content factory"
+  },
+  {
+    "id": 14,
+    "title": "AWS S3, CloudFront & Media Streaming Architecture",
+    "category": "AWS",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 7,
+    "target_audience": "Video platform builders and media companies",
+    "unique_angle": "Build YouTube-like streaming infrastructure"
+  },
+  {
+    "id": 15,
+    "title": "Python Desktop Automation: PyAutoGUI & Selenium",
+    "category": "Python, Automation",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 6,
+    "target_audience": "Office workers automating daily tasks",
+    "unique_angle": "Real workflows: email, Excel, web forms"
+  },
+  {
+    "id": 16,
+    "title": "Build a YouTube Analytics Dashboard with Python",
+    "category": "Python, YouTube",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 8,
+    "target_audience": "YouTubers wanting data-driven growth",
+    "unique_angle": "YouTube API + AI insights + auto-reports"
+  },
+  {
+    "id": 17,
+    "title": "Android Firebase Masterclass: Auth, Firestore, Cloud Functions",
+    "category": "Android, AWS",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 11,
+    "target_audience": "Mobile developers building full-stack apps",
+    "unique_angle": "Production patterns with offline support"
+  },
+  {
+    "id": 18,
+    "title": "AI Chatbot Builder: From Zero to Production",
+    "category": "AI, Python",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 9,
+    "target_audience": "Developers building customer service bots",
+    "unique_angle": "RAG, memory, multi-turn, deployment"
+  },
+  {
+    "id": 19,
+    "title": "Prompt Engineering & AI Workflow Design",
+    "category": "AI, Automation",
+    "difficulty": "beginner",
+    "estimated_duration_hours": 5,
+    "target_audience": "Anyone wanting to use AI effectively",
+    "unique_angle": "Systematic frameworks, not random tips"
+  },
+  {
+    "id": 20,
+    "title": "Complete YouTube SEO & Growth Hacking with Python Bots",
+    "category": "YouTube, Python, Automation",
+    "difficulty": "intermediate",
+    "estimated_duration_hours": 7,
+    "target_audience": "YouTubers wanting algorithmic growth",
+    "unique_angle": "Automated A/B testing, trend detection, scheduling"
+  }
+]

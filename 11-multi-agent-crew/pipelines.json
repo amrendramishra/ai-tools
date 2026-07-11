@@ -1,0 +1,32 @@
+{
+  "pipelines": {
+    "blog": {
+      "name": "Blog Post Pipeline",
+      "description": "Creates a polished blog post from a topic",
+      "steps": ["researcher", "writer", "editor", "reviewer", "publisher"],
+      "output_format": "markdown",
+      "context": "Write as a blog post suitable for a tech blog. Use a conversational yet informative tone."
+    },
+    "video_script": {
+      "name": "Video Script Pipeline",
+      "description": "Creates a video script with timestamps and visual cues",
+      "steps": ["researcher", "writer", "editor", "publisher"],
+      "output_format": "markdown",
+      "context": "Write as a video script with intro hook, main content sections, and outro. Include [VISUAL CUE] markers and approximate timestamps."
+    },
+    "research": {
+      "name": "Research Report Pipeline",
+      "description": "Creates a detailed research report",
+      "steps": ["researcher", "editor", "reviewer", "publisher"],
+      "output_format": "markdown",
+      "context": "Write as an academic-style research report with abstract, methodology description, findings, analysis, and conclusion."
+    },
+    "social_media": {
+      "name": "Social Media Pipeline",
+      "description": "Creates social media content from a topic",
+      "steps": ["researcher", "writer", "publisher"],
+      "output_format": "json",
+      "context": "Create social media content including: a Twitter/X thread (5-7 tweets), a LinkedIn post, and an Instagram caption. Make each platform-appropriate."
+    }
+  }
+}

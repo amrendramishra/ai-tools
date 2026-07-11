@@ -1,0 +1,157 @@
+{
+  "channels": {
+    "gyaan_in_5": {
+      "name": "Gyaan in 5",
+      "niche": "knowledge/education",
+      "tone": "informative, engaging, curious",
+      "target_audience": "Hindi-speaking learners aged 18-35",
+      "language": "hindi",
+      "shorts_style": ["hook_fact", "listicle", "question"],
+      "posting_frequency": "2 shorts/day",
+      "description": "Quick knowledge bites - science, history, psychology, amazing facts",
+      "sample_hooks": [
+        "Kya aapko pata hai ki insaan ka dimaag raat ko zyada creative hota hai?",
+        "Ye fact sunke aapka dimaag hil jayega!",
+        "Duniya ka sabse ajeeb fact jo aaj tak kisi ne nahi bataya...",
+        "3 second mein ek aisi baat batata hoon jo aap zindagi bhar nahi bhoolenge",
+        "Ye cheez har din aapke saath hoti hai lekin aapko pata hi nahi!"
+      ]
+    },
+    "tech_in_5_hindi": {
+      "name": "Tech in 5 Hindi",
+      "niche": "tech news",
+      "tone": "excited, informative, trendy",
+      "target_audience": "Hindi-speaking tech enthusiasts aged 16-30",
+      "language": "hindi",
+      "shorts_style": ["hook_fact", "shocking", "listicle"],
+      "posting_frequency": "2 shorts/day",
+      "description": "Latest tech news, gadgets, AI updates, app recommendations",
+      "sample_hooks": [
+        "Ye naya AI tool aapki job kha jayega!",
+        "iPhone ka ye hidden feature 99% logo ko nahi pata!",
+        "2026 ka sabse powerful phone sirf 15,000 mein?",
+        "Google ne launch kiya aisa feature jo sab badal dega!",
+        "Ye app install karo aur phone 2x fast ho jayega!"
+      ]
+    },
+    "money_in_5": {
+      "name": "Money in 5",
+      "niche": "finance",
+      "tone": "authoritative, practical, motivating",
+      "target_audience": "Hindi-speaking young professionals aged 20-35",
+      "language": "hindi",
+      "shorts_style": ["hook_fact", "listicle", "shocking"],
+      "posting_frequency": "2 shorts/day",
+      "description": "Money tips, investing, saving hacks, financial literacy",
+      "sample_hooks": [
+        "500 daily bachao aur 5 saal mein crorepati bano!",
+        "Ye galti ki toh aapka paisa doob jayega!",
+        "Ameer log ye 3 cheezein karte hain jo gareeb nahi karte",
+        "SIP mein ye mistake mat karna warna pachtaoge!",
+        "20 saal ki umar mein ye karo, 40 mein retire ho jaoge!"
+      ]
+    },
+    "superhuman_60s": {
+      "name": "Superhuman 60s",
+      "niche": "productivity",
+      "tone": "energetic, motivating, actionable",
+      "target_audience": "Young ambitious Indians aged 18-30",
+      "language": "hinglish",
+      "shorts_style": ["listicle", "hook_fact", "question"],
+      "posting_frequency": "2 shorts/day",
+      "description": "Productivity hacks, habits, mindset, time management in 60 seconds",
+      "sample_hooks": [
+        "Ye 1 habit follow karo aur life change ho jayegi!",
+        "5 AM club join karne ka asli secret ye hai!",
+        "Elon Musk ka ye trick use karo - 10x productive bano!",
+        "Phone uthane se pehle ye karo - din set ho jayega!",
+        "60 seconds mein seekho kaise focus 3x badhaye!"
+      ]
+    },
+    "horror_ki_kahani": {
+      "name": "Horror Ki Kahani",
+      "niche": "horror stories",
+      "tone": "suspenseful, eerie, gripping",
+      "target_audience": "Hindi-speaking horror enthusiasts aged 16-35",
+      "language": "hindi",
+      "shorts_style": ["storytelling", "shocking", "question"],
+      "posting_frequency": "1 short/day",
+      "description": "Short horror stories, paranormal experiences, creepy facts",
+      "sample_hooks": [
+        "Raat 3 baje jab wo darwaza apne aap khula...",
+        "Us kamre mein jo dikha wo kisi ko nahi dikhta...",
+        "Ye sachi ghatna hai - sunke neend ud jayegi!",
+        "Is gaon mein raat ko koi nahi jaata... kyunki...",
+        "Mere dost ne wo photo kheechi aur phir..."
+      ]
+    },
+    "pyaar_ka_psychology": {
+      "name": "Pyaar Ka Psychology",
+      "niche": "relationships",
+      "tone": "empathetic, insightful, relatable",
+      "target_audience": "Hindi-speaking youth aged 18-30",
+      "language": "hindi",
+      "shorts_style": ["question", "hook_fact", "storytelling"],
+      "posting_frequency": "2 shorts/day",
+      "description": "Relationship psychology, love tips, attraction science",
+      "sample_hooks": [
+        "Agar wo ye 3 cheezein kare toh wo aapse pyaar karta hai!",
+        "Breakup ke baad ye galti KABHI mat karna!",
+        "Ladkiyan secretly ye dekhti hain ladkon mein...",
+        "Psychologically kisi ko attract karne ka #1 tarika!",
+        "Agar wo ignore kare toh ye karo - 100% kaam karega!"
+      ]
+    },
+    "zeheela_sach": {
+      "name": "Zeheela Sach",
+      "niche": "dark facts",
+      "tone": "intense, mysterious, thought-provoking",
+      "target_audience": "Hindi-speaking curious minds aged 18-35",
+      "language": "hindi",
+      "shorts_style": ["shocking", "hook_fact", "storytelling"],
+      "posting_frequency": "1 short/day",
+      "description": "Dark facts, disturbing truths, hidden realities",
+      "sample_hooks": [
+        "Ye sach jaanke aap raat ko so nahi paoge!",
+        "Duniya ka sabse zeheela insaan jo aaj bhi free hai...",
+        "Ye company secretly aapka data bech rahi hai!",
+        "History ka sabse dark chapter jo textbooks mein nahi hai!",
+        "Ye food daily khate ho lekin ye sach nahi jaante!"
+      ]
+    },
+    "apna_haq": {
+      "name": "Apna Haq",
+      "niche": "legal rights",
+      "tone": "empowering, informative, assertive",
+      "target_audience": "Hindi-speaking Indians aged 20-45",
+      "language": "hindi",
+      "shorts_style": ["hook_fact", "question", "listicle"],
+      "posting_frequency": "1 short/day",
+      "description": "Legal rights, consumer protection, workplace rights",
+      "sample_hooks": [
+        "Police ye nahi kar sakti - ye hai aapka haq!",
+        "Boss agar ye kare toh seedha case karo!",
+        "Ye 3 rights har Indian ko pata hone chahiye!",
+        "Dukandaar ne cheating ki? Ye karo - paisa wapas!",
+        "Agar arrest ho jaao toh PEHLE ye bolo!"
+      ]
+    },
+    "agar_aisa_ho_toh": {
+      "name": "Agar Aisa Ho Toh",
+      "niche": "hypothetical",
+      "tone": "imaginative, playful, mind-bending",
+      "target_audience": "Hindi-speaking curious minds aged 14-30",
+      "language": "hindi",
+      "shorts_style": ["question", "storytelling", "shocking"],
+      "posting_frequency": "1 short/day",
+      "description": "Hypothetical scenarios, what-if questions, thought experiments",
+      "sample_hooks": [
+        "Agar dharti ulta ghoomne lage toh kya hoga?",
+        "Agar insaan 1000 saal jee sake toh?",
+        "Agar kal se internet band ho jaye toh?",
+        "Agar aap 100 saal pehle paida hote toh?",
+        "Agar gravity 1 minute ke liye gayab ho jaye toh?"
+      ]
+    }
+  }
+}

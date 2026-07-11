@@ -1,0 +1,109 @@
+{
+  "general_tips": [
+    "Use large, bold text with high contrast against the background",
+    "Include a face with an exaggerated expression when possible",
+    "Use no more than 3-5 words of text on the thumbnail",
+    "Use bright, saturated colors - especially yellow, red, and orange",
+    "Create a curiosity gap - make viewers NEED to click",
+    "Ensure the thumbnail is readable at mobile size (small)",
+    "Use the rule of thirds for composition",
+    "Add a subtle border or outline to make it stand out in search results",
+    "Avoid clutter - one clear focal point",
+    "Test at 1280x720 but ensure it looks good at 168x94 (mobile)"
+  ],
+  "text_guidelines": {
+    "max_words": 5,
+    "recommended_fonts": ["Impact", "Montserrat Bold", "Bebas Neue", "Anton"],
+    "min_font_size_ratio": 0.08,
+    "outline_thickness": "2-4px",
+    "colors_that_work": ["white with black outline", "yellow", "red", "bright green"],
+    "avoid": ["thin fonts", "cursive", "more than 2 font sizes", "small text"]
+  },
+  "color_guidelines": {
+    "high_ctr_colors": ["#FF0000", "#FFFF00", "#00FF00", "#FF6600", "#FFFFFF"],
+    "recommended_combinations": [
+      {"background": "dark blue", "text": "yellow", "accent": "red"},
+      {"background": "red", "text": "white", "accent": "black"},
+      {"background": "black", "text": "white", "accent": "yellow"},
+      {"background": "gradient blue-purple", "text": "white", "accent": "orange"}
+    ],
+    "avoid": ["low saturation", "pastel colors", "monochrome", "too many colors (>4)"]
+  },
+  "face_guidelines": {
+    "optimal_face_size": "30-50% of thumbnail area",
+    "best_expressions": ["surprise", "excitement", "shock", "curiosity", "determination"],
+    "positioning": "off-center, following rule of thirds",
+    "eye_contact": "direct eye contact with viewer increases CTR",
+    "avoid": ["neutral expressions", "face too small", "face cropped awkwardly"]
+  },
+  "composition_rules": {
+    "rule_of_thirds": true,
+    "focal_points": 1,
+    "max_focal_points": 2,
+    "background": "simple or blurred to not compete with subject",
+    "depth": "use size contrast to create depth",
+    "direction": "elements should guide eye to center or text"
+  },
+  "dimensions": {
+    "resolution": "1280x720",
+    "aspect_ratio": "16:9",
+    "max_file_size_mb": 2,
+    "format": "PNG or JPG"
+  },
+  "a_b_testing_tips": [
+    "Test one variable at a time",
+    "Run tests for at least 24 hours",
+    "Compare CTR not just views",
+    "Test: expression vs no expression",
+    "Test: text vs no text",
+    "Test: bright vs dark color scheme",
+    "Test: close-up face vs full scene"
+  ],
+  "common_mistakes": [
+    "Too much text - thumbnail is not a title card",
+    "Low contrast text that disappears at small sizes",
+    "Boring or neutral facial expression",
+    "Cluttered composition with no clear focal point",
+    "Using the same frame as the video without enhancement",
+    "Not checking mobile preview size",
+    "Inconsistent branding across videos",
+    "Misleading thumbnails that don't match content (hurts retention)"
+  ],
+  "scoring_rubric": {
+    "text_readability": {
+      "10": "Text is instantly readable at any size, perfect contrast and font choice",
+      "7": "Text is readable but could be optimized for smaller sizes",
+      "5": "Text exists but struggles at mobile sizes",
+      "3": "Text is hard to read, poor font or color choice",
+      "1": "Text is illegible or absent when needed"
+    },
+    "color_contrast": {
+      "10": "Vibrant, eye-catching colors that pop in any feed",
+      "7": "Good colors but could be more saturated or contrasting",
+      "5": "Average color usage, doesn't stand out",
+      "3": "Dull or clashing colors",
+      "1": "Monochrome or extremely low contrast"
+    },
+    "face_detection": {
+      "10": "Clear, expressive face at optimal size with great eye contact",
+      "7": "Face present with good expression but could be larger/clearer",
+      "5": "Face present but neutral expression or too small",
+      "3": "Face barely visible or awkwardly cropped",
+      "1": "No face when one would significantly help"
+    },
+    "emotional_impact": {
+      "10": "Immediately evokes strong emotion and curiosity",
+      "7": "Creates interest but doesn't demand attention",
+      "5": "Mildly interesting but forgettable",
+      "3": "Generic, doesn't evoke any particular emotion",
+      "1": "Boring or off-putting"
+    },
+    "click_worthiness": {
+      "10": "Impossible to not click - perfect curiosity gap and visual appeal",
+      "7": "Would likely get clicked by target audience",
+      "5": "Might get clicked if nothing better is around",
+      "3": "Easily scrolled past",
+      "1": "Would actively avoid clicking"
+    }
+  }
+}

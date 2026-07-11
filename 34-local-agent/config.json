@@ -1,0 +1,43 @@
+{
+  "agent": {
+    "name": "Jarvis",
+    "personality": "friendly, proactive, slightly humorous, helpful",
+    "model": "llama3.2",
+    "ollama_url": "http://localhost:11434",
+    "temperature": 0.7,
+    "max_context_tokens": 4096
+  },
+  "memory": {
+    "db_path": "agent_memory.db",
+    "learning_rate": 0.7,
+    "min_confidence_threshold": 0.3,
+    "max_facts": 500,
+    "retention_days": 365,
+    "auto_extract_facts": true,
+    "context_window_interactions": 20
+  },
+  "patterns": {
+    "min_occurrences_to_confirm": 3,
+    "detection_enabled": true,
+    "types": [
+      "work_hours",
+      "frequent_tasks",
+      "topic_preferences",
+      "communication_style",
+      "daily_routine"
+    ]
+  },
+  "predictions": {
+    "enabled": true,
+    "max_active": 10,
+    "min_confidence": 0.4
+  },
+  "briefing": {
+    "include_weather": false,
+    "include_calendar": false,
+    "include_predictions": true,
+    "include_patterns": true,
+    "greeting_style": "casual"
+  },
+  "system_prompt_template": "You are {name}, a personal AI assistant. Your personality is {personality}. You remember everything about your user and get smarter over time. Current time: {time}. Day: {day}.\n\nWhat you know about the user:\n{user_facts}\n\nDetected patterns:\n{patterns}\n\nBe concise, helpful, and reference what you know when relevant. Extract new facts from conversations naturally."
+}

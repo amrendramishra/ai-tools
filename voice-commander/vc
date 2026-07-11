@@ -1,0 +1,36 @@
+#!/bin/bash
+# Voice Commander Pro - Quick Launcher
+# Usage: vc [options]
+#   vc              → Interactive (type + voice + hotkey)
+#   vc --voice      → Voice only
+#   vc --continuous → Always listening for "Hey Jarvis"
+#   vc -c "command" → Single command
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+VENV="/Users/amrendranarayanmishra/Downloads/AI/.venv/bin/python3"
+
+# Check Ollama
+if ! curl -s http://localhost:11434/ > /dev/null 2>&1; then
+    echo "⚠️  Starting Ollama..."
+    brew services start ollama
+    sleep 3
+fi
+
+# Handle shortcuts
+case "$1" in
+    --voice|-v)
+        exec "$VENV" "$SCRIPT_DIR/voice_commander_pro.py" --mode voice --no-whisper "${@:2}"
+        ;;
+    --continuous|-l)
+        exec "$VENV" "$SCRIPT_DIR/voice_commander_pro.py" --continuous --no-whisper "${@:2}"
+        ;;
+    --whisper|-w)
+        exec "$VENV" "$SCRIPT_DIR/voice_commander_pro.py" --mode voice "${@:2}"
+        ;;
+    --type|-t)
+        exec "$VENV" "$SCRIPT_DIR/voice_commander_pro.py" --mode type "${@:2}"
+        ;;
+    *)
+        exec "$VENV" "$SCRIPT_DIR/voice_commander_pro.py" "$@"
+        ;;
+esac

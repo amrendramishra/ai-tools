@@ -1,0 +1,23 @@
+{
+  "port": 8080,
+  "ollama_base": "http://localhost:11434",
+  "api_keys": [
+    "sk-local-dev-key",
+    "sk-test-key-12345"
+  ],
+  "rate_limit": {
+    "requests_per_minute": 60,
+    "tokens_per_minute": 100000
+  },
+  "routes": {
+    "code": "codellama",
+    "general": "llama3.2",
+    "fast": "phi3",
+    "reasoning": "gemma2",
+    "vision": "llava"
+  },
+  "logging": {
+    "file": "gateway.log",
+    "level": "INFO"
+  }
+}

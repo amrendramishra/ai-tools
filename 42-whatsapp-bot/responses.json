@@ -1,0 +1,53 @@
+{
+  "jokes": [
+    "😂 Teacher: Tum school kyu nahi aaye?\nStudent: Sir, sapne mein lottery lagi thi, paisa count kar raha tha!\nTeacher: Toh aaj kyu aaye?\nStudent: Paisa khatam ho gaya! 😅",
+    "😂 Pappu: Papa, mujhe dar lagta hai!\nPapa: Kisse?\nPappu: Andhere se!\nPapa: Beta, jab main tumhari umar ka tha, mujhe koi dar nahi tha.\nPappu: Haan papa, tab toh daadi hoti thi na ghar mein! 😜",
+    "😂 Wife: Suno ji, agar main mar gayi toh kya karoge?\nHusband: Main bhi pagal ho jaunga.\nWife: Phir?\nHusband: Pagal ko kaun marta hai! 🤪",
+    "😂 Ek aadmi ne doctor se kaha: Doctor sahab, sab mujhe ignore karte hain.\nDoctor: Next! 😅",
+    "😂 Santa: Banta, teri wife kaise hai?\nBanta: Dusron ke mukable mein bahut acchi hai!\nSanta: Haan yeh toh hai! 😂",
+    "😂 Beta: Mummy, mujhe school nahi jaana!\nMummy: Kyu?\nBeta: Bachche mujhe pareshan karte hain.\nMummy: Beta, tum principal ho, tumhe jaana padega! 🤣",
+    "😂 Judge: Tumne chori kyu ki?\nChor: Judge sahab, dukaan par likha tha - 'Yahan sab kuch milta hai' toh main mil gaya! 😜",
+    "😂 Ek ladka ladki ko: I love you!\nLadki: Main tumhare layak nahi hoon.\nLadka: Arey woh toh mujhe bhi pata hai, par kya karein dil hai ki maanta nahi! 💔😂"
+  ],
+  "motivational_quotes": [
+    "🌟 \"Sapne woh nahi jo neend mein aayein, sapne woh hain jo neend na aane dein.\" — APJ Abdul Kalam\n💪 Aaj ka din tera hai, make it count!",
+    "🌟 \"Koshish karne walon ki haar nahi hoti.\" — Harivansh Rai Bachchan\n💪 Haar ke baad hi asli jeet aati hai!",
+    "🌟 \"Zindagi mein kuch bada karna hai toh chhoti cheezon ko enjoy karna seekho.\"\n💪 Small steps, big journey!",
+    "🌟 \"Success ka koi shortcut nahi hota, par consistency zaroor hoti hai.\"\n💪 Keep going, results aayenge!",
+    "🌟 \"Mushkilein tujhe har pal yeh bata rahi hain, ki tu aage badh raha hai.\"\n💪 Every challenge = growth!",
+    "🌟 \"Mann ke haare haar hai, mann ke jeete jeet.\" — Hindi Proverb\n💪 Mindset hi sab kuch hai!",
+    "🌟 \"Waqt badalta hai, waqt badalta hai... bas himmat mat haarna.\"\n💪 Patience + effort = success!",
+    "🌟 \"Jo log kehte hain ki yeh nahi ho sakta, unhe un logon ko dekhna chahiye jo kar rahe hain.\"\n💪 Prove them wrong!"
+  ],
+  "festivals": [
+    {"name": "Raksha Bandhan", "date": "2026-08-12", "description": "Bhai-behen ka pyaara tyohaar 🎀"},
+    {"name": "Janmashtami", "date": "2026-08-22", "description": "Shri Krishna ka janam din 🦚"},
+    {"name": "Ganesh Chaturthi", "date": "2026-08-27", "description": "Ganpati Bappa Morya! 🐘"},
+    {"name": "Navratri", "date": "2026-10-07", "description": "9 din Maa Durga ki puja 🙏"},
+    {"name": "Dussehra", "date": "2026-10-16", "description": "Buraai par acchai ki jeet 🏹"},
+    {"name": "Karva Chauth", "date": "2026-10-28", "description": "Pati ke liye vrat 🌙"},
+    {"name": "Diwali", "date": "2026-11-04", "description": "Roshni ka tyohaar! 🪔✨"},
+    {"name": "Bhai Dooj", "date": "2026-11-06", "description": "Bhai-behen ka ek aur celebration 👫"},
+    {"name": "Christmas", "date": "2026-12-25", "description": "Merry Christmas! 🎄🎅"},
+    {"name": "New Year", "date": "2027-01-01", "description": "Naya saal, nayi shuruat! 🎆"},
+    {"name": "Makar Sankranti", "date": "2027-01-14", "description": "Patang urao, til-gud khao! 🪁"},
+    {"name": "Republic Day", "date": "2027-01-26", "description": "Jai Hind! 🇮🇳"},
+    {"name": "Holi", "date": "2027-03-14", "description": "Rangon ka tyohaar! 🎨"},
+    {"name": "Eid-ul-Fitr", "date": "2027-03-30", "description": "Eid Mubarak! Ramzan ke baad khushi 🌙"},
+    {"name": "Independence Day", "date": "2026-08-15", "description": "Swatantrata Diwas 🇮🇳"}
+  ],
+  "health_tips_general": [
+    "💧 Roz 8-10 glass paani piyo",
+    "🏃 30 min daily walk/exercise karo",
+    "😴 7-8 ghante ki neend zaroor lo",
+    "🥗 Sabzi aur fruits daily khao",
+    "📱 Screen time kam karo, specially raat ko",
+    "🧘 5 min meditation ya pranayam karo daily"
+  ],
+  "greetings": {
+    "morning": "🌅 Suprabhat! Aaj ka din shubh ho!",
+    "afternoon": "☀️ Namaskar! Lunch kiya?",
+    "evening": "🌆 Shubh sandhya! Kaisa raha din?",
+    "night": "🌙 Shubh ratri! Achhi neend aaye!"
+  }
+}

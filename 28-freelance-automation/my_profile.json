@@ -1,0 +1,62 @@
+{
+  "name": "Your Name",
+  "title": "Full-Stack Developer & AI Specialist",
+  "email": "your.email@example.com",
+  "website": "https://yourportfolio.com",
+  "linkedin": "https://linkedin.com/in/yourprofile",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "FastAPI",
+    "PostgreSQL",
+    "MongoDB",
+    "AWS",
+    "Docker",
+    "Machine Learning",
+    "LLM Integration",
+    "REST APIs",
+    "GraphQL"
+  ],
+  "specializations": [
+    "AI/ML Integration",
+    "Full-Stack Web Development",
+    "API Design & Architecture",
+    "Cloud Infrastructure"
+  ],
+  "experience_years": 5,
+  "hourly_rate": 75,
+  "availability": "30 hours/week",
+  "timezone": "UTC+5:30",
+  "portfolio_highlights": [
+    {
+      "title": "AI-Powered Content Platform",
+      "description": "Built a content generation platform using GPT-4 and custom fine-tuned models",
+      "tech": ["Python", "FastAPI", "React", "PostgreSQL"],
+      "result": "Reduced content creation time by 60%"
+    },
+    {
+      "title": "E-commerce Microservices",
+      "description": "Designed and implemented microservices architecture for a marketplace",
+      "tech": ["Node.js", "Docker", "AWS", "MongoDB"],
+      "result": "Handled 10K+ concurrent users"
+    },
+    {
+      "title": "Real-time Analytics Dashboard",
+      "description": "Built a real-time analytics dashboard with streaming data processing",
+      "tech": ["React", "Python", "Apache Kafka", "ClickHouse"],
+      "result": "Sub-second query response for 1M+ events/day"
+    }
+  ],
+  "achievements": [
+    "Delivered 50+ projects with 4.9/5 average rating",
+    "Top-rated freelancer on Upwork (Top 3%)",
+    "Open source contributor with 500+ GitHub stars",
+    "Published technical articles with 100K+ reads"
+  ],
+  "languages": ["English (Native)", "Hindi (Native)"],
+  "education": "B.Tech Computer Science",
+  "certifications": ["AWS Solutions Architect", "Google Cloud Professional"]
+}

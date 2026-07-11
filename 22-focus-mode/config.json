@@ -1,0 +1,38 @@
+{
+  "blocked_apps": [
+    "Twitter",
+    "Facebook",
+    "Instagram",
+    "TikTok",
+    "Reddit",
+    "YouTube",
+    "Netflix",
+    "Slack",
+    "Discord",
+    "Telegram",
+    "WhatsApp",
+    "Messenger",
+    "Spotify"
+  ],
+  "presets": {
+    "25": "Pomodoro (25 min)",
+    "50": "Deep Work (50 min)",
+    "90": "Flow State (90 min)"
+  },
+  "break_presets": {
+    "5": "Short Break (5 min)",
+    "15": "Long Break (15 min)"
+  },
+  "goals": {
+    "daily_focus_minutes": 180,
+    "daily_sessions": 6,
+    "weekly_focus_hours": 20
+  },
+  "notifications": {
+    "sound": true,
+    "midpoint_reminder": true,
+    "session_complete": true
+  },
+  "auto_block": true,
+  "auto_suggest_break": true
+}

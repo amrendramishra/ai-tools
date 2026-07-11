@@ -1,0 +1,82 @@
+# Modelfile Template for Ollama Custom Models
+# =============================================
+# 
+# Usage:
+#   1. Copy this file and customize it
+#   2. Run: ollama create <model-name> -f <your-modelfile>
+#   3. Test: ollama run <model-name>
+#
+# Documentation: https://github.com/ollama/ollama/blob/main/docs/modelfile.md
+
+# ─── Base Model ─────────────────────────────────────────────
+# Choose your base model (must be pulled first: ollama pull <model>)
+FROM llama3.2
+
+# ─── System Prompt ──────────────────────────────────────────
+# Define the model's personality, instructions, and constraints
+SYSTEM """
+You are a helpful AI assistant. You provide clear, accurate, and concise responses.
+
+Key behaviors:
+- Be helpful and informative
+- Acknowledge when you're unsure
+- Provide examples when helpful
+- Keep responses focused and relevant
+
+You can customize this section to define any persona or behavior you want.
+"""
+
+# ─── Parameters ─────────────────────────────────────────────
+# Temperature: 0.0 (deterministic) to 2.0 (creative). Default: 0.8
+PARAMETER temperature 0.7
+
+# Top-p (nucleus sampling): 0.0 to 1.0. Lower = more focused
+PARAMETER top_p 0.9
+
+# Top-k: Number of tokens to consider. Lower = more focused
+PARAMETER top_k 40
+
+# Max tokens to generate
+PARAMETER num_predict 2048
+
+# Repeat penalty: Higher = less repetition
+PARAMETER repeat_penalty 1.1
+
+# Context window size (in tokens)
+PARAMETER num_ctx 4096
+
+# Stop sequences
+PARAMETER stop "<|eot_id|>"
+PARAMETER stop "<|end_of_turn|>"
+PARAMETER stop "</s>"
+PARAMETER stop "Human:"
+PARAMETER stop "User:"
+
+# ─── Template (Optional) ────────────────────────────────────
+# Uncomment and customize if you need a specific prompt format
+# Most models work fine with their default template
+#
+# TEMPLATE """
+# {{ if .System }}<|start_header_id|>system<|end_header_id|>
+# {{ .System }}<|eot_id|>{{ end }}
+# <|start_header_id|>user<|end_header_id|>
+# {{ .Prompt }}<|eot_id|>
+# <|start_header_id|>assistant<|end_header_id|>
+# {{ .Response }}<|eot_id|>
+# """
+
+# ─── Few-Shot Examples (Optional) ───────────────────────────
+# Add example conversations to guide behavior
+# MESSAGE user "What's 2+2?"
+# MESSAGE assistant "2 + 2 = 4"
+# MESSAGE user "Explain it simply"
+# MESSAGE assistant "If you have 2 apples and get 2 more, you have 4 apples total."
+
+# ─── License (Optional) ─────────────────────────────────────
+# LICENSE """
+# MIT License - Your custom model
+# """
+
+# ─── Adapter (Optional) ─────────────────────────────────────
+# If you have LoRA adapters from fine-tuning:
+# ADAPTER ./path/to/adapter

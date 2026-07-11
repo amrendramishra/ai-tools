@@ -1,0 +1,18 @@
+{
+  "paths_to_index": [
+    "~/Downloads/DELTA_Unzipped/",
+    "~/Downloads/Summary/",
+    "~/Downloads/DELTA_Related/"
+  ],
+  "supported_extensions": [".md", ".txt", ".json", ".py", ".java", ".xml", ".yaml", ".yml", ".properties", ".cfg", ".ini", ".html", ".css", ".js", ".ts"],
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "embedding_model": "nomic-embed-text",
+  "generation_model": "llama3.2",
+  "ollama_url": "http://localhost:11434",
+  "chroma_persist_dir": "./chroma_db",
+  "collection_name": "delta_docs",
+  "index_state_file": "./index_state.json",
+  "max_tokens_response": 2048,
+  "top_k_results": 5
+}

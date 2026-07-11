@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly Digest: {{topic}}</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; color: #333; }
+    h1 { color: #1a1a2e; border-bottom: 3px solid #4a90d9; padding-bottom: 10px; }
+    h2 { color: #4a90d9; margin-top: 30px; }
+    .header { text-align: center; padding: 20px 0; }
+    .section { margin: 20px 0; padding: 15px; background: #f8f9fa; border-radius: 8px; }
+    .highlight { border-left: 4px solid #4a90d9; padding-left: 15px; }
+    .tip { background: #fff3cd; padding: 15px; border-radius: 8px; }
+    .footer { text-align: center; color: #666; font-size: 12px; margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; }
+    a { color: #4a90d9; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>📬 Weekly Digest: {{topic}}</h1>
+    <p><em>Week of {{date}}</em></p>
+  </div>
+
+  <div class="section">
+    <h2>👋 Hello!</h2>
+    <p>{{intro}}</p>
+  </div>
+
+  <div class="section highlight">
+    <h2>🔥 Highlights</h2>
+    {{highlights}}
+  </div>
+
+  <div class="section">
+    <h2>🔍 Analysis</h2>
+    {{analysis}}
+  </div>
+
+  <div class="section">
+    <h2>🛠️ Tools & Resources</h2>
+    {{tools}}
+  </div>
+
+  <div class="tip">
+    <h2>💡 Tip of the Week</h2>
+    {{tip_of_week}}
+  </div>
+
+  <div class="section">
+    <h2>👋 Until Next Week</h2>
+    {{closing}}
+  </div>
+
+  <div class="footer">
+    <p>You received this because you subscribed to {{topic}} updates.</p>
+    <p><a href="#">Unsubscribe</a> | <a href="#">View Online</a> | <a href="#">Share</a></p>
+  </div>
+</body>
+</html>

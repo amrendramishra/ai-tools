@@ -1,0 +1,94 @@
+{
+  "trending_topics_2024": [
+    "AI Automation",
+    "Prompt Engineering",
+    "LangChain Development",
+    "AWS Cloud Practitioner",
+    "Python for Data Science",
+    "Generative AI Applications",
+    "Kubernetes & Docker",
+    "Flutter Mobile Development",
+    "Cybersecurity Fundamentals",
+    "No-Code AI Tools"
+  ],
+  "high_demand_keywords": {
+    "ai_automation": {
+      "primary": ["AI automation", "artificial intelligence automation", "automate with AI"],
+      "secondary": ["ChatGPT automation", "AI workflow", "AI tools", "machine learning automation"],
+      "long_tail": ["how to automate tasks with AI", "AI automation for beginners", "build AI agents Python"]
+    },
+    "python": {
+      "primary": ["Python programming", "learn Python", "Python course"],
+      "secondary": ["Python automation", "Python projects", "Python scripting", "Python 3"],
+      "long_tail": ["Python for beginners 2024", "Python automation scripts", "Python web scraping tutorial"]
+    },
+    "aws": {
+      "primary": ["AWS certification", "Amazon Web Services", "cloud computing"],
+      "secondary": ["AWS Lambda", "AWS DevOps", "AWS architecture", "serverless AWS"],
+      "long_tail": ["AWS solutions architect associate 2024", "deploy app to AWS", "AWS free tier projects"]
+    },
+    "youtube_growth": {
+      "primary": ["YouTube growth", "YouTube channel", "YouTube SEO"],
+      "secondary": ["faceless YouTube", "YouTube automation", "YouTube algorithm", "video SEO"],
+      "long_tail": ["grow YouTube channel fast 2024", "faceless YouTube channel ideas", "YouTube automation tools"]
+    },
+    "android": {
+      "primary": ["Android development", "Kotlin Android", "mobile app development"],
+      "secondary": ["Jetpack Compose", "Android Studio", "Android apps", "mobile development"],
+      "long_tail": ["Android app development for beginners", "Kotlin Jetpack Compose tutorial", "build Android app from scratch"]
+    }
+  },
+  "pricing_strategy": {
+    "free_tier": {
+      "duration_hours": "0-1",
+      "purpose": "Lead magnet, funnel entry",
+      "price": 0
+    },
+    "low_tier": {
+      "duration_hours": "1-4",
+      "purpose": "Quick wins, intro courses",
+      "price_range_usd": [9.99, 19.99]
+    },
+    "mid_tier": {
+      "duration_hours": "4-10",
+      "purpose": "Standard comprehensive courses",
+      "price_range_usd": [19.99, 49.99]
+    },
+    "premium_tier": {
+      "duration_hours": "10+",
+      "purpose": "Masterclass, certification prep",
+      "price_range_usd": [49.99, 199.99]
+    }
+  },
+  "title_formulas": [
+    "[Topic]: The Complete [Year] Guide",
+    "[Topic] Masterclass: From Zero to Hero",
+    "Complete [Topic] Bootcamp - [Outcome]",
+    "[Topic] for Beginners: [Promise] in [Timeframe]",
+    "The Ultimate [Topic] Course: [Number] Projects"
+  ],
+  "description_best_practices": {
+    "first_line": "Hook with pain point or outcome promise",
+    "structure": ["Bold outcome statement", "Who this is for", "What you'll build", "Curriculum highlights", "Instructor credibility", "Guarantee/CTA"],
+    "word_count_min": 500,
+    "use_html": true,
+    "include_emojis": false,
+    "bullet_points_min": 8
+  },
+  "optimal_course_structure": {
+    "sections": "8-15",
+    "lectures_per_section": "3-7",
+    "lecture_duration_minutes": "5-15",
+    "total_duration_hours": "6-20",
+    "include_quizzes": true,
+    "include_assignments": true,
+    "include_resources": true
+  },
+  "competition_analysis_niches": {
+    "ai_automation": {"courses_count": "500+", "avg_rating": 4.3, "avg_students": 5000, "saturation": "medium"},
+    "python": {"courses_count": "5000+", "avg_rating": 4.4, "avg_students": 50000, "saturation": "high"},
+    "aws": {"courses_count": "3000+", "avg_rating": 4.5, "avg_students": 30000, "saturation": "high"},
+    "youtube_growth": {"courses_count": "200+", "avg_rating": 4.2, "avg_students": 3000, "saturation": "low"},
+    "android": {"courses_count": "2000+", "avg_rating": 4.3, "avg_students": 20000, "saturation": "medium"}
+  }
+}

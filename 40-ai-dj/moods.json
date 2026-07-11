@@ -1,0 +1,112 @@
+{
+  "moods": {
+    "happy": {
+      "description": "Upbeat and joyful music to lift your spirits",
+      "genres": ["pop", "bollywood", "dance", "funk"],
+      "bpm_range": [110, 140],
+      "energy_level": 0.8,
+      "valence": 0.9,
+      "keywords": ["upbeat", "joyful", "cheerful", "bright", "sunny"],
+      "instruments": ["guitar", "piano", "drums", "synth"],
+      "examples": ["Happy - Pharrell", "Don't Stop Me Now - Queen", "Gallan Goodiyaan"]
+    },
+    "focus": {
+      "description": "Concentration-enhancing music without distracting lyrics",
+      "genres": ["lofi", "ambient", "classical", "electronic"],
+      "bpm_range": [60, 90],
+      "energy_level": 0.3,
+      "valence": 0.5,
+      "keywords": ["instrumental", "minimal", "steady", "calm", "focused"],
+      "instruments": ["piano", "synth", "strings", "ambient pads"],
+      "examples": ["Lofi Hip Hop Radio", "Brain Food Playlist", "Classical Focus"]
+    },
+    "chill": {
+      "description": "Relaxed vibes for unwinding",
+      "genres": ["lofi", "indie", "jazz", "acoustic", "bollywood"],
+      "bpm_range": [70, 100],
+      "energy_level": 0.4,
+      "valence": 0.6,
+      "keywords": ["relaxed", "mellow", "smooth", "easy", "laid-back"],
+      "instruments": ["acoustic guitar", "piano", "saxophone", "soft drums"],
+      "examples": ["Tum Hi Ho", "Chill Vibes", "Sunday Morning Jazz"]
+    },
+    "energetic": {
+      "description": "High-energy music for workouts and motivation",
+      "genres": ["hip-hop", "edm", "rock", "pop", "bollywood"],
+      "bpm_range": [128, 160],
+      "energy_level": 0.95,
+      "valence": 0.8,
+      "keywords": ["powerful", "intense", "driving", "pumping", "explosive"],
+      "instruments": ["heavy drums", "bass", "electric guitar", "synth"],
+      "examples": ["Zinda", "Lose Yourself - Eminem", "Levels - Avicii"]
+    },
+    "sad": {
+      "description": "Melancholic music for emotional moments",
+      "genres": ["indie", "acoustic", "classical", "bollywood"],
+      "bpm_range": [50, 80],
+      "energy_level": 0.2,
+      "valence": 0.2,
+      "keywords": ["melancholic", "emotional", "heartfelt", "somber", "reflective"],
+      "instruments": ["piano", "violin", "acoustic guitar", "cello"],
+      "examples": ["Channa Mereya", "Someone Like You - Adele", "Tujhe Kitna Chahne Lage"]
+    },
+    "romantic": {
+      "description": "Love songs and romantic melodies",
+      "genres": ["bollywood", "pop", "r&b", "jazz", "classical"],
+      "bpm_range": [60, 100],
+      "energy_level": 0.4,
+      "valence": 0.7,
+      "keywords": ["love", "romantic", "intimate", "tender", "passionate"],
+      "instruments": ["piano", "strings", "acoustic guitar", "flute"],
+      "examples": ["Tum Se Hi", "Perfect - Ed Sheeran", "Raabta"]
+    },
+    "party": {
+      "description": "Dance floor bangers and party anthems",
+      "genres": ["edm", "bollywood", "hip-hop", "pop", "dance"],
+      "bpm_range": [120, 150],
+      "energy_level": 1.0,
+      "valence": 0.95,
+      "keywords": ["dance", "party", "celebration", "bass", "club"],
+      "instruments": ["synth", "bass", "drums", "electronic"],
+      "examples": ["Badtameez Dil", "Uptown Funk", "Lungi Dance"]
+    }
+  },
+  "genres": {
+    "lofi": {
+      "description": "Lo-fi hip hop beats for studying/relaxing",
+      "typical_bpm": [70, 90],
+      "mood_affinity": ["focus", "chill", "sad"]
+    },
+    "bollywood": {
+      "description": "Hindi film music across all moods",
+      "typical_bpm": [80, 140],
+      "mood_affinity": ["happy", "romantic", "sad", "party", "energetic"]
+    },
+    "pop": {
+      "description": "Popular mainstream music",
+      "typical_bpm": [100, 130],
+      "mood_affinity": ["happy", "energetic", "party"]
+    },
+    "classical": {
+      "description": "Western and Indian classical music",
+      "typical_bpm": [40, 120],
+      "mood_affinity": ["focus", "sad", "romantic", "chill"]
+    },
+    "hip-hop": {
+      "description": "Rap and hip-hop beats",
+      "typical_bpm": [80, 115],
+      "mood_affinity": ["energetic", "party", "chill"]
+    },
+    "ambient": {
+      "description": "Atmospheric and spacious soundscapes",
+      "typical_bpm": [50, 80],
+      "mood_affinity": ["focus", "chill", "sad"]
+    }
+  },
+  "time_moods": {
+    "morning": {"hours": [6, 9], "moods": ["energetic", "happy"], "description": "Energetic/motivational start"},
+    "work": {"hours": [9, 17], "moods": ["focus", "chill"], "description": "Focus/lofi/ambient for productivity"},
+    "evening": {"hours": [17, 21], "moods": ["chill", "happy", "romantic"], "description": "Chill/bollywood wind-down"},
+    "night": {"hours": [21, 6], "moods": ["chill", "sad"], "description": "Calm/sleep music"}
+  }
+}

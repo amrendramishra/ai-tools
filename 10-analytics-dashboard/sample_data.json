@@ -1,0 +1,132 @@
+{
+  "period": "last_90_days",
+  "generated_at": "2025-07-10T10:00:00",
+  "channels": {
+    "Tech Tutorials": {
+      "name": "Tech Tutorials",
+      "niche": "technology",
+      "subscribers": 45000,
+      "subscriber_growth_90d": 3200,
+      "total_views_90d": 285000,
+      "avg_ctr": 7.8,
+      "videos_published_90d": 15,
+      "videos": [
+        {"title": "Top 10 VS Code Extensions 2025", "date": "2025-07-01", "posting_hour": 17, "views": 32000, "likes": 1800, "comments": 245, "ctr": 9.2, "watch_time_hours": 1850, "retention_rate_pct": 52.3},
+        {"title": "Linux vs Windows for Developers", "date": "2025-06-25", "posting_hour": 19, "views": 28000, "likes": 1500, "comments": 380, "ctr": 8.5, "watch_time_hours": 1600, "retention_rate_pct": 48.1},
+        {"title": "AI Tools That Changed My Workflow", "date": "2025-06-18", "posting_hour": 20, "views": 24000, "likes": 1400, "comments": 190, "ctr": 8.1, "watch_time_hours": 1400, "retention_rate_pct": 45.5}
+      ]
+    },
+    "Gyaan in 5": {
+      "name": "Gyaan in 5",
+      "niche": "education",
+      "subscribers": 120000,
+      "subscriber_growth_90d": 8500,
+      "total_views_90d": 650000,
+      "avg_ctr": 8.5,
+      "videos_published_90d": 18,
+      "videos": [
+        {"title": "Learn DSA in 5 Minutes", "date": "2025-07-05", "posting_hour": 9, "views": 55000, "likes": 4200, "comments": 520, "ctr": 10.2, "watch_time_hours": 3200, "retention_rate_pct": 58.0},
+        {"title": "System Design Explained Simply", "date": "2025-06-28", "posting_hour": 12, "views": 48000, "likes": 3800, "comments": 410, "ctr": 9.5, "watch_time_hours": 2900, "retention_rate_pct": 55.2},
+        {"title": "What is API? Complete Guide", "date": "2025-06-20", "posting_hour": 15, "views": 42000, "likes": 3200, "comments": 350, "ctr": 8.8, "watch_time_hours": 2500, "retention_rate_pct": 50.1}
+      ]
+    },
+    "Gaming Pulse": {
+      "name": "Gaming Pulse",
+      "niche": "gaming",
+      "subscribers": 85000,
+      "subscriber_growth_90d": 5800,
+      "total_views_90d": 520000,
+      "avg_ctr": 7.2,
+      "videos_published_90d": 22,
+      "videos": [
+        {"title": "GTA 6 First Impressions", "date": "2025-07-03", "posting_hour": 20, "views": 68000, "likes": 5500, "comments": 890, "ctr": 11.5, "watch_time_hours": 4200, "retention_rate_pct": 42.0},
+        {"title": "Top FPS Games 2025", "date": "2025-06-22", "posting_hour": 21, "views": 35000, "likes": 2800, "comments": 420, "ctr": 7.8, "watch_time_hours": 2100, "retention_rate_pct": 38.5},
+        {"title": "Building the Ultimate Gaming PC", "date": "2025-06-15", "posting_hour": 19, "views": 31000, "likes": 2400, "comments": 380, "ctr": 7.2, "watch_time_hours": 1900, "retention_rate_pct": 40.2}
+      ]
+    },
+    "Fitness First": {
+      "name": "Fitness First",
+      "niche": "fitness",
+      "subscribers": 32000,
+      "subscriber_growth_90d": 2100,
+      "total_views_90d": 145000,
+      "avg_ctr": 6.5,
+      "videos_published_90d": 14,
+      "videos": [
+        {"title": "30 Min Home Workout No Equipment", "date": "2025-07-02", "posting_hour": 6, "views": 18000, "likes": 1200, "comments": 150, "ctr": 7.8, "watch_time_hours": 1100, "retention_rate_pct": 55.0},
+        {"title": "Best Protein Sources Ranked", "date": "2025-06-24", "posting_hour": 9, "views": 14000, "likes": 900, "comments": 120, "ctr": 6.5, "watch_time_hours": 850, "retention_rate_pct": 48.3},
+        {"title": "Common Gym Mistakes Beginners Make", "date": "2025-06-17", "posting_hour": 17, "views": 12000, "likes": 780, "comments": 95, "ctr": 6.2, "watch_time_hours": 720, "retention_rate_pct": 45.1}
+      ]
+    },
+    "Cook with Dev": {
+      "name": "Cook with Dev",
+      "niche": "cooking",
+      "subscribers": 67000,
+      "subscriber_growth_90d": 4200,
+      "total_views_90d": 380000,
+      "avg_ctr": 8.1,
+      "videos_published_90d": 16,
+      "videos": [
+        {"title": "Restaurant Style Biryani at Home", "date": "2025-07-04", "posting_hour": 12, "views": 42000, "likes": 3500, "comments": 620, "ctr": 9.8, "watch_time_hours": 2600, "retention_rate_pct": 52.0},
+        {"title": "5 Minute Breakfast Ideas", "date": "2025-06-27", "posting_hour": 7, "views": 35000, "likes": 2800, "comments": 450, "ctr": 8.5, "watch_time_hours": 2100, "retention_rate_pct": 48.5},
+        {"title": "Street Food Recipes You Can Make at Home", "date": "2025-06-19", "posting_hour": 15, "views": 30000, "likes": 2400, "comments": 380, "ctr": 7.9, "watch_time_hours": 1800, "retention_rate_pct": 46.2}
+      ]
+    },
+    "Code & Coffee": {
+      "name": "Code & Coffee",
+      "niche": "programming",
+      "subscribers": 28000,
+      "subscriber_growth_90d": 1800,
+      "total_views_90d": 125000,
+      "avg_ctr": 7.0,
+      "videos_published_90d": 12,
+      "videos": [
+        {"title": "Build a REST API from Scratch", "date": "2025-07-01", "posting_hour": 19, "views": 15000, "likes": 980, "comments": 145, "ctr": 7.8, "watch_time_hours": 920, "retention_rate_pct": 50.0},
+        {"title": "Clean Code Principles Every Dev Needs", "date": "2025-06-23", "posting_hour": 20, "views": 13000, "likes": 850, "comments": 120, "ctr": 7.2, "watch_time_hours": 780, "retention_rate_pct": 47.5},
+        {"title": "React vs Next.js in 2025", "date": "2025-06-16", "posting_hour": 17, "views": 11500, "likes": 720, "comments": 180, "ctr": 6.8, "watch_time_hours": 680, "retention_rate_pct": 44.0}
+      ]
+    },
+    "Daily Vlog Life": {
+      "name": "Daily Vlog Life",
+      "niche": "vlogging",
+      "subscribers": 95000,
+      "subscriber_growth_90d": 6200,
+      "total_views_90d": 480000,
+      "avg_ctr": 6.8,
+      "videos_published_90d": 25,
+      "videos": [
+        {"title": "YouTube Income Revealed - How Much I Make", "date": "2025-07-06", "posting_hour": 17, "views": 52000, "likes": 4100, "comments": 720, "ctr": 11.2, "watch_time_hours": 3100, "retention_rate_pct": 42.0},
+        {"title": "Day in My Life as a Full-Time Creator", "date": "2025-06-29", "posting_hour": 12, "views": 28000, "likes": 2200, "comments": 350, "ctr": 7.5, "watch_time_hours": 1700, "retention_rate_pct": 38.5},
+        {"title": "Room Tour 2025 - Creator Setup", "date": "2025-06-21", "posting_hour": 15, "views": 24000, "likes": 1900, "comments": 280, "ctr": 6.8, "watch_time_hours": 1400, "retention_rate_pct": 36.0}
+      ]
+    },
+    "Finance Guru": {
+      "name": "Finance Guru",
+      "niche": "finance",
+      "subscribers": 52000,
+      "subscriber_growth_90d": 3500,
+      "total_views_90d": 290000,
+      "avg_ctr": 7.5,
+      "videos_published_90d": 13,
+      "videos": [
+        {"title": "Invest 101 - Complete Beginner Guide", "date": "2025-07-02", "posting_hour": 9, "views": 32000, "likes": 2100, "comments": 310, "ctr": 8.5, "watch_time_hours": 1950, "retention_rate_pct": 52.5},
+        {"title": "SIP vs Lump Sum - What Data Says", "date": "2025-06-25", "posting_hour": 12, "views": 28000, "likes": 1800, "comments": 270, "ctr": 7.8, "watch_time_hours": 1700, "retention_rate_pct": 49.0},
+        {"title": "Tax Saving Tips Before Year End", "date": "2025-06-18", "posting_hour": 15, "views": 25000, "likes": 1600, "comments": 220, "ctr": 7.2, "watch_time_hours": 1500, "retention_rate_pct": 46.5}
+      ]
+    },
+    "Music Vibes": {
+      "name": "Music Vibes",
+      "niche": "music",
+      "subscribers": 41000,
+      "subscriber_growth_90d": 2800,
+      "total_views_90d": 195000,
+      "avg_ctr": 6.2,
+      "videos_published_90d": 14,
+      "videos": [
+        {"title": "How I Produce a Beat from Scratch", "date": "2025-07-03", "posting_hour": 20, "views": 22000, "likes": 1800, "comments": 280, "ctr": 7.5, "watch_time_hours": 1350, "retention_rate_pct": 48.0},
+        {"title": "Top 10 Songs This Month Reaction", "date": "2025-06-26", "posting_hour": 19, "views": 18000, "likes": 1400, "comments": 220, "ctr": 6.5, "watch_time_hours": 1080, "retention_rate_pct": 42.5},
+        {"title": "Studio Tour - My Home Setup", "date": "2025-06-19", "posting_hour": 17, "views": 15000, "likes": 1200, "comments": 180, "ctr": 5.8, "watch_time_hours": 900, "retention_rate_pct": 40.0}
+      ]
+    }
+  }
+}

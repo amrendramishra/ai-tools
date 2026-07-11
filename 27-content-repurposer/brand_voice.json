@@ -1,0 +1,19 @@
+{
+  "brand_name": "Your Brand",
+  "tone": "professional yet approachable",
+  "personality_traits": ["innovative", "helpful", "clear", "authentic"],
+  "vocabulary_preferences": {
+    "use": ["empower", "streamline", "innovative", "seamless"],
+    "avoid": ["synergy", "disrupt", "leverage", "paradigm"]
+  },
+  "audience": "Tech-savvy professionals aged 25-45",
+  "writing_style": {
+    "sentence_length": "Mix of short punchy and longer explanatory",
+    "formality": "Business casual",
+    "humor": "Occasional light humor, never sarcastic",
+    "emoji_usage": "Minimal, only on social media"
+  },
+  "hashtag_style": ["branded", "industry-relevant", "max 5 per post"],
+  "call_to_action_style": "Clear and direct, never pushy",
+  "content_pillars": ["Education", "Inspiration", "Behind-the-scenes", "Community"]
+}

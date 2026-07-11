@@ -1,0 +1,47 @@
+{
+  "tech-facts": {
+    "voice": "Daniel",
+    "rate": 190,
+    "pitch": "default",
+    "niche": "technology facts and AI news",
+    "tone": "informative, slightly dramatic",
+    "language": "english",
+    "description": "Tech facts and AI explainer channel"
+  },
+  "motivation-daily": {
+    "voice": "Samantha",
+    "rate": 160,
+    "pitch": "default",
+    "niche": "motivation and self-improvement",
+    "tone": "calm, inspiring, powerful",
+    "language": "english",
+    "description": "Daily motivation and mindset channel"
+  },
+  "science-shorts": {
+    "voice": "Alex",
+    "rate": 200,
+    "pitch": "default",
+    "niche": "science facts and space exploration",
+    "tone": "energetic, curious, mind-blowing",
+    "language": "english",
+    "description": "Quick science facts and space content"
+  },
+  "money-mindset": {
+    "voice": "Daniel",
+    "rate": 175,
+    "pitch": "default",
+    "niche": "personal finance and wealth building",
+    "tone": "authoritative, practical, no-nonsense",
+    "language": "english",
+    "description": "Finance tips and money psychology"
+  },
+  "gyaan-in-5": {
+    "voice": "Rishi",
+    "rate": 170,
+    "pitch": "default",
+    "niche": "technology tutorials in Hindi",
+    "tone": "friendly, educational, relatable",
+    "language": "hindi",
+    "description": "Hindi tech education channel"
+  }
+}

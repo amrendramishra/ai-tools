@@ -1,0 +1,22 @@
+# Secrets & Config
+.env
+*.env
+memory.db
+clipboard.db
+*.db
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+output/
+captures/
+trends/
+reports/
+chroma_db/
+*.aiff
+*.wav
+gateway.log
+moves.log
+
+# macOS
+.DS_Store

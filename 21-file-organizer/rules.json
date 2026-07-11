@@ -1,0 +1,42 @@
+{
+  "categories": {
+    "Documents": [".doc", ".docx", ".txt", ".rtf", ".odt", ".pages", ".tex", ".md", ".epub", ".mobi"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".tiff", ".tif", ".ico", ".heic", ".heif", ".raw", ".cr2", ".nef"],
+    "Videos": [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm", ".m4v", ".3gp", ".mpg", ".mpeg"],
+    "Audio": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".wma", ".m4a", ".aiff", ".alac", ".opus"],
+    "Code": [".py", ".js", ".ts", ".jsx", ".tsx", ".java", ".c", ".cpp", ".h", ".hpp", ".go", ".rs", ".rb", ".php", ".swift", ".kt", ".scala", ".sh", ".bash", ".zsh", ".html", ".css", ".scss", ".sass", ".less", ".json", ".xml", ".yaml", ".yml", ".toml", ".ini", ".cfg", ".conf", ".sql", ".r", ".m", ".lua", ".dart", ".vue", ".svelte"],
+    "Archives": [".zip", ".tar", ".gz", ".bz2", ".7z", ".rar", ".xz", ".tgz", ".tar.gz", ".tar.bz2", ".dmg", ".iso"],
+    "Spreadsheets": [".xls", ".xlsx", ".csv", ".ods", ".numbers", ".tsv"],
+    "Presentations": [".ppt", ".pptx", ".key", ".odp"],
+    "PDFs": [".pdf"],
+    "Other": []
+  },
+  "ai_classification": {
+    "enabled": true,
+    "read_content_extensions": [".txt", ".md", ".py", ".js", ".ts", ".html", ".css", ".json", ".csv", ".xml", ".yaml", ".yml", ".sh", ".log", ".rtf", ".tex"],
+    "max_content_length": 2000
+  },
+  "smart_topics": {
+    "description": "When --smart is used, AI categorizes files by topic instead of type",
+    "example_topics": [
+      "Finance",
+      "Health",
+      "Work",
+      "Personal",
+      "Education",
+      "Travel",
+      "Recipes",
+      "Projects",
+      "Research",
+      "Notes",
+      "Legal",
+      "Shopping"
+    ]
+  },
+  "ignore_patterns": [
+    ".*",
+    "Thumbs.db",
+    ".DS_Store",
+    "desktop.ini"
+  ]
+}
