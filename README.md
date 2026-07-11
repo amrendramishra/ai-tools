@@ -173,8 +173,8 @@ vc --continuous       # Always listening ("Hey Jarvis")
 
 **Amrendra Narayan Mishra** — Software Engineer, AI Automation Enthusiast
 
-- 🌐 [Portfolio](https://amrendramishra.github.io)
-- 💼 [GitHub](https://github.com/amrendramishra)
+- 🌐 [Portfolio](https://amrendranmishra.dev)
+- 💼 [GitHub Profile](https://github.com/amrendramishra)
 - 📺 9 YouTube channels (fully automated, ₹0/month)
 
 ---
