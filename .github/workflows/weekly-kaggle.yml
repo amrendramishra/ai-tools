@@ -1,0 +1,33 @@
+name: Weekly Kaggle Notebook Publisher
+
+on:
+  schedule:
+    # Runs every Sunday at 12:30 AM UTC (6:00 AM IST)
+    - cron: '30 0 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  publish-notebook:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Publish to Kaggle
+        env:
+          KAGGLE_TOKEN: ${{ secrets.KAGGLE_TOKEN }}
+        run: python scripts/kaggle_publish.py
+
+      - name: Log result
+        run: |
+          echo "✅ Kaggle notebook published at $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "Week number: $(date +%V)"
