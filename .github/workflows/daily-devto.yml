@@ -1,0 +1,19 @@
+name: Daily Dev.to Article
+on:
+  schedule:
+    - cron: "0 1 * * *"  # 6:30 AM IST daily
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Publish article
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: python scripts/devto_publish.py
+
