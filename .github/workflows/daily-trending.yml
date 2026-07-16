@@ -1,0 +1,45 @@
+name: Daily Trending Research
+
+on:
+  schedule:
+    # 3:30 AM IST = 10:00 PM UTC (previous day)
+    - cron: '0 22 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  research-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run trending research
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python scripts/trending_research.py
+
+      - name: Upload trends as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: trending-results-${{ github.run_number }}
+          path: trends/
+          retention-days: 30
+
+      - name: Commit results to repo
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add trends/
+          git diff --staged --quiet || git commit -m "📈 Daily trending research - $(date +'%Y-%m-%d')"
+          git push
