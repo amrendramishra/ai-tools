@@ -1,0 +1,48 @@
+name: Notification Dispatcher
+
+on:
+  workflow_run:
+    workflows:
+      - "Daily Trending Research"
+      - "Daily Content Ideas Generator"
+      - "Weekly Newsletter Generator"
+      - "Daily Repos Backup Summary"
+    types:
+      - completed
+  workflow_dispatch:
+    inputs:
+      message:
+        description: 'Custom notification message'
+        required: false
+        default: 'Manual notification triggered'
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Send notification
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WORKFLOW_NAME: ${{ github.event.workflow_run.name || 'Manual' }}
+          WORKFLOW_STATUS: ${{ github.event.workflow_run.conclusion || 'triggered' }}
+          WORKFLOW_URL: ${{ github.event.workflow_run.html_url || github.server_url }}
+          CUSTOM_MESSAGE: ${{ github.event.inputs.message || '' }}
+          REPO_NAME: ${{ github.repository }}
+        run: python scripts/notify.py
