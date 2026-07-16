@@ -1,0 +1,45 @@
+name: Weekly Newsletter Generator
+
+on:
+  schedule:
+    # Monday 5:00 AM IST = Sunday 11:30 PM UTC
+    - cron: '30 23 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate newsletter
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python scripts/newsletter_generator.py
+
+      - name: Upload newsletter as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-${{ github.run_number }}
+          path: newsletters/
+          retention-days: 90
+
+      - name: Commit newsletter to repo
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add newsletters/
+          git diff --staged --quiet || git commit -m "📰 Weekly newsletter - $(date +'%Y-%m-%d')"
+          git push
