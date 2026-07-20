@@ -8,15 +8,13 @@ __pycache__/
 *.pyc
 .venv/
 node_modules/
-output/
-captures/
-trends/
-reports/
 chroma_db/
 *.aiff
 *.wav
 gateway.log
 moves.log
+captures/
 
 # macOS
 .DS_Store
+
