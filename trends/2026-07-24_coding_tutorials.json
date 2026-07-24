@@ -1,0 +1,115 @@
+{
+  "niche_id": "coding_tutorials",
+  "niche_name": "Coding Tutorials",
+  "timestamp": "2026-07-24T22:56:25.824096",
+  "searches": [
+    {
+      "query": "trending programming languages 2025",
+      "answer": "Python, Java, and JavaScript remain dominant in 2025, with Rust and Go rising in popularity for systems programming and cloud infrastructure.",
+      "results": [
+        {
+          "title": "Top Programming Languages to Learn in 2025 | Pluralsight",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
+          "content": "Shift 2026: Get early bird pricing until\n\nJuly 31 for our annual customer event.\n\n# Top 10 programming languages for 2025\n\nPython continues its multi-year domination, Java and JavaScript remain strong, while Rust and Swift are slowly increasing in year-over-year popularity.\n\nAdam Ipsen\n\nBy Adam Ipsen\n\nNov 7, 2024 \u2022 6 Minute Read\n\nPlease set an alt value for this image... [...] ## #1 - Python\n\nIt was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s",
+          "score": 0.9039154
+        },
+        {
+          "title": "Top Programming Languages to Learn in 2025 (and Beyond)",
+          "url": "https://careerhub.ufl.edu/blog/2025/10/13/top-programming-languages-to-learn-in-2025-and-beyond",
+          "content": "Python continues to dominate AI and data science, with over 108,000 job openings.\n JavaScript is used by 62% of developers\u2014essential for web development.\n Swift and Kotlin are must-learns for mobile app development.\n Rust and Go are rising fast, especially for cloud infrastructure and systems programming.\n AI-powered tools are changing how developers work\u2014making adaptability and problem-solving more important than ever. [...] Looking ahead to 2026, these trends are expected to accelerate, with R",
+          "score": 0.8991304
+        },
+        {
+          "title": "TIOBE Index - TIOBE",
+          "url": "https://www.tiobe.com/tiobe-index",
+          "content": "| Jul 2026 | Jul 2025 | Change | Programming Language | Ratings | Change |\n ---  ---  --- |\n| 1 | 1 | Python | 18.94% | -8.03% |\n| 2 | 3 | C | 10.86% | +1.22% |\n| 3 | 2 | C++ | 9.12% | -0.68% |\n| 4 | 4 | Java | 8.03% | -0.73% |\n| 5 | 5 | C# | 4.49% | -0.38% |\n| 6 | 6 | JavaScript | 2.72% | -0.63% |\n| 7 | 8 | Visual Basic | 2.48% | +0.54% |\n| 8 | 13 | SQL | 1.71% | +0.32% |\n| 9 | 15 | R | 1.69% | +0.44% |\n| 10 | 18 | Rust | 1.34% | +0.33% |\n| 11 | 10 | Delphi/Object Pascal | 1.29% | -0.48% |",
+          "score": 0.89030397
+        },
+        {
+          "title": "The Top Programming Languages 2025",
+          "url": "https://spectrum.ieee.org/top-programming-languages-2025",
+          "content": "In the \u201cSpectrum\u201d default ranking, which is weighted with the interests of IEEE members in mind, we see that once again Python has the top spot, with the biggest change in the top five being JavaScript\u2019s drop from third place last year to sixth place this year. As JavaScript is often used to create web pages, and vibe coding is often used to create websites, this drop in the apparent popularity may be due to the effects of AI that we\u2019ll dig into in a moment. But first to finish up with this [...",
+          "score": 0.8849276
+        },
+        {
+          "title": "Top 10 Programming Languages to Learn in 2025 | ULaw",
+          "url": "https://www.law.ac.uk/resources/blog/top-programming-languages-to-learn",
+          "content": "Kotlin is one such language, rapidly gaining popularity for Android app development. One of its biggest selling points is its compatibility with Java, meaning users can integrate Java code into Kotlin quickly and easily. With companies like Netflix using Kotlin to build their apps, it makes sense to add this to your list of programming skills for the future.\n\n## Swift [...] The PYPL PopularitY of Programming Language Index ranks Python as the language with the biggest market share and it appears",
+          "score": 0.8548001
+        }
+      ]
+    },
+    {
+      "query": "most popular coding tutorials beginners",
+      "answer": "Popular coding tutorials for beginners include YouTube channels like Traversy Media and The Coding Train, and free resources like CS50 and Coursera. These provide structured lessons and practical examples.",
+      "results": [
+        {
+          "title": "Top Coding Tutorials On YouTube For Beginners",
+          "url": "https://dl.iir.edu.ua/iir-news/top-coding-tutorials-on-youtube-for-beginners-1767646610",
+          "content": "# Top Coding Tutorials On YouTube For Beginners. Featured image for Top Coding Tutorials On YouTube For Beginners. Are you looking to dive into the world of coding but don\u2019t know where to start? YouTube is a fantastic resource for learning to code, offering a plethora of channels with high-quality tutorials. Let\u2019s explore some of the **best coding tutorials on YouTube** that are perfect for beginners. These channels provide structured lessons, practical examples, and helpful tips to get you star",
+          "score": 0.73596483
+        },
+        {
+          "title": "How to code in 30min - FOR ABSOLUTE BEGINNERS",
+          "url": "https://www.youtube.com/watch?v=p8Za5MtyVdg",
+          "content": "How to code in 30min - FOR ABSOLUTE BEGINNERS\nLearnCode.academy\n772000 subscribers\n1101 likes\n67318 views\n7 Mar 2022\nLearn coding fundamentals in mere minutes! This video will teach you about the three main components that nearly all computer programming shares: variables, flow control (a.k.a. control flow), and functions.  And we'll do it in Javascript - the world's most popular programming language.\n\nThis Javascript tutorial will combine es6 variables, flow control statements, and functions to",
+          "score": 0.666736
+        },
+        {
+          "title": "The best coding tutorials on YouTube",
+          "url": "https://learncode.video/article/The_best_coding_tutorials_on_YouTube.html",
+          "content": "Top 10 coding blogs to follow for inspiration The benefits of learning code through video tutorials Top 10 coding bootcamps to jumpstart your career essential coding skills every developer should have How to Code a Website from Scratch Debugging Tips and Tricks for Programmers The best coding tutorials on YouTube Top 10 coding languages to learn in 2021 Introduction to HTML and CSS How to find the right coding video for your skill level best coding tutorials for beginners on YouTube Top 10 YouTu",
+          "score": 0.64478505
+        },
+        {
+          "title": "Top 5 FREE Coding Resources for Beginners",
+          "url": "https://www.youtube.com/watch?v=tNQMS3c25mU&vl=en",
+          "content": "Top 5 FREE Coding Resources for Beginners\nInternet Made Coder\n362000 subscribers\n635 likes\n23319 views\n11 Dec 2024\n\ud83e\udd16 Get The New Notion AI - https://ntn.so/internetmadecoderAI\n\n\ud83d\udce7 Get My FREE Notion Computer Science Degree Template - https://academy.internetmadecoder.com/internet-made-club?video=tNQMS3c25mU\n\nCS50 - https://cs50.harvard.edu/x/2024/\n\nOdin Project - https://www.theodinproject.com/\n\nCoursera - https://www.coursera.org/\n\nPAID RESOURCES:\n\ud83e\udde0 Algo University - Master Data Structures & Alg",
+          "score": 0.55623144
+        },
+        {
+          "title": "Creative Coding for Beginners - Full Course!",
+          "url": "https://www.youtube.com/watch?v=4JzDttgdILQ",
+          "content": "Creative Coding for Beginners - Full Course!\nThe Coding Train\n1760000 subscribers\n9858 likes\n353396 views\n1 Oct 2023\nChoo choo! Welcome aboard to the world of creative coding! Join me in this beginner-friendly video series learning to code with Processing! https://thecodingtrain.com/tracks/learning-processing/processing \n\n\ud83d\ude80 Watch this video ad-free on Nebula! https://nebula.tv/videos/codingtrain-beginners-guide-to-creative-coding-with-processing-full-course\n\nWhether you're an absolute beginner o",
+          "score": 0.47489962
+        }
+      ]
+    },
+    {
+      "query": "new frameworks and libraries developers",
+      "answer": "In 2026, React remains a top front-end framework, while frameworks like Angular and Vue.js are also popular. Developers continue to adopt new libraries and frameworks to enhance web development efficiency. AI's role in creating new frameworks and libraries is still evolving.",
+      "results": [
+        {
+          "title": "Top Frameworks and Libraries for Front-End Development in 2025",
+          "url": "https://www.uplers.com/blog/top-frameworks-and-libraries-for-front-end-development-in-2025",
+          "content": "# Top Frameworks and Libraries for Front-End Development in 2025. Well, front-end development is the answer! Front-end development focuses on creating the visual and interactive aspects of websites and applications. In this process, frameworks and libraries are essential as they offer pre-built components. These front-end frameworks of 2024 help developers create dynamic, responsive interfaces that match the demands of contemporary users. Hence, businesses must hire front-end web developers to a",
+          "score": 0.7128128
+        },
+        {
+          "title": "TOP 10 Best Web Development Frameworks and Libraries in 2026 | Emerline",
+          "url": "https://emerline.com/blog/top-10-best-web-development-frameworks-and-libraries",
+          "content": "Home/Blog/TOP 10 Best Web Development Frameworks and Libraries in 2026. 3. TOP 10 Best Web Development Frameworks and Libraries in 2026. * Best Framework for Frontend Web Development. * Best Framework for Backend Web Development. According to Forrester\u2019s 2026 Predictions, the global push toward AI-native infrastructure has turned web architecture into the primary engine of business value. Frameworks are one of the most popular tools in web application development. Any framework is essentially a ",
+          "score": 0.63098115
+        },
+        {
+          "title": "Top 10 frameworks, libraries developers can learn in 2020",
+          "url": "https://medium.com/latesttechupdates/top-10-frameworks-and-libraries-software-developers-can-learn-in-2020-c9c80bc70a72",
+          "content": "Listed above are a few of the top frameworks and libraries that will be quite popular in 2020. Also, JavaScript, Python, and Java are considered",
+          "score": 0.6097339
+        },
+        {
+          "title": "Is AI going to slowdown the creation of new frameworks and libraries?",
+          "url": "https://www.reddit.com/r/cscareerquestions/comments/1s0xlvw/is_ai_going_to_slowdown_the_creation_of_new",
+          "content": "Is AI going to slowdown the creation of new frameworks and libraries?\nr/cscareerquestions - 52 upvotes, 26 comments\nI work in game dev and a lot of game code isn't nearly as well represented in the training set for LLMs as other areas like web dev. Because of this I haven't found LLMs nearly as useful for generating game code and I have tried experimenting with it for about the last year with only small gains. What confuses me is that if these models perform decently on tasks that are well repre",
+          "score": 0.56460327
+        },
+        {
+          "title": "10 JavaScript Frameworks And Libraries That All Newbies Should Know",
+          "url": "https://www.youtube.com/watch?v=agoOhQT9vLo",
+          "content": "10 JavaScript Frameworks And Libraries That All Newbies Should Know\nProgram With Erik\n121000 subscribers\n56 likes\n3195 views\n24 Jul 2017\nHere is my list of 10 JavaScript frameworks and libraries that every beginner should know. This was based on a guest post I did recently. I discuss Underscore and lodash, D3.js, Angular, Ember.js, Glimmer, React.js, Aurelia and Vue. I also discuss the differences between a library and a frameworks. Enjoy!\n\n\nCourse I took to learn web development! (these are aff",
+          "score": 0.523494
+        }
+      ]
+    }
+  ]
+}
