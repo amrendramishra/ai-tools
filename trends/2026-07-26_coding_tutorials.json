@@ -1,0 +1,115 @@
+{
+  "niche_id": "coding_tutorials",
+  "niche_name": "Coding Tutorials",
+  "timestamp": "2026-07-26T22:54:23.401043",
+  "searches": [
+    {
+      "query": "trending programming languages 2025",
+      "answer": "Python, JavaScript, and Java remain the most trending programming languages in 2025. Python's versatility in AI and data science continues to drive its popularity. JavaScript and TypeScript dominate web development.",
+      "results": [
+        {
+          "title": "Top Programming Languages to Learn in 2025",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
+          "content": "Every year, Pluralsight conducts a meta-study of the most popular programming languages based on the last 12 months of data, so IT professionals can figure out what\u2019s trending right now. We consult our learning platform of over 50,000 tech learners, as well as cross-checking our data with other popular industry surveys to get the best indication of what\u2019s trending. It was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s rankings and everyone else\u2019",
+          "score": 0.92176014
+        },
+        {
+          "title": "Medium",
+          "url": "https://medium.com/@codesculpturersh/most-used-programming-languages-in-2025-dd05722999d8",
+          "content": "# Most used programming languages in 2025. ## A reality check before the rankings. Most \u201ctop languages\u201d lists feel like sports leaderboards: Python vs. But that framing hides three important truths:. So instead of a sterile chart, think of 2025\u2019s most used languages as characters in the same story \u2014 each one holding a different part of the industry together. ## JavaScript & TypeScript: The web\u2019s unskippable duo. If the browser is involved, this pair is still unavoidable. ## Written by CodeSculpt",
+          "score": 0.89030397
+        },
+        {
+          "title": "Top 10 Future Programming Languages for 2026",
+          "url": "https://www.crossover.com/resources/future-programming-languages-for-2025",
+          "content": "1. Python: The Versatile Vanguard. Go emerges as a significant player in 2025, particularly in cloud infrastructure and systems programming.",
+          "score": 0.87348515
+        },
+        {
+          "title": "Most In-demand Programming Languages for 2026",
+          "url": "https://www.itransition.com/developers/in-demand-programming-languages",
+          "content": "# Top 14 most in-demand programming languages. In-demand programming languages are those usually sought out by companies and used by software developers most often. The hiring demand for a particular language is determined by metrics like the frequency of usage in projects, number of job postings, survey results, and search engine rankings. | **Python, JavaScript,** and **Java** are currently the most demanded programming languages, with 45.7% of recruiters looking to hire Python developers, 41.",
+          "score": 0.83678174
+        },
+        {
+          "title": "Top 10 Programming Languages to Learn in 2025 | ULaw",
+          "url": "https://www.law.ac.uk/resources/blog/top-programming-languages-to-learn",
+          "content": "If you\u2019re dreaming of a career in the tech industry and want to expand your knowledge of writing computer software and programs you\u2019ll likely have considered learning a programming language. Choosing which programming language to learn can be tricky, however, we think those below are some of the most popular, in demand languages for the future of technology and computer science. This is because it\u2019s one of the most versatile programming languages, often praised for its simplicity and readability",
+          "score": 0.82117355
+        }
+      ]
+    },
+    {
+      "query": "most popular coding tutorials beginners",
+      "answer": "For beginners, popular coding tutorials include \"How to code in 30min - FOR ABSOLUTE BEGINNERS\" and \"Learn How to Code - Programming for Beginners Tutorial with Python and C#\". Both are highly viewed and recommended for novices.",
+      "results": [
+        {
+          "title": "How to code in 30min - FOR ABSOLUTE BEGINNERS",
+          "url": "https://www.youtube.com/watch?v=p8Za5MtyVdg",
+          "content": "How to code in 30min - FOR ABSOLUTE BEGINNERS\nLearnCode.academy\n772000 subscribers\n1101 likes\n67318 views\n7 Mar 2022\nLearn coding fundamentals in mere minutes! This video will teach you about the three main components that nearly all computer programming shares: variables, flow control (a.k.a. control flow), and functions.  And we'll do it in Javascript - the world's most popular programming language.\n\nThis Javascript tutorial will combine es6 variables, flow control statements, and functions to",
+          "score": 0.666736
+        },
+        {
+          "title": "The best coding tutorials on YouTube",
+          "url": "https://learncode.video/article/The_best_coding_tutorials_on_YouTube.html",
+          "content": "Top 10 coding blogs to follow for inspiration The benefits of learning code through video tutorials Top 10 coding bootcamps to jumpstart your career essential coding skills every developer should have How to Code a Website from Scratch Debugging Tips and Tricks for Programmers The best coding tutorials on YouTube Top 10 coding languages to learn in 2021 Introduction to HTML and CSS How to find the right coding video for your skill level best coding tutorials for beginners on YouTube Top 10 YouTu",
+          "score": 0.64478505
+        },
+        {
+          "title": "What are some of the most fun online programming tutorials/courses that ...",
+          "url": "https://www.reddit.com/r/learnprogramming/comments/3qfna4/what_are_some_of_the_most_fun_online_programming",
+          "content": "Udacity's CS101 for the very beginners. Udacity's Intro to Machine Learning. Section captainAwesomePants with Python. Automate the Boring Stuff",
+          "score": 0.6211049
+        },
+        {
+          "title": "Top 5 FREE Coding Resources for Beginners",
+          "url": "https://www.youtube.com/watch?v=tNQMS3c25mU&vl=en",
+          "content": "Top 5 FREE Coding Resources for Beginners\nInternet Made Coder\n362000 subscribers\n635 likes\n23319 views\n11 Dec 2024\n\ud83e\udd16 Get The New Notion AI - https://ntn.so/internetmadecoderAI\n\n\ud83d\udce7 Get My FREE Notion Computer Science Degree Template - https://academy.internetmadecoder.com/internet-made-club?video=tNQMS3c25mU\n\nCS50 - https://cs50.harvard.edu/x/2024/\n\nOdin Project - https://www.theodinproject.com/\n\nCoursera - https://www.coursera.org/\n\nPAID RESOURCES:\n\ud83e\udde0 Algo University - Master Data Structures & Alg",
+          "score": 0.55623144
+        },
+        {
+          "title": "Learn How to Code - Programming for Beginners Tutorial with Python and C#",
+          "url": "https://www.youtube.com/watch?v=__izua1kKeI",
+          "content": "Learn How to Code - Programming for Beginners Tutorial with Python and C#\nfreeCodeCamp.org\n11800000 subscribers\n12035 likes\n326710 views\n23 Aug 2021\nThis course teaches you everything you need to start programming! \ud83d\udcaa\ud83d\ude24\nYou will learn the difference between Python and C# and learn coding fundamentals.\n\n\u270f\ufe0f Jabrils created this course. Check out his channel: https://www.youtube.com/c/Jabrils\n\nResources:\n\ud83d\udcbb Code: https://github.com/Jabrils/Everything-You-Need-To-Start-Programming\n\ud83d\udcc4 Matrix Quote: https",
+          "score": 0.45885846
+        }
+      ]
+    },
+    {
+      "query": "new frameworks and libraries developers",
+      "answer": "In 2026, Next.js is the leading full-stack framework for web development, favored for its integration and ease of use. React remains foundational, despite being a library, due to its extensive ecosystem. New AI-native frameworks are emerging, changing the development landscape.",
+      "results": [
+        {
+          "title": "Top 7 JavaScript Frameworks and Libraries For Web Developers - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/blogs/top-javascript-frameworks-and-libraries-for-web-developers",
+          "content": "# Top 7 JavaScript Frameworks and Libraries For Web Developers. Many developers worldwide believe that JavaScript is the number one programming language, especially in the case of web development. Thanks to the enormous variety of frameworks and libraries, making websites with JavaScript is now easier. Therefore, excellent knowledge of JavaScript frameworks is the key to being a web developer who can build fantastic websites. However, it can confuse the new developer in choosing the *****best Ja",
+          "score": 0.70214266
+        },
+        {
+          "title": "Libraries vs Frameworks: What's the Difference? | Simple Talk",
+          "url": "https://www.red-gate.com/simple-talk/development/other-development/the-difference-between-libraries-and-frameworks",
+          "content": "The concept behind frameworks and libraries is to provide reusable code that you can use to perform everyday tasks so that developers don\u2019t have to write all of the code from scratch for every project. Frameworks and libraries are designed to be modular and reusable, meaning they can be used in multiple projects without needing to rewrite the code. This can save developers a significant amount of time and effort and also help to improve the reliability and maintainability of the code. In additio",
+          "score": 0.6952351
+        },
+        {
+          "title": "JavaScript Frameworks and Libraries in Web Development",
+          "url": "https://dhtmlx.com/blog/javascript-frameworks-libraries-web-development-choose",
+          "content": "In this article, we'll consider why JavaScript frameworks and libraries are so popular among developers and how to choose them for a web",
+          "score": 0.47212428
+        },
+        {
+          "title": "JavaScript frameworks and libraries - Learn web development | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries",
+          "content": "As an aspiring front-end developer, it can be hard to work out where to begin when learning frameworks \u2014 there are so many frameworks to choose from, new ones appear all the time, they mostly work in a similar way but do some things differently, and there are some specific things to be careful about when using frameworks. We are not aiming to exhaustively teach you everything you need to know about React/ReactDOM, or Vue, or some other specific framework; the framework teams' own docs (and other",
+          "score": 0.47124818
+        },
+        {
+          "title": "Top 20 Web Development Frameworks [2026] - Software Testing and Development Company",
+          "url": "https://shiftasia.com/column/top-20-web-development-frameworks",
+          "content": "The web development landscape in 2026 is more fragmented and more exciting than ever. AI-native frameworks have emerged as a first-class category. And the rise of AI coding assistants has shifted which frameworks are easiest to work with. For technology leaders building products in Asia\u2019s high-growth markets, the stakes are high: the wrong framework choice can create technical debt, slow hiring, and complicate quality assurance. *Category: Full-stack | Language: TypeScript / JavaScript | Best Fo",
+          "score": 0.40853685
+        }
+      ]
+    }
+  ]
+}
