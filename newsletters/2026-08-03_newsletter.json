@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T01:05:11.711792",
+  "sections": [
+    {
+      "title": "\ud83e\udd16 AI & Machine Learning",
+      "summary": "This week, Google released three new Gemini AI models, including the powerful Gemini 3.6 Flash and the cybersecurity-focused Gemini 3.5 Flash Cyber. These models aim to compete with rivals in advanced AI and cybersecurity.",
+      "items": [
+        {
+          "title": "AI News: NotebookLM Folders; New Models (Kimi, Gemini, Grok); Rogue AI Models + More",
+          "url": "https://www.youtube.com/watch?v=HhF8A1MUc4c",
+          "snippet": "We got a lot of AI news to cover this week. First, we'll run through the flood of brand new models that just dropped because Kimmy K3, Grock 4.5, and two Gemini Flash models all landed within days of ",
+          "score": 0.853046
+        },
+        {
+          "title": "AI News: The Model That Has Everyone Freaked Out!",
+          "url": "https://www.youtube.com/watch?v=SguncMvE77I&vl=en-US",
+          "snippet": "a lot still myself as well. A handy little feature to be able to prompt it from my phone and get it to go do stuff on my computer. XAI released some new features this week in their photo platform. You",
+          "score": 0.8358192
+        },
+        {
+          "title": "Google Releases Three New Gemini A.I. Models",
+          "url": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+          "snippet": "Kate Conger\n\nBy Kate Conger\n\nReporting from San Francisco\n\nGoogle on Tuesday released three new artificial intelligence models, including Gemini 3.6 Flash, its most powerful, and Gemini 3.5 Flash Cybe",
+          "score": 0.8351749
+        },
+        {
+          "title": "New Models Today \u2014 AI & LLM Releases Last 24 Hours",
+          "url": "https://pricepertoken.com/news/model-releases",
+          "snippet": "TechXplore\u00b77/18/2026\u00b7[OpenAIAnthropic](\n\n## Jul 17\n\n4 items\n\n### Thinking Machines: Inkling (thinkingmachines/inkling)\n\nOpenRouter\u00b77/17/2026### China's Moonshot AI chases 'DeepSeek moment' with much-h",
+          "score": 0.81489426
+        },
+        {
+          "title": "AI Weekly: AI News \u2014 Today's Top Stories, Tracked & Ranked",
+          "url": "https://aiweekly.co",
+          "snippet": "arstechnica.com \u00b7 10h ago\n\nChina pushes open models as Global South default at UN summit\n\nsemafor.com \u00b7 51m ago\n\nTailscale: stolen key let Hugging Face attacker add 181 nodes to tailnet\n\ntailscale.com",
+          "score": 0.81418616
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcbb Software Development",
+      "summary": "Angular, React, and Vue remain popular, but SolidJS and Svelte have gained traction for performance and developer experience. Recent updates include Angular's deferrable views and React's Server Components.",
+      "items": [
+        {
+          "title": "Top Dev News \u2014 Key Software Development Updates (last 2 weeks) \u2013 Artezio",
+          "url": "https://www.artezio.com/pressroom/blog/software-development-updates",
+          "snippet": "# Top Dev News \u2014 Key Software Development Updates (last 2 weeks)\n\nHere\u2019s a concise, actionable recap of the most important software-development developments from the past two weeks. Each item explains",
+          "score": 0.6862234
+        },
+        {
+          "title": "Software Development Overview, News & Trends",
+          "url": "https://thenewstack.io/software-development",
+          "snippet": "Jul 21st 2026 11:00am, by   Oliver Wolf\n\nAmazon, Microsoft, and Google are converging on the same enterprise agent architecture \n\nJul 20th 2026 1:43pm, by   Janakiram MSV\n\nPlatform engineering's new j",
+          "score": 0.6783488
+        },
+        {
+          "title": "Developer Tech News",
+          "url": "https://www.developer-tech.com",
+          "snippet": "29th July 2026\n\n#### Build & Ship\n\n### Amazon ties DPRK hackers to axios and three other NPM attacks\n\nCybersecurity & Development\n\n30th July 2026\n\n### SleeperGem RubyGems attack evades CI to hit devel",
+          "score": 0.6296157
+        },
+        {
+          "title": "6 Top JavaScript UI Frameworks & Libraries for 2020 \u2014 SitePoint",
+          "url": "https://www.sitepoint.com/javascript-ui-frameworks",
+          "snippet": "Ember\n\nA framework for ambitious web developers.\n\nEmber.js is a productive, battle-tested JavaScript framework for building modern web applications. It includes everything you need to build rich UIs t",
+          "score": 0.60694176
+        },
+        {
+          "title": "News \u2013 DeveloperWeek",
+          "url": "https://www.developerweek.com/category/news",
+          "snippet": "### Meet the Keynote Visionaries at DeveloperWeek 2026\n\nThe stage is set, let\u2019s meet the visionaries shaping DeveloperWeek 2026! We are proud to welcome the global developer community back to the San ",
+          "score": 0.60049355
+        }
+      ]
+    },
+    {
+      "title": "\u2601\ufe0f Cloud & Infrastructure",
+      "summary": "Kubernetes v1.33 is the latest version, offering in-place pod resizing and security improvements. It supports zero downtime deployments and rolling updates. Kubernetes automates deployment and scaling for cloud-native applications.",
+      "items": [
+        {
+          "title": "Top Kubernetes Challenges Facing DevOps Teams | DEVOPSdigest",
+          "url": "https://www.devopsdigest.com/top-kubernetes-challenges-facing-devops-teams",
+          "snippet": "Prismatic Introduces Native Large Data Sync\n\nJuly 23, 2026\n\nPrismatic announced native large data sync, a set of new capabilities that enables teams to move high volumes of customer data through the s",
+          "score": 0.7845341
+        },
+        {
+          "title": "What Is the Current Kubernetes Version? (2025 Guide)",
+          "url": "https://www.plural.sh/blog/current-kubernetes-version-guide",
+          "snippet": "## What\u2019s New in Kubernetes v1.33?\n\nKubernetes v1.33 is the latest version as of writing this article. It introduces key updates focused on resource flexibility, stronger isolation, and better develop",
+          "score": 0.779339
+        },
+        {
+          "title": "AWS Vs. Google Cloud Vs. Microsoft Azure Q1 Earnings Face-Off",
+          "url": "https://www.crn.com/news/cloud/2026/aws-vs-google-cloud-vs-microsoft-azure-q1-earnings-face-off",
+          "snippet": "Microsoft\u2019s Intelligent Cloud segment grew 28 percent year over year to $34.7 billion, while Azure and other cloud services revenue climbed 39 percent.\n\nAWS posted 28 percent year\u2011over\u2011year sales grow",
+          "score": 0.77261686
+        },
+        {
+          "title": "Kubernetes Deployment Strategies for DevOps Teams | Vetted Outsource",
+          "url": "https://vettedoutsource.com/blog/kubernetes-deployment-strategies",
+          "snippet": "Canary: Best for high-risk changes that require gradual exposure and real-user validation.\n\n### 1. Rolling Update Deployment\n\nRolling Update represents the default and most common Kubernetes deploymen",
+          "score": 0.76512027
+        },
+        {
+          "title": "Google's cloud outpaces AWS, Azure in Q3 as AI battle heats up",
+          "url": "https://www.cnbc.com/2024/11/02/googles-cloud-outpaces-aws-azure-in-q3-as-ai-battle-heats-up-.html",
+          "snippet": "Google's cloud business, which includes infrastructure as well as software subscriptions, grew 35% year over year in the third quarter to $11.35 billion, accelerating from 29% in the prior period.\n\nAm",
+          "score": 0.7197191
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\ude80 Startups & Tech Industry",
+      "summary": "This week, tech giants Alphabet, Amazon, and Microsoft saw a combined value increase of nearly $1.5 trillion. Apple warned of supply constraints affecting iPhone production, causing a 7.3% drop in its shares. AI-driven memory demand surged, boosting semiconductor stocks like SK Hynix and Micron Technologies.",
+      "items": [
+        {
+          "title": "Indian Tech Startup Funding Report, H1 2026 - Inc42 Media",
+          "url": "https://inc42.com/reports/indian-tech-startup-funding-report-h1-2026",
+          "snippet": "## About The Report\n\nIndian startups secured $5.2B+ across 501 deals\u2014a 9% YoY dip. Despite geopolitical uncertainty and capital outflows, a single-digit decline highlights the resilience of domestic V",
+          "score": 0.9075175
+        },
+        {
+          "title": "Why are investors pulling back from Indian startups | Business News",
+          "url": "https://www.youtube.com/watch?v=BHKKA5NEy9E",
+          "snippet": "India's startup world is facing a funding crunch and the core of the problem is West Asia. As geopolitical tensions escalate in the region, investors are pulling back. Large deals are drying up, deplo",
+          "score": 0.89030397
+        },
+        {
+          "title": "Entrackr: Latest Startup l Technology News",
+          "url": "https://entrackr.com",
+          "snippet": "## Indian startup funding drops to $662 Mn in July after June spike\n\nBy Mukul Manchanda & Shashank Pathak\n\nlogoAug 01, 2026  16:53 ISTlogo 4 Min read\n\nweekly funding image/entrackr/media/media_files/2",
+          "score": 0.8684817
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/p/DY-IsDnDW_M",
+          "snippet": "indianstartupnews's profile picture\n\nindianstartupnews\n\nBetween May 25 and May 30, 2026, as many as 12 Indian startups from diverse sectors raised over $77 million in funding from investors.  \n  \nThes",
+          "score": 0.8622012
+        },
+        {
+          "title": "Startups in India - 2026 Latest Funding Rounds, Trends ...",
+          "url": "https://tracxn.com/d/geographies/india/__ujYf3QI9FSnpS3x-zJCSwnay2nENQhm1kAN-U8-6Kfg",
+          "snippet": "\u2022\n\nCRISIL board approves merger of its Canadian subsidiariesMergersIndia\u2022Jul 22, 2026\u2022CRISIL\n\n\u2022\n\nMyntra partners Benetton Group to bring Sisley to India; targets omnichannel expansion with stores and ",
+          "score": 0.8190992
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcf1 Products & Gadgets",
+      "summary": "The latest smartphone reviews highlight the Red Magic 11S Pro, Xiaomi 17T Pro, and Motorola Razr Fold as top models. Google's Pixel 10 series and Samsung's Galaxy S26 Ultra also receive positive reviews. The iPhone 16's design and features are trending topics.",
+      "items": [
+        {
+          "title": "Phone Reviews - Digital Trends",
+          "url": "https://www.digitaltrends.com/mobile/cell-phone-reviews",
+          "snippet": "# Phone Reviews\n\nSmartphone and mobile phone reviews on the most popular cell phones. User reviews of the most popular cell phones.\n\nRed Magic 11S Pro Review\n\n### I tried turning the Red Magic 11S Pro",
+          "score": 0.62330866
+        },
+        {
+          "title": "13 New Tech Products That Are Actually Worth It",
+          "url": "https://www.youtube.com/watch?v=JH7GmH2ofxo&vl=en",
+          "snippet": "# 13 New Tech Products That Are Actually Worth It\n## Future Tech\n693000 subscribers\n382 likes\n\n### Description\n34102 views\nPosted: 1 Jun 2025\n13 New Tech Products That Are Actually Worth It\n\n\ud83d\udd17 LINKS\nl",
+          "score": 0.59655124
+        },
+        {
+          "title": "Mobiles Reviews: Latest Mobiles Reviews Headlines, Reviews Updates - Gadgets 360",
+          "url": "https://www.gadgets360.com/mobiles/reviews",
+          "snippet": "Oppo Reno 16 First Impressions\nMotorola Edge 70 Pro+ Review: More Than an Incremental Spec Bump\nXiaomi 17T Review: Everything You Need, Nothing You Don't\nMotorola Razr Fold Review: The Best First-Gene",
+          "score": 0.5900477
+        },
+        {
+          "title": "REALLY Got $18M, Ooni Launched New Products, and More Austin Tech News | Built In Austin",
+          "url": "https://www.builtinaustin.com/articles/austin-tech-news-030623",
+          "snippet": "Written by Abel Rodriguez\n\nPublished on Mar. 06, 2023\n\nAn Ooni oven cooking a pizza.\n\nAn Ooni oven cooking a pizza.\n\nAn Ooni oven cooking a pizza. \n\nPhoto: Ooni / Facebook\n\n \n\nFrom new funding announc",
+          "score": 0.5769478
+        },
+        {
+          "title": "Ultimate Phone Gadgets for 2026!",
+          "url": "https://www.youtube.com/watch?v=co91IAtxYc0",
+          "snippet": "\ud83d\udd0b Stuffcool GigaMax 100W 25,000mAh Power Bank - \n\n\ud83d\udd0b Portronics Luxcell Mini 20,000mAh Power Bank - \n\n\ud83c\udf92 DailyObjects Travel Organizer - \n\n\ud83c\udf0d GM Travel Ease Pro Universal Travel Adapter - \n\n\ud83e\uddf0 Portronics ",
+          "score": 0.54695654
+        }
+      ]
+    },
+    {
+      "title": "\ud83c\udf93 Learning & Career",
+      "summary": "Free online courses in trending tech skills like AI, data science, and cloud computing are widely available. These courses help learners develop in-demand skills without cost. Many platforms offer free access to foundational tech courses.",
+      "items": [
+        {
+          "title": "Report: The tech job market in 2025",
+          "url": "https://ravio.com/tech-jobs-report-2025",
+          "snippet": "Administrative roles that were once essential are now experiencing significant declines as AI systems take over many menial tasks and repeatable processes. This trend extends beyond traditional admin ",
+          "score": 0.90018827
+        },
+        {
+          "title": "Job Market Trends for Tech Roles in 2025",
+          "url": "https://www.linkedin.com/top-content/workplace-trends/job-market-shifts/job-market-trends-for-tech-roles-in-2025",
+          "snippet": "#mrhotjobs\n\ud83d\udcca The IT Job Market Q1 2025: A Mixed Landscape of Challenges and Opportunities\nAfter the tech layoffs that marked 2024, we're seeing a more nuanced IT job market emerge. Here's what you nee",
+          "score": 0.89997756
+        },
+        {
+          "title": "The 6 Biggest Tech Hiring Trends of 2025 (So Far) - Pomeroy",
+          "url": "https://pomeroy.com/the-6-biggest-tech-hiring-trends-of-2025-so-far",
+          "snippet": "Facebook\n\nTwitter\n\nLinkedIn\n\nEmail\n\nAlmost halfway through 2025, a few key tech hiring trends have begun to emerge, even as economic uncertainty weighs on the hiring market. Low IT unemployment, fuele",
+          "score": 0.89501935
+        },
+        {
+          "title": "The Top 10 Most In-demand Tech Careers for 2025 | LSE Executive Education",
+          "url": "https://www.lse.ac.uk/study-at-lse/executive-education/insights/articles/the-top-10-most-in-demand-tech-careers-for-2025",
+          "snippet": "To provide an accurate and comprehensive picture of the most in-demand tech roles for 2025, we analysed data from leading reports and industry insights.\n\nThese careers are transformative and fast-pace",
+          "score": 0.88444936
+        },
+        {
+          "title": "2026 Technology job market: In-demand roles and hiring trends",
+          "url": "https://www.roberthalf.com/us/en/insights/research/data-reveals-which-technology-roles-are-in-highest-demand",
+          "snippet": "AI, ML and data science roles totaled 49,200 postings in 2025, up 163% from 2024. Security roles reached 66,800 postings, up 124% year over year. Cybersecurity engineers alone accounted for 20,000 new",
+          "score": 0.8775715
+        }
+      ]
+    }
+  ]
+}
