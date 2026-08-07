@@ -1,12 +1,18 @@
 {
   "niche_id": "coding_tutorials",
   "niche_name": "Coding Tutorials",
-  "timestamp": "2026-08-07T01:28:45.253289",
+  "timestamp": "2026-08-07T22:28:07.444351",
   "searches": [
     {
       "query": "trending programming languages 2025",
-      "answer": "Python, JavaScript, and Rust are trending programming languages for 2025. Python leads in AI and data science, while Rust's safety and performance are rising. JavaScript remains crucial for web development.",
+      "answer": "Python, JavaScript, and Rust are trending programming languages for 2025. Python leads in AI and data science, while Rust gains popularity for systems programming.",
       "results": [
+        {
+          "title": "Top Programming Languages to Learn in 2025 | Pluralsight",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
+          "content": "Shift 2026: Get early bird pricing until\n\nJuly 31 for our annual customer event.\n\n# Top 10 programming languages for 2025\n\nPython continues its multi-year domination, Java and JavaScript remain strong, while Rust and Swift are slowly increasing in year-over-year popularity.\n\nAdam Ipsen\n\nBy Adam Ipsen\n\nNov 7, 2024 \u2022 6 Minute Read\n\nPlease set an alt value for this image... [...] ## #1 - Python\n\nIt was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s",
+          "score": 0.9039154
+        },
         {
           "title": "Most In-demand Programming Languages for 2026",
           "url": "https://www.itransition.com/developers/in-demand-programming-languages",
@@ -14,16 +20,10 @@
           "score": 0.9020676
         },
         {
-          "title": "Top Programming Languages to Learn in 2025",
-          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
-          "content": "Shift 2026: Get early bird pricing until\n\nJuly 31 for our annual customer event.\n\n# Top 10 programming languages for 2025\n\nPython continues its multi-year domination, Java and JavaScript remain strong, while Rust and Swift are slowly increasing in year-over-year popularity.\n\nAdam Ipsen\n\nBy Adam Ipsen\n\nNov 7, 2024 \u2022 6 Minute Read\n\nPlease set an alt value for this image... [...] ## #1 - Python\n\nIt was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s",
-          "score": 0.90039873
-        },
-        {
-          "title": "The Top Programming Languages 2025",
-          "url": "https://spectrum.ieee.org/top-programming-languages-2025",
-          "content": "In the \u201cSpectrum\u201d default ranking, which is weighted with the interests of IEEE members in mind, we see that once again Python has the top spot, with the biggest change in the top five being JavaScript\u2019s drop from third place last year to sixth place this year. As JavaScript is often used to create web pages, and vibe coding is often used to create websites, this drop in the apparent popularity may be due to the effects of AI that we\u2019ll dig into in a moment. But first to finish up with this [...",
-          "score": 0.8846886
+          "title": "TIOBE Index",
+          "url": "https://www.tiobe.com/tiobe-index",
+          "content": "| Jul 2026 | Jul 2025 | Change | Programming Language | Ratings | Change |\n ---  ---  --- |\n| 1 | 1 | Python | 18.94% | -8.03% |\n| 2 | 3 | C | 10.86% | +1.22% |\n| 3 | 2 | C++ | 9.12% | -0.68% |\n| 4 | 4 | Java | 8.03% | -0.73% |\n| 5 | 5 | C# | 4.49% | -0.38% |\n| 6 | 6 | JavaScript | 2.72% | -0.63% |\n| 7 | 8 | Visual Basic | 2.48% | +0.54% |\n| 8 | 13 | SQL | 1.71% | +0.32% |\n| 9 | 15 | R | 1.69% | +0.44% |\n| 10 | 18 | Rust | 1.34% | +0.33% |\n| 11 | 10 | Delphi/Object Pascal | 1.29% | -0.48% |",
+          "score": 0.8941352
         },
         {
           "title": "Top Programming Languages to Learn in 2025 (and Beyond) \u2013 Career Connections Center University of Florida",
@@ -32,52 +32,52 @@
           "score": 0.87605256
         },
         {
-          "title": "Medium",
-          "url": "https://medium.com/@codesculpturersh/most-used-programming-languages-in-2025-dd05722999d8",
-          "content": "Sign up\n\nSign in\n\nSign up\n\nSign in\n\nUnknown user\n\nMember-only story\n\n# Most used programming languages in 2025\n\nCodeSculptorX\n\n--\n\n13\n\nListen\n\nShare\n\n## A reality check before the rankings\n\nMost \u201ctop languages\u201d lists feel like sports leaderboards: Python vs. Java vs. JavaScript vs. C# vs. Go vs. Rust.\n\nBut that framing hides three important truths:",
-          "score": 0.8668671
+          "title": "The Top Programming Languages 2025 - IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/top-programming-languages-2025",
+          "content": "In the \u201cSpectrum\u201d default ranking, which is weighted with the interests of IEEE members in mind, we see that once again Python has the top spot, with the biggest change in the top five being JavaScript\u2019s drop from third place last year to sixth place this year. As JavaScript is often used to create web pages, and vibe coding is often used to create websites, this drop in the apparent popularity may be due to the effects of AI that we\u2019ll dig into in a moment. But first to finish up with this [...",
+          "score": 0.8742601
         }
       ]
     },
     {
       "query": "most popular coding tutorials beginners",
-      "answer": "Codecademy, freeCodeCamp, and Coursera offer popular beginner coding tutorials. They provide interactive and project-based learning for various programming languages. Focus on foundational skills and hands-on practice.",
+      "answer": "FreeCodeCamp, Khan Academy, and YouTube channels like CodeWithHarry and CS50 are popular for beginner coding tutorials. They offer clear, structured learning paths for various programming languages.",
       "results": [
         {
-          "title": "What are the Most Effective Beginner Coding Tutorials Offered by Major Online Learning Platforms? \u2013 AlgoCademy Blog",
-          "url": "https://algocademy.com/blog/what-are-the-most-effective-beginner-coding-tutorials-offered-by-major-online-learning-platforms",
-          "content": "Where Codecademy shines is in getting complete beginners over that initial hump. If you\u2019ve never written a line of code in your life, their Python or JavaScript courses are fantastic starting points. The hand-holding is excellent. Maybe too excellent if you\u2019re trying to develop independent problem-solving skills. [...] If you\u2019re serious about building a strong foundation and actually understanding computer science rather than just copying code snippets, AlgoCademy is genuinely your best bet. The",
-          "score": 0.78572035
+          "title": "Top Coding Tutorials for Beginners",
+          "url": "https://archaicpixels.com/top-coding-tutorials-for-beginners",
+          "content": "The best coding tutorials for beginners provide clear explanations, interactive exercises, and practical projects. Platforms like FreeCodeCamp and Codecademy offer structured pathways, while The Odin Project and CS50 provide in-depth and comprehensive learning. Resources such as W3Schools, Khan Academy, and SoloLearn cater to different learning styles and preferences. Whether you want to learn web development, Python, or computer science fundamentals, these tutorials set a strong foundation for ",
+          "score": 0.90289277
         },
         {
-          "title": "How to Start Coding from Scratch (Free 2026 Guide)",
-          "url": "https://daily.dev/blog/beginners-guide-how-to-start-learning-coding-from-scratch",
-          "content": "Take an introductory coding course online. Platforms like freeCodeCamp, Codecademy, and Khan Academy offer great interactive courses for coding beginners. These teach you programming concepts without needing you to install anything on your computer.\n\n   Learn the basics. Start by getting familiar with essential terms and concepts like algorithms, variables, loops, conditionals, functions, etc. Free beginner coding books and tutorials are easily available online. [...] Codecademy: Offers free cou",
-          "score": 0.6765563
+          "title": "10 Coding Tutorials & Courses for Beginners",
+          "url": "https://authenticjobs.com/beginner-programming-skills-10-coding-tutorials",
+          "content": "*Whatever the case may be, you\u2019re in luck!* Below, you will find 10 free coding courses and tutorials. ### In this post: * 5 Free Beginner-Friendly Coding Tutorials * 5 Free Online Courses to Learn to Code ## 5 Free Beginner-Friendly Coding Tutorials Ready to take your coding skills to the next level? Keep scrolling to find 5 coding tutorials that are well-suited for beginners or as a refresher course for intermediate and advanced developers. Learn Python: Full Course for Beginners \u2013 FreeCodeCam",
+          "score": 0.85995835
         },
         {
-          "title": "Best Beginner Coding Courses & Certificates [2026] | Coursera",
-          "url": "https://www.coursera.org/courses?query=coding&productDifficultyLevel=Beginner",
-          "content": "## Popular Beginner Coding Courses and Certifications\n\n  Status: Free Trial\n\n  Free Trial\n\n  U\n\n  University of Michigan\n\n  ### Programming for Everybody (Getting Started with Python)\n\n  Skills you'll gain: Debugging, Programming Principles, Program Development, Computer Programming, Python Programming, Computational Thinking, Software Installation\n\n  4.8\n\n  Rating, 4.8 out of 5 stars\n\n  \u00b7\n\n  234K reviews\n\n  Beginner \u00b7 Course \u00b7 1 - 3 Months\n \n\n  Status: Free Trial\n\n  Free Trial\n\n  U [...] Beginn",
-          "score": 0.6636041
+          "title": "The best coding tutorials on YouTube",
+          "url": "https://learncode.video/article/The_best_coding_tutorials_on_YouTube.html",
+          "content": "CodeWithHarry is a YouTube channel run by Harry, an Indian computer science teacher. He creates easy-to-follow coding tutorials covering a variety of programming languages, including C++, Python, and Java. His tutorials are beginner-friendly, and he often includes explanations of programming concepts in Hindi language for his viewers from India.\n\nSome of the most popular videos on the channel include: [...] ## 6. CS50\n\nCS50 is a popular introductory computer science course from Harvard Universit",
+          "score": 0.7811474
         },
         {
-          "title": "The Best Programs for Learning to Code We've Tested | PCMag",
-          "url": "https://www.pcmag.com/picks/the-best-programs-for-learning-to-code",
-          "content": "The course format is worth paying attention to, as well. All you really need to code is a functional text editor, and most of these programs feature one of those. Depending on your learning style, you might appreciate the polished video tutorials from Khan Academy and LinkedIn Learning. [...] Many of these online coding schools, including Code Avengers, Codecademy, SitePoint, and Treehouse, offer curriculums that let you choose a broad topic (not unlike selecting a college major), and then acces",
-          "score": 0.51866865
+          "title": "Top Web3 Coding Tutorials For Beginners Guide - Usman Jatoi Pro",
+          "url": "https://usmanjatoi.com/web3/blockchain-excellence/top-coding-tutorials-beginners",
+          "content": "I run a community of forward-thinkers who share ideas, tools, and breakthroughs. Want in?\n\nJoin the Community\n\n## Top Web3 Coding Tutorials For Beginners Guide\n\n\ud83d\udd39 Understanding Web3\n\nLearn what Web3 is and how it changes the internet. It's all about decentralization and user control.\n\n\ud83d\udd39 Smart Contracts Basics\n\nDiscover how smart contracts work. These are self-executing contracts with the terms written in code.\n\n\ud83d\udd39 Blockchain Fundamentals [...] You can find Web3 coding tutorials on various online ",
+          "score": 0.6989468
         },
         {
-          "title": "Learn How to Code - Programming for Beginners Tutorial with Python and C#",
-          "url": "https://www.youtube.com/watch?v=__izua1kKeI",
-          "content": "you through each and every ID, which would be a very boring lecture to sit through, you're instead \ngoing to get my bias and I'm going to show you how to install my two favorite IDs Microsoft Visual \nStudio, which should interest you if you want to get into Windows development or want to make games \nusing a popular engine called unity. And we'll also be installing Microsoft Visual Studio code, \nwhich should interest you if you're interested in more general programming or data science, as well [.",
-          "score": 0.48908922
+          "title": "Most Popular Viral Videos 2025 Indo - Tutorials and Tips for Beginners Online - SMP Bocil",
+          "url": "https://smpbocil.wiki/most-popular-viral-videos-2025-indo-tutorials-and-tips-for-beginners-online",
+          "content": "## Why Most Popular Viral Videos 2025 Indo - Tutorials and Tips for Beginners Online Is So Popular\n\nMost Popular Viral Videos 2025 Indo - Tutorials and Tips for Beginners Online\n\nFrom its entertaining moments to its shareable highlights, this clip has captured the attention of millions. The combination of creativity, authenticity, and fun makes it one of the most-watched viral videos of the season. Whether you\u2019re here for excitement, laughter, or just curiosity, this one is worth your time. [...",
+          "score": 0.22392853
         }
       ]
     },
     {
       "query": "new frameworks and libraries developers",
-      "answer": "In 2026, Next.js and Vue.js remain popular for front-end development, while developers emphasize mastering fundamental principles over specific frameworks. Essential tools include utility libraries like Lodash for efficiency. Staying updated is crucial for relevance.",
+      "answer": "In 2026, developers should master Next.js and Vue.js for front-end development. These frameworks offer powerful features and maintain relevance. Focus on core principles to adapt to new tools.",
       "results": [
         {
           "title": "Top Frameworks and Libraries for Front-End Development in 2025",
