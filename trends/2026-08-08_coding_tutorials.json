@@ -1,0 +1,115 @@
+{
+  "niche_id": "coding_tutorials",
+  "niche_name": "Coding Tutorials",
+  "timestamp": "2026-08-08T22:21:21.131483",
+  "searches": [
+    {
+      "query": "trending programming languages 2025",
+      "answer": "Python, Java, and JavaScript remain dominant in 2025, with Rust and Swift gaining popularity. Go and Kotlin are rising for cloud and mobile development.",
+      "results": [
+        {
+          "title": "Top Programming Languages to Learn in 2025 | Pluralsight",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
+          "content": "Shift 2026: Get early bird pricing until\n\nJuly 31 for our annual customer event.\n\n# Top 10 programming languages for 2025\n\nPython continues its multi-year domination, Java and JavaScript remain strong, while Rust and Swift are slowly increasing in year-over-year popularity.\n\nAdam Ipsen\n\nBy Adam Ipsen\n\nNov 7, 2024 \u2022 6 Minute Read\n\nPlease set an alt value for this image... [...] ## #1 - Python\n\nIt was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s",
+          "score": 0.9039154
+        },
+        {
+          "title": "Most In-demand Programming Languages for 2026",
+          "url": "https://www.itransition.com/developers/in-demand-programming-languages",
+          "content": "Apex\n\nRuby\n\nScala\n\nScheme title: Top programming languages 2025 | Jobs  \n Data source: spectrum.ieee.org \u2014 The Top Programming Languages 2025\n\n### Programming language rankings\n\nPython\n\nC++\n\nC#\n\nJavaScript\n\nSQL\n\nGo\n\nDart\n\nRust\n\nRuby\n\nJava\n\nC\n\nTypeScript\n\nShell\n\nPHP\n\nR\n\nKotlin\n\nSwift\n\nObjective-C\n\nScheme title: Top programming languages 2025 | Trending  \n Data source: spectrum.ieee.org \u2014 The Top Programming Languages 2025\n\n100% [...] | Key stats |\n\n| PHP ranks among the top 5 languages in the 202",
+          "score": 0.902481
+        },
+        {
+          "title": "TIOBE Index - TIOBE",
+          "url": "https://www.tiobe.com/tiobe-index",
+          "content": "| Jul 2026 | Jul 2025 | Change | Programming Language | Ratings | Change |\n ---  ---  --- |\n| 1 | 1 | Python | 18.94% | -8.03% |\n| 2 | 3 | C | 10.86% | +1.22% |\n| 3 | 2 | C++ | 9.12% | -0.68% |\n| 4 | 4 | Java | 8.03% | -0.73% |\n| 5 | 5 | C# | 4.49% | -0.38% |\n| 6 | 6 | JavaScript | 2.72% | -0.63% |\n| 7 | 8 | Visual Basic | 2.48% | +0.54% |\n| 8 | 13 | SQL | 1.71% | +0.32% |\n| 9 | 15 | R | 1.69% | +0.44% |\n| 10 | 18 | Rust | 1.34% | +0.33% |\n| 11 | 10 | Delphi/Object Pascal | 1.29% | -0.48% |",
+          "score": 0.89030397
+        },
+        {
+          "title": "Top Programming Languages to Learn in 2025 (and Beyond) \u2013 Career Connections Center University of Florida",
+          "url": "https://careerhub.ufl.edu/blog/2025/10/13/top-programming-languages-to-learn-in-2025-and-beyond",
+          "content": "Python continues to dominate AI and data science, with over 108,000 job openings.\n JavaScript is used by 62% of developers\u2014essential for web development.\n Swift and Kotlin are must-learns for mobile app development.\n Rust and Go are rising fast, especially for cloud infrastructure and systems programming.\n AI-powered tools are changing how developers work\u2014making adaptability and problem-solving more important than ever. [...] Looking ahead to 2026, these trends are expected to accelerate, with R",
+          "score": 0.87605256
+        },
+        {
+          "title": "The Top Programming Languages 2025 - IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/top-programming-languages-2025",
+          "content": "In the \u201cSpectrum\u201d default ranking, which is weighted with the interests of IEEE members in mind, we see that once again Python has the top spot, with the biggest change in the top five being JavaScript\u2019s drop from third place last year to sixth place this year. As JavaScript is often used to create web pages, and vibe coding is often used to create websites, this drop in the apparent popularity may be due to the effects of AI that we\u2019ll dig into in a moment. But first to finish up with this [...",
+          "score": 0.8742601
+        }
+      ]
+    },
+    {
+      "query": "most popular coding tutorials beginners",
+      "answer": "Codecademy, freeCodeCamp, and Khan Academy are popular for beginner coding tutorials. They offer interactive courses in multiple languages. Focus on foundational concepts and hands-on practice.",
+      "results": [
+        {
+          "title": "What are the Most Effective Beginner Coding Tutorials Offered by Major Online Learning Platforms? \u2013 AlgoCademy Blog",
+          "url": "https://algocademy.com/blog/what-are-the-most-effective-beginner-coding-tutorials-offered-by-major-online-learning-platforms",
+          "content": "Where Codecademy shines is in getting complete beginners over that initial hump. If you\u2019ve never written a line of code in your life, their Python or JavaScript courses are fantastic starting points. The hand-holding is excellent. Maybe too excellent if you\u2019re trying to develop independent problem-solving skills. [...] If you\u2019re serious about building a strong foundation and actually understanding computer science rather than just copying code snippets, AlgoCademy is genuinely your best bet. The",
+          "score": 0.78572035
+        },
+        {
+          "title": "How to Start Coding from Scratch (Free 2026 Guide)",
+          "url": "https://daily.dev/blog/beginners-guide-how-to-start-learning-coding-from-scratch",
+          "content": "Take an introductory coding course online. Platforms like freeCodeCamp, Codecademy, and Khan Academy offer great interactive courses for coding beginners. These teach you programming concepts without needing you to install anything on your computer.\n\n   Learn the basics. Start by getting familiar with essential terms and concepts like algorithms, variables, loops, conditionals, functions, etc. Free beginner coding books and tutorials are easily available online. [...] Codecademy: Offers free cou",
+          "score": 0.6765563
+        },
+        {
+          "title": "The Best Programs for Learning to Code We've Tested | PCMag",
+          "url": "https://www.pcmag.com/picks/the-best-programs-for-learning-to-code",
+          "content": "The course format is worth paying attention to, as well. All you really need to code is a functional text editor, and most of these programs feature one of those. Depending on your learning style, you might appreciate the polished video tutorials from Khan Academy and LinkedIn Learning. [...] Many of these online coding schools, including Code Avengers, Codecademy, SitePoint, and Treehouse, offer curriculums that let you choose a broad topic (not unlike selecting a college major), and then acces",
+          "score": 0.5194
+        },
+        {
+          "title": "Introduction to Programming",
+          "url": "https://www.w3schools.com/programming",
+          "content": "Exercises\n\n#### TypeScript\n\nExercises\n\n#### Django\n\nExercises\n\n#### PostgreSQL\n\nExercises\n\n#### jQuery\n\nExercises\n\n#### NumPy\n\nExercises\n\n#### Pandas\n\nExercises\n\n#### Angular\n\nExercises\n\n#### Git\n\nExercises\n\n#### MongoDB\n\nExercises\n\n#### R\n\nExercises\n\n#### Go\n\nExercises\n\n#### Kotlin\n\nExercises\n\n#### Swift\n\nExercises\n\n#### Vue\n\nExercises\n\n#### SciPy\n\nExercises\n\n#### Bash\n\nExercises\n\n## \n\nChoose an activity\n\nTip:\nSign in\nto track your progress.\n\n# Get Certified\n\n## W3SCHOOLS CERTIFICATES:\n\nHTML [.",
+          "score": 0.32769033
+        },
+        {
+          "title": "error | Codecademy",
+          "url": "https://www.codecademy.com",
+          "content": "## Languages\n\n   Bash\n   C\n   C++\n   C#\n   Go\n   HTML & CSS\n   Java\n   JavaScript\n   Kotlin\n   PHP\n   Python\n   R\n   Ruby\n   SQL\n   Swift\n\n## Career building\n\n   Career paths\n   Career Center\n   Interview prep\n   Professional certification\n   Bootcamps\n   Workshops\n   Coaching\n   \u2014\n   Full catalog\n   Beta content\n   Roadmap\n\n## Mobile\n\n   Image 13: Download on the App Store\n   Image 14: Get it on Google Play\n\n## Mobile\n\n   Image 15: Download on the App Store\n   Image 16: Get it on Google Play [.",
+          "score": 0.13005348
+        }
+      ]
+    },
+    {
+      "query": "new frameworks and libraries developers",
+      "answer": "In 2026, Svelte, Solid.js, and Qwik are popular new frameworks for web development. React remains widely used despite challenges. Astro is favored for static site generation.",
+      "results": [
+        {
+          "title": "TOP-25 New Web Frameworks in 2023 \u2013 ByteScout",
+          "url": "https://bytescout.com/blog/web-frameworks-2019.html",
+          "content": "## 12. Symfony\n\nSymfony is a PHP framework that\u2019s extremely fit for large-scale or heterogeneous business level outlines. It is a pretty steady framework. This is one of the most amazing web frameworks for developers. It supports full-stack developers to build scalable websites that are resilient to shifting business imperatives. Symfony can run with some of the biggest platforms like PHPBB, Piwik, and Drupal. [...] It is available on both desktop and mobile and also assists languages like Pytho",
+          "score": 0.6133529
+        },
+        {
+          "title": "JavaScript frameworks and libraries - Learn web development | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries",
+          "content": "JavaScript frameworks are an essential part of modern front-end web development, providing developers with tried and tested tools for building scalable, interactive web applications. Many modern companies use frameworks as a standard part of their tooling, so many front-end development jobs now require framework experience. This set of articles provides a comfortable starting point to help you begin learning frameworks. [...] As an aspiring front-end developer, it can be hard to work out where t",
+          "score": 0.598524
+        },
+        {
+          "title": "JavaScript Frameworks - Heading into 2026 - DEV Community",
+          "url": "https://dev.to/playfulprogramming/javascript-frameworks-heading-into-2026-2hel",
+          "content": "While there are fewer new JavaScript frameworks these days, one new framework in particular has really jumped on the AI-First redesign. Remix 3, no longer built on React, is a ground-up rethinking of full-stack web development. Creators Ryan Florence and Michael Jackson have been very vocal about AI\u2019s role in both designing and implementing the framework. [...] Over the past few years, I\u2019ve commented on AI having a minimal impact on how JavaScript frameworks are developed. While developers conti",
+          "score": 0.52773094
+        },
+        {
+          "title": "Top 7 Frontend Frameworks to Use in 2026: Pro Advice",
+          "url": "https://roadmap.sh/frontend/frameworks",
+          "content": "Svelte and Solid.js are great options for developers who prioritize performance and simplicity.\n\nQwik is an exciting new contender focused on instant loading and performance.\n\nAstro shines in static site generation, combining a modern approach with the ability to integrate multiple frameworks for highly flexible, content-heavy sites.\n\nIn the end, the choice comes down to your specific project needs. Whatever you\u2019re building, there's a framework here that can help you succeed. [...] Astro is know",
+          "score": 0.49787658
+        },
+        {
+          "title": "Top 10 Frameworks for Web Applications - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/blogs/top-frameworks-for-web-applications",
+          "content": "A web framework is a software framework that helps developers build web applications, services, and APIs faster and more efficiently using ready-made tools and libraries. With the growing number of frameworks available today, choosing the right one can be challenging, so we\u2019ve compiled a list of the top 10 web frameworks by programming language. If you want to learn web development from scratch, check out our Full Stack Web Development course covering both frontend and backend tools. [...] ## To",
+          "score": 0.49611887
+        }
+      ]
+    }
+  ]
+}
