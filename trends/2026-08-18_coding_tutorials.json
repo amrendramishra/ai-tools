@@ -1,0 +1,115 @@
+{
+  "niche_id": "coding_tutorials",
+  "niche_name": "Coding Tutorials",
+  "timestamp": "2026-08-18T22:15:40.050978",
+  "searches": [
+    {
+      "query": "trending programming languages 2025",
+      "answer": "Python remains dominant in AI and data science; Rust and Go are rising in popularity for systems programming and cloud infrastructure; JavaScript remains strong for web development.",
+      "results": [
+        {
+          "title": "TIOBE Index - TIOBE",
+          "url": "https://www.tiobe.com/tiobe-index",
+          "content": "| Aug 2026 | Aug 2025 | Change | Programming Language | Ratings | Change |\n ---  ---  --- |\n| 1 | 1 | Python | 18.53% | -7.61% |\n| 2 | 3 | C | 11.10% | +2.07% |\n| 3 | 2 | C++ | 8.62% | -0.56% |\n| 4 | 4 | Java | 8.25% | -0.34% |\n| 5 | 5 | C# | 4.09% | -1.43% |\n| 6 | 6 | JavaScript | 2.63% | -0.52% |\n| 7 | 7 | Visual Basic | 2.18% | -0.15% |\n| 8 | 12 | SQL | 1.88% | +0.16% |\n| 9 | 14 | R | 1.56% | +0.19% |\n| 10 | 18 | Rust | 1.45% | +0.31% |\n| 11 | 10 | Delphi/Object Pascal | 1.37% | -0.46% |",
+          "score": 0.8875269
+        },
+        {
+          "title": "Top Programming Languages to Learn in 2025 | Pluralsight",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
+          "content": "## #1 - Python\n\nIt was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s rankings and everyone else\u2019s for the last few years, the fact Python has all the data science and machine learning libraries makes it more relevant than ever in 2025 with so many companies madly rushing to adopt AI. Plus, it\u2019s an incredibly easy language to learn for beginners.\n\n## #2 - Java [...] Every year, Pluralsight conducts a meta-study of the most popular programming la",
+          "score": 0.8820324
+        },
+        {
+          "title": "Technology | 2025 Stack Overflow Developer Survey",
+          "url": "https://survey.stackoverflow.co/2025/technology",
+          "content": "Rust is yet again the most admired programming language (72%), followed by Gleam (70%), Elixir (66%) and Zig (64%). Gleam is a new addition to the list, and for good reason - developers like it!\n\nWhich programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the language and want to continue to do so, please check both boxes in that row.) [...] Desired and Admired27.3",
+          "score": 0.8773195
+        },
+        {
+          "title": "Top Programming Languages to Learn in 2025 (and Beyond) \u2013 Career Connections Center University of Florida",
+          "url": "https://careerhub.ufl.edu/blog/2025/10/13/top-programming-languages-to-learn-in-2025-and-beyond",
+          "content": "Python continues to dominate AI and data science, with over 108,000 job openings.\n JavaScript is used by 62% of developers\u2014essential for web development.\n Swift and Kotlin are must-learns for mobile app development.\n Rust and Go are rising fast, especially for cloud infrastructure and systems programming.\n AI-powered tools are changing how developers work\u2014making adaptability and problem-solving more important than ever. [...] Looking ahead to 2026, these trends are expected to accelerate, with R",
+          "score": 0.87605256
+        },
+        {
+          "title": "The Top Programming Languages 2025 - IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/top-programming-languages-2025",
+          "content": "In the \u201cSpectrum\u201d default ranking, which is weighted with the interests of IEEE members in mind, we see that once again Python has the top spot, with the biggest change in the top five being JavaScript\u2019s drop from third place last year to sixth place this year. As JavaScript is often used to create web pages, and vibe coding is often used to create websites, this drop in the apparent popularity may be due to the effects of AI that we\u2019ll dig into in a moment. But first to finish up with this [...",
+          "score": 0.8742601
+        }
+      ]
+    },
+    {
+      "query": "most popular coding tutorials beginners",
+      "answer": "Codecademy offers interactive coding courses for beginners in multiple languages, while freeCodeCamp and Khan Academy provide additional free resources for foundational programming skills. For deeper understanding, AlgoCademy's interactive lessons are recommended.",
+      "results": [
+        {
+          "title": "What are the Most Effective Beginner Coding Tutorials Offered by Major Online Learning Platforms? \u2013 AlgoCademy Blog",
+          "url": "https://algocademy.com/blog/what-are-the-most-effective-beginner-coding-tutorials-offered-by-major-online-learning-platforms",
+          "content": "Where Codecademy shines is in getting complete beginners over that initial hump. If you\u2019ve never written a line of code in your life, their Python or JavaScript courses are fantastic starting points. The hand-holding is excellent. Maybe too excellent if you\u2019re trying to develop independent problem-solving skills. [...] If you\u2019re serious about building a strong foundation and actually understanding computer science rather than just copying code snippets, AlgoCademy is genuinely your best bet. The",
+          "score": 0.78572035
+        },
+        {
+          "title": "How to Start Coding from Scratch (Free 2026 Guide) | daily.dev",
+          "url": "https://daily.dev/blog/beginners-guide-how-to-start-learning-coding-from-scratch",
+          "content": "Take an introductory coding course online. Platforms like freeCodeCamp, Codecademy, and Khan Academy offer great interactive courses for coding beginners. These teach you programming concepts without needing you to install anything on your computer.\n\nLearn the basics. Start by getting familiar with essential terms and concepts like algorithms, variables, loops, conditionals, functions, etc. Free beginner coding books and tutorials are easily available online. [...] Codecademy: Offers free course",
+          "score": 0.6636041
+        },
+        {
+          "title": "The Best Programs for Learning to Code We've Tested | PCMag",
+          "url": "https://www.pcmag.com/picks/the-best-programs-for-learning-to-code",
+          "content": "The course format is worth paying attention to, as well. All you really need to code is a functional text editor, and most of these programs feature one of those. Depending on your learning style, you might appreciate the polished video tutorials from Khan Academy and LinkedIn Learning. [...] Many of these online coding schools, including Code Avengers, Codecademy, SitePoint, and Treehouse, offer curriculums that let you choose a broad topic (not unlike selecting a college major), and then acces",
+          "score": 0.51866865
+        },
+        {
+          "title": "Learn How to Code - Programming for Beginners Tutorial with Python and C#",
+          "url": "https://www.youtube.com/watch?v=__izua1kKeI",
+          "content": "you through each and every ID, which would be a very boring lecture to sit through, you're instead \ngoing to get my bias and I'm going to show you how to install my two favorite IDs Microsoft Visual \nStudio, which should interest you if you want to get into Windows development or want to make games \nusing a popular engine called unity. And we'll also be installing Microsoft Visual Studio code, \nwhich should interest you if you're interested in more general programming or data science, as well [.",
+          "score": 0.48908922
+        },
+        {
+          "title": "Learn To Code Like a GENIUS and Not Waste Time",
+          "url": "https://www.youtube.com/watch?v=q-_ezD9Swz4",
+          "content": "understanding your why but what about the actual learning process you know how\nto code first off let's talk about resources there's a wealth of\ninformation out there from online courses YouTube videos books tutorials\nand coding communities there's websites like code academy free code cam the Odin\nproject and corsera they offer for structure courses that are great for\nbeginners YouTube definitely has its fair share of tutorials but also don't [...] active problem solving and Interactive Learning ",
+          "score": 0.44956237
+        }
+      ]
+    },
+    {
+      "query": "new frameworks and libraries developers",
+      "answer": "Popular frameworks and libraries include TensorFlow for AI, Vue.js for web development, and ASP.NET Core for cloud applications. These tools enhance development efficiency and functionality.",
+      "results": [
+        {
+          "title": "Top AI Libraries and Frameworks for Developers in 2024",
+          "url": "https://slateblog.netlify.app/articles/top-ai-libraries-and-frameworks-for-developers-in-2024",
+          "content": "Top AI Libraries and Frameworks for Developers in 2024. Home /Articles /Top AI Libraries and Frameworks for Developers in 2024. #### 3.6K Followers. #### Follow. #### 1.0K Subscribers. #### Subscribe. #### 56 Followers. #### Follow. Top AI Libraries and Frameworks for Developers in 2024. Artificial Intelligence (**_AI_**) continues to dominate the tech landscape, powering applications in healthcare, finance, e-commerce, and beyond. For developers looking to leverage AI in their projects, underst",
+          "score": 0.75852895
+        },
+        {
+          "title": "19 Frameworks, Libraries, and Tools That Developers Love (and Hate) | Dice.com Career Advice",
+          "url": "https://www.dice.com/career-advice/19-frameworks-libraries-tools-developers-love-hate",
+          "content": "Title: 19 Frameworks, Libraries, and Tools That Developers Love (and Hate) | Dice.com Career Advice\n# 19 Frameworks, Libraries, and Tools That Developers Love (and Hate). Main image of article 19 Frameworks, Libraries, and Tools That Developers Love (and Hate). Developers generally exhibit a strong affinity (usually paired with an equally strong hatred) for certain frameworks, libraries, and tools. For example, although game developers might have strong opinions about\u00a0Unreal Engine\u00a0and Unity 3D ",
+          "score": 0.69820654
+        },
+        {
+          "title": "What are some popular frameworks and libraries used by C# developers? | MoldStud",
+          "url": "https://moldstud.com/articles/p-what-are-some-popular-frameworks-and-libraries-used-by-c-developers",
+          "content": "# What are some popular frameworks and libraries used by C# developers? When it comes to software development services, C# developers often rely on a variety of frameworks and libraries to streamline the development process, improve efficiency, and enhance the functionality of their applications. ## Popular Frameworks and Libraries Used by C# Developers. ASP.NET Core is a popular open-source web framework that allows developers to build modern, cloud-based web applications. Xamarin is a popular ",
+          "score": 0.6829338
+        },
+        {
+          "title": "Top 7 JavaScript Frameworks and Libraries For Web Developers - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/blogs/top-javascript-frameworks-and-libraries-for-web-developers",
+          "content": "Vue.js has a flexible architecture to focus on component composition and declarative rendering. It has an integration mode feature by which developers can efficiently create SPAs and PWAs. This framework allows developers to extend HTML through HTML attributes, known as the directive. Directives provide good functionality for HTML applications, and these directives can be user-defined or built-in. [...] ## 3. Vue.js\n\nVue.js is an open-source JavaScript framework developed for improving the featu",
+          "score": 0.63179934
+        },
+        {
+          "title": "Datalog libraries and frameworks for developers",
+          "url": "https://datalog.dev/article/Datalog_libraries_and_frameworks_for_developers.html",
+          "content": "Title: Datalog libraries and frameworks for developers\nIntroduction to Datalog programming language Datalog tutorials and code examples for beginners reasons why Datalog is the perfect language for data science Top 10 Datalog programming language features you need to know Datalog for data visualization Tips and tricks 10 Datalog for data security Best practices and use cases Datalog applications in data analysis and machine learning ways Datalog is transforming the world of artificial intelligen",
+          "score": 0.49655825
+        }
+      ]
+    }
+  ]
+}
