@@ -1,0 +1,222 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T23:43:53.604160",
+  "sections": [
+    {
+      "title": "\ud83e\udd16 AI & Machine Learning",
+      "summary": "This week, new AI models from Anthropic, Google, and Moonshot AI were released. Notable updates include Anthropic's Sonnet 4.6 and Google's Gemini 3.1 Pro. Moonshot AI introduced Kimmy K3, a frontier-level model.",
+      "items": [
+        {
+          "title": "New Ai Models Announced This Week 2026",
+          "url": "https://www.instagram.com/popular/new-ai-models-announced-this-week-2026",
+          "snippet": "Title: New Ai Models Announced This Week 2026\n# New Ai Models Announced This Week 2026. Watch reels about new ai models announced this week 2026 from people around the world. Everything you knew about",
+          "score": 0.91362286
+        },
+        {
+          "title": "AI/TLDR \u2014 New AI Models, Tools & Papers This Week",
+          "url": "https://ai-tldr.dev",
+          "snippet": "AnthropicOpenAIGoogleMetaDeepSeekAlibaba (Qwen)Moonshot AI (Kimi)Z.ai (Zhipu / GLM)xAI (Grok)Mistral AICohereMiniMaxByteDanceTencentThinking Machines LabPoolsideOrnith [...] Cortechs.ai's NeuroQuant P",
+          "score": 0.9051298
+        },
+        {
+          "title": "AI News: 5 New Models Dropped This Week! - YouTube",
+          "url": "https://www.youtube.com/watch?v=5cMZqjrgq6Y",
+          "snippet": "So, it's been a big week in the world of AI with a ton of new models that came out, some fresh drama, and some really interesting stuff that you're probably going to want to know about. I'm not going ",
+          "score": 0.8875269
+        },
+        {
+          "title": "LLM News Today (August 2026) \u2013 AI Model Releases",
+          "url": "https://llm-stats.com/ai-news",
+          "snippet": "### Where can I find LLM benchmark news?\n\nLLM Stats provides comprehensive LLM benchmark news and LLM evaluation news across popular evaluations like GPQA, MMLU, HumanEval, and more. Visit ourLLM Lead",
+          "score": 0.86632514
+        },
+        {
+          "title": "Latest AI News: The Biggest AI Announcements Right Now",
+          "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+          "snippet": "This allows smaller companies to build marketing campaigns without large marketing teams.\n\nTools like Pomelli show how AI marketing platforms are evolving quickly.\n\n# Anthropic Lawsuit Dominates Lates",
+          "score": 0.8649622
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcbb Software Development",
+      "summary": "In 2026, Bun.js and SvelteKit are notable new frameworks and libraries. They offer efficient performance and modern features.",
+      "items": [
+        {
+          "title": "Developer Nation Community",
+          "url": "https://www.developernation.net/blog/developer-news-this-week",
+          "snippet": "Back to blog\n\nJune 06, 2025\n\nDeveloper News This Week: The Full Roundup on WWDC, NPM Security, AI Agents & More (June 6, 2025)\n\nbyVanessa MeasominNews and Resources\n\nLooking for the top developer news",
+          "score": 0.79080546
+        },
+        {
+          "title": "InfoWorld",
+          "url": "https://www.infoworld.com",
+          "snippet": "By Serdar Yegulalp\n\nAug 21, 20263 mins\n\nProgramming LanguagesPythonSoftware Development\n\nopinion\n\nImage\n\n### Neoclouds become AI\u2019s new power brokers\n\nBy David Linthicum\n\nAug 21, 20267 mins\n\nArtificial",
+          "score": 0.7216064
+        },
+        {
+          "title": "Developer | Latest Developer News, Analysis & Events",
+          "url": "https://www.developer-tech.com",
+          "snippet": "Testing & QA\n\n19th August 2026\n\n### Z.ai GLM-5.3 tops CyberGym cybersecurity AI model benchmark\n\nTesting & QA\n\n17th August 2026\n\n### OpenAI Daybreak adds GPT-5.6-Cyber for defensive security work\n\nCyb",
+          "score": 0.7123327
+        },
+        {
+          "title": "Software Development | InfoWorld",
+          "url": "https://www.infoworld.com/software-development",
+          "snippet": "By Anirban Ghoshal\n\nAug 21, 20267 mins\n\nArtificial IntelligenceDevelopment ToolsSoftware Development\n\nnews\n\nImage\n\n### Backdoored Rust packages hit crates.io, exposing developers to malware at build t",
+          "score": 0.7077487
+        },
+        {
+          "title": "News - DEV Community",
+          "url": "https://dev.to/t/news",
+          "snippet": "Skip to content\n\nDEV Community \n\nLog in    Create account\n\n## DEV Community\n\n# News\n\nExpect to see announcements of new and updated products, services, and features for languages & frameworks. You als",
+          "score": 0.67321366
+        }
+      ]
+    },
+    {
+      "title": "\u2601\ufe0f Cloud & Infrastructure",
+      "summary": "Kubernetes 1.34 introduced new features and security updates. Rolling updates in Kubernetes ensure minimal downtime during deployments. Kubernetes enhances DevOps by automating deployment and scaling processes.",
+      "items": [
+        {
+          "title": "Latest DevOps Updates You Shouldn't Miss! - LinkedIn",
+          "url": "https://www.linkedin.com/pulse/latest-devops-updates-you-shouldnt-miss-parmeshwar-devane-s9e6c",
+          "snippet": "Kubernetes 1.27 Release : The newest Kubernetes release focuses on security, scalability, and usability. Key features include enhancements",
+          "score": 0.8700796
+        },
+        {
+          "title": "Kubernetes 1.34 Release Notes Explained for DevOps Teams",
+          "url": "https://blog.stackademic.com/kubernetes-1-34-released-today-top-features-you-need-to-know-9c3e5570839c",
+          "snippet": "Kubernetes 1.34 was released on August 27, 2025. Learn the top new features, security changes, and what DevOps teams should test. The GA is out",
+          "score": 0.81595254
+        },
+        {
+          "title": "Understanding the Role of Kubernetes in DevOps",
+          "url": "https://jellyfish.co/library/devops/kubernetes",
+          "snippet": "1. A developer pushes code to the repository.\n2. The pipeline builds a Docker image from that code.\n3. Automated tests run against the image to catch problems early.\n4. The pipeline pushes the finishe",
+          "score": 0.79254496
+        },
+        {
+          "title": "Top Kubernetes Challenges Facing DevOps Teams | DEVOPSdigest",
+          "url": "https://www.devopsdigest.com/top-kubernetes-challenges-facing-devops-teams",
+          "snippet": "August 04, 2026\n\nHarness has integrated capabilities with Google Cloud's Apigee, a platform for API development and management, to help customers discover and protect agents, AI services, tools, and M",
+          "score": 0.7913865
+        },
+        {
+          "title": "New edition of the Clouds Weekly Newsletter! Dive into the latest updates on cloud giants Amazon Web Services (AWS), Google Cloud and Microsoft Azure.\u00a0 \u00a0- Could open source be more costly than you\u2026 | Damian Munafo",
+          "url": "https://www.linkedin.com/posts/damian-munafo_new-edition-of-the-clouds-weekly-newsletter-activity-7358127106418966528-lt7z",
+          "snippet": "New edition of the Clouds Weekly Newsletter! Dive into the latest updates on cloud giants Amazon Web Services (AWS), Google Cloud and Microsoft Azure.   - Could open source be more costly than you thi",
+          "score": 0.74785584
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\ude80 Startups & Tech Industry",
+      "summary": "This week, tech giants like Amazon and SpaceX announced major drone delivery expansions, while AI advancements and semiconductor developments continued to dominate headlines.",
+      "items": [
+        {
+          "title": "Indian Tech Startup Funding Report Q1 2026 - Inc42 Media",
+          "url": "https://inc42.com/reports/indian-tech-startup-funding-report-q1-2026",
+          "snippet": "India\u2019s startup ecosystem is entering a clear reset. Funding fell 26% YoY to $2.3 Bn in Q1 2026, with zero $100 Mn+ deals for the first time since 2022, marking a decisive pullback in late-stage capit",
+          "score": 0.94251215
+        },
+        {
+          "title": "India's Startup Funding Jumps Around 668% in a Week, Led by AI and Climate Tech Bets",
+          "url": "https://india.entrepreneur.com/news-and-trends/indias-startup-funding-jumps-around-668-in-a-week-led-by/502869",
+          "snippet": "Overall, the week underscored strong investor appetite for AI infrastructure, climate tech, semiconductor innovation, and digital platforms addressing real-world inefficiencies.\n\nIndia\u2019s startup fundi",
+          "score": 0.9121316
+        },
+        {
+          "title": "Meet The Top 10 Indian Startup Investors Of H1 2026",
+          "url": "https://inc42.com/buzz/meet-the-top-10-indian-startup-investors-of-h1-2026",
+          "snippet": "logo\nlogo\nlogo\nlogo\nlogo\nlogo\nlogo\nlogo\n\nIndian startup funding was muted in the first half of 2026, declining 9% YoY to $5.2 Bn raised between January and June. There was a slight 7% uptick in the to",
+          "score": 0.910998
+        },
+        {
+          "title": "Why are investors pulling back from Indian startups | Business News",
+          "url": "https://www.youtube.com/watch?v=BHKKA5NEy9E",
+          "snippet": "India's startup world is facing a funding crunch and the core of the problem is West Asia. As geopolitical tensions escalate in the region, investors are pulling back. Large deals are drying up, deplo",
+          "score": 0.89030397
+        },
+        {
+          "title": "Entrackr: Latest Startup l Technology News",
+          "url": "https://entrackr.com",
+          "snippet": "[## Funding and acquisitions in Indian startups this week [Aug 17 - Aug 22]](/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-aug-17-aug-22-124",
+          "score": 0.86303437
+        }
+      ]
+    },
+    {
+      "title": "\ud83d\udcf1 Products & Gadgets",
+      "summary": "Trending smartphone gadgets include the Pixel 11 Pro XL and Galaxy Z Fold8 Ultra, both praised for their advanced features and design. The RayNeo iO Smart Glasses offer innovative AR technology. The Logitech G RS H-Shifter is popular among gamers.",
+      "items": [
+        {
+          "title": "Tech | The Verge",
+          "url": "https://www.theverge.com/tech",
+          "snippet": "Victoria Song\n\nDominic Preston\n\nDominic Preston\n\nHuawei\u2019s next slab phone will be a wide boi too.\n\nThe Pura X View will launch next week in China, but Huawei has already revealed its design, including",
+          "score": 0.57006866
+        },
+        {
+          "title": "I tested the 14 most OVERKILL Smartphone Gadgets",
+          "url": "https://www.youtube.com/watch?v=rj-db6BAEg8",
+          "snippet": "# I tested the 14 most OVERKILL Smartphone Gadgets\n## Mrwhosetheboss\n22800000 subscribers\n98465 likes\n\n### Description\n4194210 views\nPosted: 16 Dec 2024\nLet's turn this iPhone into the most rigged-up ",
+          "score": 0.4974371
+        },
+        {
+          "title": "Best Cool Tech Gadgets of 2026 \u00bb Gadget Flow",
+          "url": "https://thegadgetflow.com/cool-tech-gadgets",
+          "snippet": "Discover  Discover Products Explore over 300 categories and sub-categories. From tech to sports and everything in between.   Brands  Brands View products from the best brands on the market   Trending ",
+          "score": 0.49450764
+        },
+        {
+          "title": "Best New Tech Accessories to Shop Now | Observer",
+          "url": "https://observer.com/list/best-new-tech-gadgets-innovations",
+          "snippet": "## Sigma BF Compact Full-Frame Mirrorless Camera\n\nPhotography reimagined from the atoms up. Sigma literally carves this camera from a single aluminum block over seven hours\u2014creating a device that feel",
+          "score": 0.48279548
+        },
+        {
+          "title": "The best new gadgets of 2026 (so far) - Mashable",
+          "url": "https://mashable.com/tech/best-new-gadgets-2026-so-far",
+          "snippet": "Nothing Phone (4a) Pro 256GB Unlocked Phone (Black)\")\n\n$599.99  at Amazon\n\n## Shokz OpenFit Pro\n\nShokz OpenFit Pro with charging case on desk\n\nCredit: Bethany Allard / Mashable\n\n Release date: Jan. 22",
+          "score": 0.46337196
+        }
+      ]
+    },
+    {
+      "title": "\ud83c\udf93 Learning & Career",
+      "summary": "Free online courses in trending tech fields include data science, AI, and cybersecurity from platforms like Great Learning Academy and Class Central. Tech giants like Google, Microsoft, and Amazon offer many free courses. Focus on in-demand skills for career advancement.",
+      "items": [
+        {
+          "title": "Tech Career Decoded #16: Tech trends 2025 - LinkedIn",
+          "url": "https://www.linkedin.com/pulse/tech-career-decoded-16-6-technology-trends-watch-out-2025-krk9f",
+          "snippet": "\"By 2025, the top tech roles in demand are projected to be AI and Machine Learning Specialists, Data Scientists, and Cloud Computing Experts.",
+          "score": 0.9374919
+        },
+        {
+          "title": "Report: The tech job market in 2025",
+          "url": "https://ravio.com/tech-jobs-report-2025",
+          "snippet": "Administrative roles that were once essential are now experiencing significant declines as AI systems take over many menial tasks and repeatable processes. This trend extends beyond traditional admin ",
+          "score": 0.89997756
+        },
+        {
+          "title": "The Top 10 Most In-demand Tech Careers for 2025 - LSE",
+          "url": "https://www.lse.ac.uk/study-at-lse/executive-education/insights/articles/the-top-10-most-in-demand-tech-careers-for-2025",
+          "snippet": "To provide an accurate and comprehensive picture of the most in-demand tech roles for 2025, we analysed data from leading reports and industry insights.\n\nThese careers are transformative and fast-pace",
+          "score": 0.8865877
+        },
+        {
+          "title": "Job Market Trends for Tech Roles in 2025",
+          "url": "https://www.linkedin.com/top-content/workplace-trends/job-market-shifts/job-market-trends-for-tech-roles-in-2025",
+          "snippet": "The job market trends for tech roles in 2025 reveal how artificial intelligence and automation are transforming which roles are in demand, a 75% surge in",
+          "score": 0.8849276
+        },
+        {
+          "title": "The Future of Jobs Report 2025 | World Economic Forum",
+          "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest",
+          "snippet": "Technology-related roles are the fastest- growing jobs in percentage terms, including Big Data Specialists, Fintech Engineers, AI and Machine Learning Specialists and Software and Application Develope",
+          "score": 0.8660535
+        }
+      ]
+    }
+  ]
+}
