@@ -1,7 +1,7 @@
 {
   "niche_id": "personal_finance",
   "niche_name": "Personal Finance & Investment",
-  "timestamp": "2026-08-29T03:26:59.032601",
+  "timestamp": "2026-08-29T23:49:07.013700",
   "searches": [
     {
       "query": "trending investment opportunities India",
@@ -77,7 +77,7 @@
     },
     {
       "query": "stock market trends India today",
-      "answer": "The Indian stock market showed gains today, with the BSE Sensex closing 0.4% higher at 77,264.5, led by IT stocks. Key gainers included TCS and Infosys, while ICICI Bank declined. For detailed updates, refer to financial news sources.",
+      "answer": "The Indian stock market showed gains today, with the Sensex rising by 0.4% to close at 77,264.5. Key IT stocks like TCS and Infosys led the gains. The market remains cautious due to global economic uncertainties.",
       "results": [
         {
           "title": "Share Market Today - Live Updates on Stock Market Trends",
@@ -88,8 +88,14 @@
         {
           "title": "India stock market data - prices and news - FT.com",
           "url": "https://markets.ft.com/data/world/countries/india",
-          "content": "|  | INRJPY | 1.68   JPY | 0.0095 / 0.57% | 0.0002 / 0.01% |\n| 52 week range Today  1.63Aug 03 20261.78Nov 20 2025 | | | | |\n|  | INRAUD | 0.0146   AUD | 0.00008 / 0.55% | -0.0029 / -16.30% |\n| 52 week range Today  0.0144May 14 20260.0177Oct 17 2025 | | | | |\n|  | INRCAD | 0.0146   CAD | 0.00007 / 0.50% | -0.0011 / -7.16% |\n| 52 week range Today  0.0142May 20 20260.016Oct 16 2025 | | | | |\n|  | INRCNY | 0.0705   CNY | 0.0002 / 0.25% | -0.0109 / -13.39% | [...] | 52 week range Today  0.0701Jul 27",
-          "score": 0.78709817
+          "content": "|  | INRJPY | 1.68   JPY | 0.01 / 0.60% | 0.0007 / 0.04% |\n| 52 week range Today  1.63Aug 03 20261.78Nov 20 2025 | | | | |\n|  | INRAUD | 0.0146   AUD | 0.00009 / 0.62% | -0.0028 / -16.25% |\n| 52 week range Today  0.0144May 14 20260.0177Oct 17 2025 | | | | |\n|  | INRCAD | 0.0146   CAD | 0.00007 / 0.50% | -0.0011 / -7.16% |\n| 52 week range Today  0.0142May 20 20260.016Oct 16 2025 | | | | |\n|  | INRCNY | 0.0705   CNY | 0.0002 / 0.25% | -0.0109 / -13.39% | [...] | 52 week range Today  0.0701Jul 27 2",
+          "score": 0.7900289
+        },
+        {
+          "title": "Stock Market: Stock Market Today | Stock Market Live News Update",
+          "url": "https://www.moneycontrol.com/stocksmarketsindia",
+          "content": "Taking Stock: Market bounces back; Sensex gains 331 points, Nifty climbs above 24,150\n Stocks to Watch Today: Lenskart Solutions, Texmaco Rail, Tejas Networks, Wipro, Tempsens Instruments, NBCC, RPP Infra Projects, Adani Power in focus on 28 August\n Morgan Terrassen, Morganite Crucible sell entire 15.26% stake in Foseco India; Alpha Wave India exits Aye Finance\n Warburg Pincus sells 4.25% stake in Apollo Tyres; Prudential offloads Rs 3,030 crore in ICICI Prudential AMC [...] Moneycontrol Pro Mar",
+          "score": 0.7493996
         },
         {
           "title": "Share Market Live Today - Stock Market News Updates",
@@ -98,16 +104,10 @@
           "score": 0.6708892
         },
         {
-          "title": "Stock Market Live News Update",
-          "url": "https://www.moneycontrol.com/stocksmarketsindia",
-          "content": "| Invesco India large& mid cap Dir Gr | Large & Mid-Cap | 134.18 | 2.29% | 10.64% | 14.63% | 11.51% |\n| Quant BFSI Dir Gr | Sector - Financial Services | 21.81 | 1.75% | 7.99% | 10.33% | 23.48% |\n| Bank of India Manfactrg &Infra Dir Gr | Equity - Infrastructure | 79.9 | 1.25% | 5.37% | 13.69% | 22.85% |\n| WhiteOak Capital Mid Cap Dir Gr | Mid-Cap | 23.82 | 3.72% | 7.46% | 15.53% | 18.43% |\n| Motilal Oswal Large & Midcap Dir Gr | Large & Mid-Cap | 41.42 | 6.95% | 8.43% | 16.52% | 16.05% | [...] |",
-          "score": 0.6455898
-        },
-        {
-          "title": "BSE SENSEX Stock Market Index - Quote - Chart - Historical Data - News | Trading Economics",
+          "title": "BSE SENSEX Stock Market Index - Quote - Chart",
           "url": "https://tradingeconomics.com/india/stock-market",
           "content": "## India\u2019s BSE Sensex closed about 0.4% firmer at 77,264.5 on Friday, recovering some ground after two consecutive sessions of losses, supported by easing crude oil prices and a positive global outlook for the technology sector. However, India\u2019s new closing-auction mechanism remained a source of concern after sharp swings on monthly derivatives expiry days. Meanwhile, investors cautiously awaited Fed Chair Kevin Warsh's first Jackson Hole keynote for clues on the US central bank's September [...",
-          "score": 0.6320719
+          "score": 0.64719695
         }
       ]
     }

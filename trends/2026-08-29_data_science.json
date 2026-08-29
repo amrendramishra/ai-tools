@@ -1,48 +1,54 @@
 {
   "niche_id": "data_science",
   "niche_name": "Data Science & ML",
-  "timestamp": "2026-08-29T03:27:15.262630",
+  "timestamp": "2026-08-29T23:49:22.474143",
   "searches": [
     {
       "query": "trending machine learning topics",
-      "answer": "In 2025, key machine learning trends include autonomous decision-making, federated learning, MLOps, AI sustainability, quantum ML, explainable AI, edge AI, and AI-generated content. These trends focus on efficiency, privacy, and interpretability.",
+      "answer": "In 2026, machine learning trends include autonomous decision-making, federated learning, and explainable AI. Quantum ML and edge AI are also emerging. MLOps and sustainability focus remain vital.",
       "results": [
         {
-          "title": "New Trends in Machine Learning | European Journal of Artificial Intelligence and Machine Learning",
-          "url": "https://eu-opensci.org/index.php/ejai/article/view/1098",
-          "content": "This study surveys new trends in machine learning, including Federated Learning (FL), Explainable Artificial Intelligence (XAI), Graph Neural Networks (GNNs), Self-Supervised and Transfer Learning (SSL/TL), autoML/NAS, TinyML/edge, quantum machine learning (QML), reinforcement learning (RL), and multimodal methods. It evaluated their methodologies, application areas, limitations, and governance implications. These trends are important, because ML now powers critical systems in healthcare, [...] ",
-          "score": 0.8775715
+          "title": "Machine Learning Trends 2026: What to Expect - SoftTeco",
+          "url": "CAESaQHrOzAVnXio-qKOyDkuORBk3njADMJ5eWYHJW7Ot20gOSGkAeG_ji7i2jmEyXFSJg-54gpMzBfesoQqune3XJ7IDtVvNpDU6Dkbh-W8fWXq5ovuOxpUpkLQkQVN5zHp6f3THtykHyzdfw",
+          "content": "Learn about the biggest machine learning trends to expect in 2026, like Agentic AI, MLOps, LLMOps, AgentOps, explainable AI, and others.",
+          "score": 0.8194462
         },
         {
-          "title": "Top Machine Learning Trends in 2025 - GeeksforGeeks",
-          "url": "https://www.geeksforgeeks.org/machine-learning/top-machine-learning-trends",
-          "content": "## Top Machine Learning Trends in 2025\n\nNow that we have got the introduction about the topic, here are the Top Machine Learning Trends that you should be looking for in 2025, Let's dive in.....\n\n### 1. Digital Data Forgetting (Machine Unlearning) [...] Table of Content\n\n What is Machine Learning?\n What are Machine Learning Trends?\n Top Machine Learning Trends in 2025\n\n+ 1. Digital Data Forgetting Using Machine Learning (Rather Machine Unlearning!)\n+ 2. Interoperability among Neural Networks\n+ 3",
-          "score": 0.8364614
+          "title": "AI trends: A closer look at machine learning's role - IBM",
+          "url": "CAESegHrOzAVHS5KP9tnqw8w7Bkjaog7GBbNZPReS2tWFf769zzl9Vq-WfnNHBExQssPUR0MHn12uTNhaRj0FxQFFsjS17zVZiJ_huP3dkXpehTD_O9YuvUfC79PSoX15HMSmmO6fXCIR_eQc2EZ1pZUrwShN3iITjcVkGEl",
+          "content": "Topics. Analytics \u00b7 Artificial intelligence \u00b7 Asset management \u00b7 Business automation \u00b7 Business operations \u00b7 Cloud \u00b7 Compute and servers \u00b7 Data management",
+          "score": 0.8058924
         },
         {
-          "title": "10 Machine Learning Trends to Watch Out for in 2026 and Beyond",
-          "url": "https://softteco.com/blog/machine-learning-trends",
-          "content": "In the coming years, we will see more machine learning trends that shift towards automation, speed, efficiency, and become increasingly specialized. Since machine learning is a valuable asset for any company, it must become more affordable and versatile to benefit businesses of all sizes and types. Organizations that implement machine learning technology can benefit from automated complex processes, increased employee productivity, improved customer service, and reduced human errors. [...] In ad",
-          "score": 0.8342047
+          "title": "New Trends in Machine Learning - European Open Science",
+          "url": "CAESbwHrOzAV75yeUanofs6khB2fQU3CwLHX1Fuv4QbqAVn3bfkxztWG3fITWda0nT-2Vo7t_CJ00-492piJY0t1JnfPDqkHdZDmQYf_Jxig47qHraPuY9lwctp6bY6lzxVr7-F55JgrwLt-G0-T43yj-g",
+          "content": "This paper offers a concise review of current ML trends, including Federated Learning (FL), Explainable Artificial Intelligence (XAI), Graph",
+          "score": 0.7971311
         },
         {
-          "title": "Machine Learning Statistics for 2026: The Ultimate List",
-          "url": "https://www.itransition.com/machine-learning/statistics",
-          "content": "Healthcare  Finance  Manufacturing  Retail  Insurance  Software & hi-tech  Professional services\n\nCase studies\n\nTRENDING TOPICS\n\nArtificial intelligence  ERP  Customer experience  Cloud  Internet of Things  RPA  Blockchain\n\nINDUSTRY-RELATED TOPICS\n\nHealthcare  Retail & Ecommerce  Fintech  Insurance  Edtech  Manufacturing\n\nOUR EXPERTS\n\nMeet the team\n\nOverview  Approach  Awards  Partnership  Careers  News\n\nContact us\n\nhero background image\n\n# Machine learning statistics\n\nJanuary 27, 2026 [...] Sch",
-          "score": 0.79099923
+          "title": "Machine learning trend analysis in 2025 - Cambridge Advance Online",
+          "url": "CAESfAHrOzAVNuXNR1Y9ALGNko9NMMwqqD4VGh-SQKNzlLHyEBHE1S0lQRAR1sVj7LG1U_u_id7P2BCD1Gjz4P9EMdSYuOquMIdqyOdHdVIivRhz8mvy3vxG2ZQuRBq75UmS2LNGaWdNu1IRT1cyQf1oLHIFQpszT9TP0pFMkG0",
+          "content": "1. Autonomous decision-making \u00b7 2. Federated learning \u00b7 3. MLOps \u00b7 4. AI and sustainability \u00b7 5. Quantum ML \u00b7 6. Explainable AI (XAI) \u00b7 7. Edge AI \u00b7 8.",
+          "score": 0.72675586
         },
         {
-          "title": "AI trends: A closer look at machine learning's role | IBM",
-          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
-          "content": "Unsupervised and reinforcement ML are both expected to expand in the coming year, in part because of no-code ML.\n\nAs ML evolves, we will likely see growth in other technologies like augmented reality and quantum computing. \u201cMachine learning models can generate 3D objects for apps and other uses in augmented reality,\u201d Lu\u00eds Fernando Torres wrote. In addition, ML will play a role in improved facial recognition technology and interactions with generative AI. [...] Security   Artificial intelligence\n",
-          "score": 0.6786044
+          "title": "33 Machine Learning Projects for All Levels in 2026 - DataCamp",
+          "url": "CAESfgHrOzAVlOh9ubOdTm57raeonIOV2PpK6qC-WnNZ2nXwhBaleV3FiReaEwqtSZFQrNPXynwpjbG38C8zFlzB-StninLVu4KbPBWc6fFMhznxt2S2pil2fQZnpswrflE_1aTIZBV0w1QtFRmkaS1uZOGXHrpohUk5ZTj_djLshg",
+          "content": "Machine learning projects for beginners, final year students, and professionals. The list consists of guided projects, tutorials, and example source code.",
+          "score": 0.14828165
         }
       ]
     },
     {
       "query": "new data science tools and frameworks",
-      "answer": "In addition to Scikit-learn, TensorFlow, PyTorch, and Keras, modern data science tools include Streamlit for app development, Apache Arrow for data processing, and Apache Spark for big data analytics.",
+      "answer": "Essential data science tools include Scikit-learn, TensorFlow, PyTorch, and Jupyter Notebook for interactive computing. Additionally, Streamlit and Apache Arrow are notable for application development and data processing efficiency.",
       "results": [
+        {
+          "title": "Top 65 Data Science Tool List use by Data Data Scientist PDF",
+          "url": "https://brollyacademy.com/data-science-tool-list",
+          "content": "1. Big Data Framework Support: HDInsight supports popular big data frameworks such as Apache Hadoop, Spark, HBase, and Hive, making it easy to process large-scale data with familiar tools.\n2. Scalability: HDInsight is designed to scale dynamically, allowing users to add or remove resources depending on the processing power and storage needs of the workloads. [...] 1. Comprehensive Data Science Tools: Watson Studio provides a wide range of tools for data preparation, exploration, model building, ",
+          "score": 0.77487355
+        },
         {
           "title": "Data Science Tools: Our Top 11 Recommendations for 2026",
           "url": "https://roadmap.sh/ai-data-scientist/tools",
@@ -64,50 +70,44 @@
         {
           "title": "20 Tools for Data Scientists | Pragmatic Institute",
           "url": "https://www.pragmaticinstitute.com/resources/articles/data/20-data-tools-commonly-used-by-data-practitioners",
-          "content": "Since its inception by the Facebook AI Research (FAIR) team in 2017, PyTorch has become a popular and efficient framework for creating deep learning models. It is an open-source library based on Torch and designed to provide greater flexibility and increased speed for implementing deep neural networks.\n\n### 18. Scikit-learn [...] ### 9. Pandas\n\nPandas is an open-source data manipulation and analysis tool that provides labeled data structures. It is built on Python\u2019s Numpy and is used in machine ",
-          "score": 0.6479992
-        },
-        {
-          "title": "Tools for Data Science | Coursera",
-          "url": "https://www.coursera.org/learn/open-source-tools-for-data-science",
-          "content": "You will become familiar with the Data Scientist\u2019s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations. This course gives plenty of hands-on experience in order to [...] ",
-          "score": 0.61307496
+          "content": "### 9. Pandas\n\nPandas is an open-source data manipulation and analysis tool that provides labeled data structures. It is built on Python\u2019s Numpy and is used in machine learning and data science tasks.\n\nPandas enables users to perform various tasks such as data filling, merges and joins, statistical analysis, loading and saving data, and data visualization. [...] Machine learning tools allow computers to learn from data and make decisions without being explicitly programmed. They use algorithms t",
+          "score": 0.6388584
         }
       ]
     },
     {
       "query": "latest research papers AI ML simplified",
-      "answer": "Recent AI ML research highlights advancements in large language models, contrastive learning frameworks, and new datasets for diverse applications. Key papers include \"Generative Adversarial Nets\" and \"BERT: Pre-training of Deep Bidirectional Transformers.\"",
+      "answer": "Recent AI/ML research includes advancements in quantum machine learning and efficient language systems. Key papers focus on reducing computational costs and improving model interpretability. Leading organizations publish significant findings regularly.",
       "results": [
         {
-          "title": "dair-ai/ML-Papers-Explained",
-          "url": "https://github.com/dair-ai/ML-Papers-Explained",
-          "content": "| Idefics2 | April 2024 | Improvement upon Idefics1 with enhanced OCR capabilities, simplified architecture, and better pre-trained backbones, trained on a mixture of openly available datasets and fine-tuned on task-oriented data. |\n| Phi 3 Vision | May 2024 | First multimodal model in the Phi family, bringing the ability to reason over images and extract and reason over text from images. | [...] | Paper | Date | Description |\n --- \n| SimCLR | February 2020 | A simplified framework for contrasti",
-          "score": 0.69697046
+          "title": "Top AI & ML Research Papers | NYAI",
+          "url": "https://www.nyai.co/top-ai-ml-research-papers",
+          "content": "Thanks to our friends at Bytez, below are the most cited & discussed research papers by AI researchers & data scientists this past month.\n\n \n\nHow are papers ranked?\n\n## August 2020\n\n## April 2020\n\n#1. Learning to Simulate Complex Physics with Graph Networks\n\nAuthors: Alvaro Sanchez-Gonzalez, Jonathan Godwin, Tobias Pfaff, Rex Ying, Jure Leskovec, Peter W. Battaglia [...] #10. SLIDE: In Defense of Smart Algorithms Over Hardware Acceleration for Large-scale Deep learning Systems\n\nAuthors: Beidi Ch",
+          "score": 0.62687886
         },
         {
-          "title": "10 Must Read Machine Learning Research Papers - GeeksforGeeks",
-          "url": "https://www.geeksforgeeks.org/machine-learning/10-must-read-machine-learning-research-papers",
-          "content": "6. \u201cGenerative Adversarial Nets\u201d by Ian Goodfellow et al.\n 7. \u201cBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\u201d by Jacob Devlin et al.\n 8. \u201cDeep Residual Learning for Image Recognition\u201d by Kaiming He et al.\n 9. \u201cA Survey on Deep Learning in Medical Image Analysis\u201d by Geert Litjens et al.\n 10. \u201cAlphaGo: Mastering the Game of Go with Deep Neural Networks and Tree Search\u201d by Silver et al. [...] 1. \u201cA Few Useful Things to Know About Machine Learning\u201d by Pedro Domingo",
-          "score": 0.58123237
+          "title": "5 Breakthrough Machine Learning Research Papers Already in 2025",
+          "url": "https://machinelearningmastery.com/5-breakthrough-machine-learning-research-papers-already-in-2025",
+          "content": "Machine learning research continues to advance rapidly. The first few months of 2025 have produced several important papers that introduce new capabilities and improve existing techniques.\n\nIn this article, you\u2019ll learn about five significant machine learning research papers published so far in 2025. These papers cover different areas including computer vision, language models, data evaluation, and model efficiency.\n\nAfter reading this article, you will understand: [...] This technology acts lik",
+          "score": 0.5792344
         },
         {
-          "title": "AI-Based Modeling: Techniques, Applications and Research ...",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8830986",
-          "content": "33..Bangzhong Gu, Rongjun Ge, Yang Chen, Limin Luo, Gouenou Coatrieux. Automatic and robust object detection in x-ray baggage inspection using deep convolutional neural networks. _IEEE Trans Ind Electron_. 2020. 20:20.  [Google Scholar]\n   34..Hamamoto AH, Carvalho LF, Sampaio LDH, Abr\u00e3o T, Proen\u00e7a ML. Network anomaly detection system using genetic algorithm and fuzzy logic. _Expert Syst Appl_. 2018. 92:390-402. doi: 10.1016/j.eswa.2017.09.013 [DOI] [Google Scholar] [...] 80..Sarker IH. Deep lea",
-          "score": 0.57837737
-        },
-        {
-          "title": "10 Noteworthy AI Research Papers of 2023",
-          "url": "https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023",
-          "content": "To conclude an eventful 2023 in machine learning and AI research, I'm excited to share 10 noteworthy papers I've read this year. My personal focus has been more on large language models, so you'll find a heavier emphasis on large language model (LLM) papers than computer vision papers this year. [...] # Ten Noteworthy AI Research Papers of 2023\n\nSebastian Raschka, PhD\n\nThis year has felt distinctly different. I've been working in, on, and with machine learning and AI for over a decade, yet I can",
-          "score": 0.509887
-        },
-        {
-          "title": "AI Papers to Read in\u00a02025 | Towards Data Science",
+          "title": "AI Papers to Read in 2025",
           "url": "https://towardsdatascience.com/ai-papers-to-read-in-2025",
-          "content": "Skip to content\n\nTowards Data Science\n\nPublish AI, ML & data-science insights to a global community of data professionals.\n\nSign in\n\nSubmit an Article\n\n LinkedIn\n X\n\nArtificial Intelligence\n\n# AI Papers to Read in 2025\n\nAnd Why They Matter for Anyone Working With AI\n\nYgor Serpa\n\n18 min read\n\nPhoto by Susan Q Yin on Unsplash [...] Further Reading: Following the history of ImageNet champions, you can read the ZF Net, VGG, Inception-v1, and ResNet papers. This last one achieved super-human performa",
-          "score": 0.38055226
+          "content": "### #5 AdderNet\n\n> Chen, Hanting, et al. \u201cAdderNet: Do we really need multiplications in deep learning?.\u201d Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.\n\nWhat if we didn\u2019t do matrix multiplication at all? This paper goes a totally different route, showing it is possible to have effective neural networks without matrix multiplication. The main idea is to replace convolutions with computing the L1 difference between the input and the sliding filters. [...]",
+          "score": 0.44160134
+        },
+        {
+          "title": "Publications",
+          "url": "https://deepmind.google/research/publications",
+          "content": ":   Imitation Learning is Probably Existentially Safe\n :   4 November 2025\n  :   To Mask or to Mirror: Human-AI Alignment in Collective Reasoning\n :   30 October 2025\n  :   A Pragmatic View of AI Personhood\n :   29 September 2025\n  :   AI-Generated Video Detection via Perceptual Straightening\n :   24 September 2025\n  :   EmbeddingGemma: Powerful and Lightweight Text Representations [...] :   15 February 2026\n  :   Simplicity and Complexity in Combinatorial Optimization\n :   12 February 2026\n  : ",
+          "score": 0.41506538
+        },
+        {
+          "title": "dair-ai/AI-Papers-of-the-Week: Highlighting the top ML ... - GitHub",
+          "url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
+          "content": "Top AI Papers of the Week (Mar 27 - April 2)\n Top AI Papers of the Week (Mar 20-Mar 26)\n Top AI Papers of the Week (Mar 13-Mar 19)\n Top AI Papers of the Week (Mar 6-Mar 12)\n Top AI Papers of the Week (Feb 27-Mar 5)\n Top AI Papers of the Week (Feb 20-26)\n Top AI Papers of the Week (Feb 13 - 19)\n Top AI Papers of the Week (Feb 6 - 12)\n Top AI Papers of the Week (Jan 30-Feb 5)\n Top AI Papers of the Week (Jan 23-29)\n Top AI Papers of the Week (Jan 16-22)\n Top AI Papers of the Week (Jan 9-15) [...] T",
+          "score": 0.3669078
         }
       ]
     }
