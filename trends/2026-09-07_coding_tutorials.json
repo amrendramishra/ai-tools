@@ -1,0 +1,115 @@
+{
+  "niche_id": "coding_tutorials",
+  "niche_name": "Coding Tutorials",
+  "timestamp": "2026-09-07T23:53:03.292719",
+  "searches": [
+    {
+      "query": "trending programming languages 2025",
+      "answer": "Python, Java, and JavaScript remain dominant in 2025, with Rust and Swift gaining popularity. Python leads in AI and data science, while Rust is admired for systems programming.",
+      "results": [
+        {
+          "title": "Top Programming Languages to Learn in 2025 | Pluralsight",
+          "url": "https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025",
+          "content": "Register by Aug 31 to secure preferred\n\npricing for our annual customer event.\n\n# Top 10 programming languages for 2025\n\nPython continues its multi-year domination, Java and JavaScript remain strong, while Rust and Swift are slowly increasing in year-over-year popularity.\n\nAdam Ipsen\n\nBy Adam Ipsen\n\nNov 7, 2024 \u2022 6 Minute Read\n\nPlease set an alt value for this image... [...] ## #1 - Python\n\nIt was no surprise for us to see Python at the top of this list. Not only has it dominated Pluralsight\u2019s r",
+          "score": 0.902687
+        },
+        {
+          "title": "Most In-demand Programming Languages for 2026",
+          "url": "https://www.itransition.com/developers/in-demand-programming-languages",
+          "content": "Apex\n\nRuby\n\nScala\n\nScheme title: Top programming languages 2025 | Jobs  \n Data source: spectrum.ieee.org \u2014 The Top Programming Languages 2025\n\n### Programming language rankings\n\nPython\n\nC++\n\nC#\n\nJavaScript\n\nSQL\n\nGo\n\nDart\n\nRust\n\nRuby\n\nJava\n\nC\n\nTypeScript\n\nShell\n\nPHP\n\nR\n\nKotlin\n\nSwift\n\nObjective-C\n\nScheme title: Top programming languages 2025 | Trending  \n Data source: spectrum.ieee.org \u2014 The Top Programming Languages 2025\n\n100% [...] | Key stats |\n\n| PHP ranks among the top 5 languages in the 202",
+          "score": 0.902481
+        },
+        {
+          "title": "TIOBE Index - TIOBE Software",
+          "url": "https://www.tiobe.com/tiobe-index",
+          "content": "| Aug 2026 | Aug 2025 | Change | Programming Language | Ratings | Change |\n ---  ---  --- |\n| 1 | 1 | Python | 18.53% | -7.61% |\n| 2 | 3 | C | 11.10% | +2.07% |\n| 3 | 2 | C++ | 8.62% | -0.56% |\n| 4 | 4 | Java | 8.25% | -0.34% |\n| 5 | 5 | C# | 4.09% | -1.43% |\n| 6 | 6 | JavaScript | 2.63% | -0.52% |\n| 7 | 7 | Visual Basic | 2.18% | -0.15% |\n| 8 | 12 | SQL | 1.88% | +0.16% |\n| 9 | 14 | R | 1.56% | +0.19% |\n| 10 | 18 | Rust | 1.45% | +0.31% |\n| 11 | 10 | Delphi/Object Pascal | 1.37% | -0.46% |",
+          "score": 0.88444936
+        },
+        {
+          "title": "Technology | 2025 Stack Overflow Developer Survey",
+          "url": "https://survey.stackoverflow.co/2025/technology",
+          "content": "Rust is yet again the most admired programming language (72%), followed by Gleam (70%), Elixir (66%) and Zig (64%). Gleam is a new addition to the list, and for good reason - developers like it!\n\nWhich programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year? (If you both worked with the language and want to continue to do so, please check both boxes in that row.) [...] Basic (.Net)1.9%49.3%Mo",
+          "score": 0.8773195
+        },
+        {
+          "title": "Top Programming Languages to Learn in 2025 (and Beyond) \u2013 Career Connections Center University of Florida",
+          "url": "https://careerhub.ufl.edu/blog/2025/10/13/top-programming-languages-to-learn-in-2025-and-beyond",
+          "content": "Python continues to dominate AI and data science, with over 108,000 job openings.\n JavaScript is used by 62% of developers\u2014essential for web development.\n Swift and Kotlin are must-learns for mobile app development.\n Rust and Go are rising fast, especially for cloud infrastructure and systems programming.\n AI-powered tools are changing how developers work\u2014making adaptability and problem-solving more important than ever. [...] Looking ahead to 2026, these trends are expected to accelerate, with R",
+          "score": 0.87605256
+        }
+      ]
+    },
+    {
+      "query": "most popular coding tutorials beginners",
+      "answer": "Popular beginner coding tutorials include freeCodeCamp, Codecademy, and Coursera's \"Programming for Everybody (Getting Started with Python).\" These platforms offer interactive courses and hands-on practice.",
+      "results": [
+        {
+          "title": "How to Code for Beginners: Best Ways to Learn How to Code",
+          "url": "https://www.bitdegree.org/tutorials/how-to-code-for-beginners",
+          "content": "When learning how to code for beginners, having a hard copy of the study material allows for easy referencing. However, you can download digital copies of these textbooks if you prefer to read online. A popular choice is \"Coding for Dummies\" by Nikhil Abraham, so feel free to check it out. [...] Coding has exploded in recent years, changing from something used in computer games and the occasional electronic device to something which shapes the way that we live in the modern world. This means tha",
+          "score": 0.79883134
+        },
+        {
+          "title": "Codesmith | Top 10 Beginner Coding Platforms to Kickstart Your Programming Journey",
+          "url": "https://codesmith.io/blog/top-10-beginner-coding-platforms-to-kickstart-your-programming-journey",
+          "content": "W3Schools offers simple, example-based coding tutorials with instant code testing. Its \u201cTry It Yourself\u201d editor is great for immediate experimentation, especially in HTML, CSS, JavaScript, and SQL.\n\nScrimba specializes in HTML, CSS, JavaScript, and React with a project-first approach. Its standout feature is that it lets you pause tutorials and edit code directly inside the lesson, perfect for front-end learners. Best for coding challenges & problem-solving [...] Codewars levels up your skills w",
+          "score": 0.7449724
+        },
+        {
+          "title": "Best Coding Courses & Certificates [2026] | Coursera",
+          "url": "https://www.coursera.org/courses?query=coding",
+          "content": "Beginner-friendly coding courses include Programming for Everybody (Getting Started with Python), Python from Scratch: Learn by Coding, and Coding for Everyone: C and C++. These courses introduce programming concepts through approachable examples and practice, making them suitable for learners who are new to writing code. If you are interested in broader software development, IBM Full Stack Software Developer can help connect coding basics with front-end, back-end, and application-building [...]",
+          "score": 0.6907474
+        },
+        {
+          "title": "How to Start Coding from Scratch (Free 2026 Guide) | daily.dev",
+          "url": "https://daily.dev/blog/beginners-guide-how-to-start-learning-coding-from-scratch",
+          "content": "Take an introductory coding course online. Platforms like freeCodeCamp, Codecademy, and Khan Academy offer great interactive courses for coding beginners. These teach you programming concepts without needing you to install anything on your computer.\n Learn the basics. Start by getting familiar with essential terms and concepts like algorithms, variables, loops, conditionals, functions, etc. Free beginner coding books and tutorials are easily available online. [...] Codecademy: Offers free course",
+          "score": 0.6636041
+        },
+        {
+          "title": "Best Beginner Coding Courses & Certificates [2026] | Coursera",
+          "url": "https://www.coursera.org/courses?query=coding&productDifficultyLevel=Beginner",
+          "content": "## Popular Beginner Coding Courses and Certifications\n\n cplus logo \n\n  ## Save 40% for 3 months\n\n  [Get Coursera Plus](\n \n\n  U\n\n  University of Michigan\n\n  ### Programming for Everybody (Getting Started with Python)\n\n  Skills you'll gain: Debugging, Programming Principles, Program Development, Computer Programming, Python Programming, Computer Programming Tools, Computational Thinking, Software Installation\n\n  4.8 stars, 234K reviews, Beginner, Course, 1 - 3 Months [...] Beginner coding courses ",
+          "score": 0.6469293
+        }
+      ]
+    },
+    {
+      "query": "new frameworks and libraries developers",
+      "answer": "LangChain and Keras are popular frameworks for AI development; Vue.js and Pygame are favored for web and game development, respectively.",
+      "results": [
+        {
+          "title": "Top 9 AI Frameworks & Libraries for Developers (2026 Guide)",
+          "url": "https://aimojo.io/ai-frameworks-libraries",
+          "content": "AI frameworks and libraries are the building blocks of modern artificial intelligence. Think of them as toolkits that help developers create smart applications without reinventing the wheel. These tools provide pre-written code and algorithms, saving time and effort in the development process. [...] ### 8. LangChain\n\nLangChain has appeared as a turning-point AI framework and libraries, transforming the way developers interact with large language models (LLMs). This powerful tool simplifies the c",
+          "score": 0.7803451
+        },
+        {
+          "title": "19 Frameworks, Libraries, and Tools That Developers Love (and Hate) | Dice.com Career Advice",
+          "url": "https://www.dice.com/career-advice/19-frameworks-libraries-tools-developers-love-hate",
+          "content": "Whatever their specialization, the good news is that developers who want to learn a new framework or tool are free to do so. Getting rid of a bad framework or tool can prove a little more difficult, though, if your company or team is dedicated to using it; in those cases, it may take lots of negotiation and persuasion (and perhaps a good deal of work, depending on project stage) to shift to a suitable alternative.\n\nprogramming learning\n\nAUTHOR ### Nick Kolakowski [...] The most-dreaded framework",
+          "score": 0.6821721
+        },
+        {
+          "title": "Top 7 JavaScript Frameworks and Libraries For Web Developers - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/blogs/top-javascript-frameworks-and-libraries-for-web-developers",
+          "content": "Vue.js has a flexible architecture to focus on component composition and declarative rendering. It has an integration mode feature by which developers can efficiently create SPAs and PWAs. This framework allows developers to extend HTML through HTML attributes, known as the directive. Directives provide good functionality for HTML applications, and these directives can be user-defined or built-in. [...] ## 3. Vue.js\n\nVue.js is an open-source JavaScript framework developed for improving the featu",
+          "score": 0.63179934
+        },
+        {
+          "title": "Datalog libraries and frameworks for developers",
+          "url": "https://datalog.dev/article/Datalog_libraries_and_frameworks_for_developers.html",
+          "content": "## Conclusion\n\nIn conclusion, Datalog is a powerful and intuitive way of working with data that is becoming increasingly popular among developers. By using Datalog libraries and frameworks, developers can get results much more quickly and with much less effort than traditional programming languages. [...] ### Apache Jena\n\nApache Jena is a framework that can be used for building semantic web applications. It provides a powerful way of working with RDF data in a way that is much more intuitive tha",
+          "score": 0.62633044
+        },
+        {
+          "title": "Top 10 Amazing Python Libraries And Frameworks For Game Developers",
+          "url": "https://www.cselectricalandelectronics.com/top-10-amazing-python-libraries-and-frameworks-for-game-developers",
+          "content": "The next library in our line-up is Kivy, a very famous and very useful library for python game developers. It is also a cross-platform library that runs on Mac, Windows, Linux, OS X, Android, and Raspberry Pi. Besides coming under an MIT license is it completely 100% free to access the library. The biggest advantage of this library over the other was the novel person interface, like multi-bit applications. It can also work on various inputs, devices, and protocols such as Macintosh OS X [...] of",
+          "score": 0.60274047
+        }
+      ]
+    }
+  ]
+}
