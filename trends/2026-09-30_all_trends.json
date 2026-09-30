@@ -1,0 +1,204 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T00:56:58.406687",
+  "niches": {
+    "ai_tools": {
+      "niche_id": "ai_tools",
+      "niche_name": "AI Tools & Automation",
+      "timestamp": "2026-09-30T00:56:58.406697",
+      "searches": [
+        {
+          "query": "trending AI tools 2025",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "new AI automation tools released this week",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "best free AI tools for productivity",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "tech_explained": {
+      "niche_id": "tech_explained",
+      "niche_name": "Tech Explained in Hindi",
+      "timestamp": "2026-09-30T00:56:59.056464",
+      "searches": [
+        {
+          "query": "latest technology news India",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "trending tech topics explained simply",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "new gadgets and tech releases India",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "coding_tutorials": {
+      "niche_id": "coding_tutorials",
+      "niche_name": "Coding Tutorials",
+      "timestamp": "2026-09-30T00:56:59.699466",
+      "searches": [
+        {
+          "query": "trending programming languages 2025",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "most popular coding tutorials beginners",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "new frameworks and libraries developers",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "startup_ideas": {
+      "niche_id": "startup_ideas",
+      "niche_name": "Startup & Business Ideas",
+      "timestamp": "2026-09-30T00:57:00.388980",
+      "searches": [
+        {
+          "query": "trending startup ideas India 2025",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "new business opportunities technology",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "successful Indian startups latest funding",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "personal_finance": {
+      "niche_id": "personal_finance",
+      "niche_name": "Personal Finance & Investment",
+      "timestamp": "2026-09-30T00:57:00.990609",
+      "searches": [
+        {
+          "query": "trending investment opportunities India",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "personal finance tips young professionals",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "stock market trends India today",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "productivity": {
+      "niche_id": "productivity",
+      "niche_name": "Productivity & Self-Improvement",
+      "timestamp": "2026-09-30T00:57:01.587280",
+      "searches": [
+        {
+          "query": "trending productivity hacks 2025",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "best self-improvement techniques",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "time management tools and methods",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "cloud_devops": {
+      "niche_id": "cloud_devops",
+      "niche_name": "Cloud & DevOps",
+      "timestamp": "2026-09-30T00:57:02.197789",
+      "searches": [
+        {
+          "query": "trending cloud computing topics AWS Azure",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "new DevOps tools and practices",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "Kubernetes Docker latest updates",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "data_science": {
+      "niche_id": "data_science",
+      "niche_name": "Data Science & ML",
+      "timestamp": "2026-09-30T00:57:02.794068",
+      "searches": [
+        {
+          "query": "trending machine learning topics",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "new data science tools and frameworks",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "latest research papers AI ML simplified",
+          "answer": "",
+          "results": []
+        }
+      ]
+    },
+    "side_hustle": {
+      "niche_id": "side_hustle",
+      "niche_name": "Side Hustle & Freelancing",
+      "timestamp": "2026-09-30T00:57:03.509589",
+      "searches": [
+        {
+          "query": "trending side hustles online 2025",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "freelancing opportunities India tech",
+          "answer": "",
+          "results": []
+        },
+        {
+          "query": "make money online skills in demand",
+          "answer": "",
+          "results": []
+        }
+      ]
+    }
+  }
+}
