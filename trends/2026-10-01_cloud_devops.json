@@ -1,0 +1,22 @@
+{
+  "niche_id": "cloud_devops",
+  "niche_name": "Cloud & DevOps",
+  "timestamp": "2026-10-01T00:59:24.037638",
+  "searches": [
+    {
+      "query": "trending cloud computing topics AWS Azure",
+      "answer": "",
+      "results": []
+    },
+    {
+      "query": "new DevOps tools and practices",
+      "answer": "",
+      "results": []
+    },
+    {
+      "query": "Kubernetes Docker latest updates",
+      "answer": "",
+      "results": []
+    }
+  ]
+}
