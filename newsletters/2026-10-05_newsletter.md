@@ -1,0 +1,314 @@
+# 📰 Weekly Tech & AI Newsletter
+
+**Week of September 28 - October 05, 2026**
+
+---
+
+## 🤖 AI & Machine Learning
+
+> Six confirmed AI model releases appeared in the trailing seven-day window: MiniMax M3.1 Flash Preview (MiniMax), Gemini 3.8 Flash TTS and Flash-Lite TTS (Google), Claude Opus 5.5 (Anthropic), GPT-6 Sol and GPT-6 Luna (OpenAI), MiMo-V2.6-Pro and MiMo-V2.6-Flash (Xiaomi), and Grok 4.7 (xAI). Additionally, Meta released Muse Spark AI model this week, positioning it in direct competition with other leading AI models.
+
+### 1. [New AI Models: Live Release Tracker (Last 24 Hours) | BenchLM](https://benchlm.ai/model-updates)
+
+### What AI models were released this week?
+
+6 confirmed releases appear in the trailing seven-day window: MiniMax M3.1 Flash Preview (MiniMax), Gemini 3.8 Flash TTS and Flash-Lite TTS (Google), Claud...
+
+### 2. [OpenAI, Meta and SpaceXAI push new AI models in a week of major releases | Euronews](https://www.euronews.com/next/2026/07/08/openai-meta-and-spacexai-push-new-ai-models-in-a-week-of-major-releases)
+
+The Information reported that the model could be released as early as Wednesday and is expected to process information quickly, making it competitive in some respects with Anthropic’s Opus 4.8 and Ope...
+
+### 3. [AI News: 5 New Models Dropped This Week!](https://www.youtube.com/watch?v=5cMZqjrgq6Y)
+
+So, it's been a big week in the world of AI with a ton of new models that came out, some fresh drama, and some really interesting stuff that you're probably going to want to know about. I'm not going ...
+
+### 4. [Meta released a new AI model this week. JPMorgan sees it as a turning point for the stock](https://www.cnbc.com/2026/04/09/meta-released-a-new-ai-model-this-week-jpmorgan-sees-it-as-a-turning-point-for-the-stock.html)
+
+Meta Platforms is a buy following the release of its long-awaited artificial intelligence model this week, according to JPMorgan. The investment bank reiterated its overweight rating for Meta. It also...
+
+### 5. [AI Updates Today (October 2026) – Latest AI Model Releases](https://llm-stats.com/llm-updates)
+
+### Claude Opus 5.5
+
+OpenAI
+
+### GPT-6 Luna
+
+OpenAI
+
+### GPT-6 Sol
+
+Xiaomi
+
+### MiMo-V2.6-Flash
+
+Xiaomi
+
+### MiMo-V2.6-Pro
+
+xAI
+
+### Grok 4.7
+
+## Models that got worse
+
+Sigma-normalized vs. each model...
+
+---
+
+## 💻 Software Development
+
+> According to a Reddit post, popular JavaScript libraries include React, Angular, and Vue. A YouTube video from CoderOne mentions a new framework called "New" released recently, claiming to outperform React, Vue, and others. The video also highlights the frequent release of new JavaScript front-end frameworks. The sources do not provide specific details about the release date or official website for the new framework.
+
+### 1. [Programming Languages | InfoWorld](https://www.infoworld.com/programming-languages)
+
+By Simon Bisson
+
+Oct 1, 20268 mins
+
+Libraries and FrameworksMicrosoft .NETRust
+
+feature
+
+Image
+
+### Nine unlikely trends shaping software development
+
+By Matthew Tyson
+
+Sep 28, 202611 mins
+
+Developmen...
+
+### 2. [Developer | Latest Developer News, Analysis & Events](https://www.developer-tech.com)
+
+AI-Tools
+
+2nd October 2026
+
+### OpenAI Codex Security Cloud reviews new GitHub commits
+
+AI-Tools
+
+30th September 2026
+
+### MongoDB Atlas Agent Engine takes AI agents out of the sandbox
+
+Testing & QA
+
+...
+
+### 3. [Development Reviews, News and Analysis | IT Pro](https://www.itpro.com/software/development)
+
+News
+The tech giant hopes support for the open source programming language could drive AI agent safety improvements
+
+By Ross Kelly
+
+Published 28 July 26
+
+Female software engineer with spectacles worki...
+
+### 4. [Software Development Overview, News & Trends | The New Stack](https://thenewstack.io/software-development)
+
+Aug 8th 2026 10:00am, by   Miguel Duarte Barroso
+
+C++   Developer tools   Go   Java   JavaScript   Programming Languages   Python   Rust   TypeScript
+
+Open source USearch library jumpstarts ScyllaDB v...
+
+### 5. [[AskJS] I love new javascript frameworks and libraries. ...](https://www.reddit.com/r/javascript/comments/12nbn50/askjs_i_love_new_javascript_frameworks_and)
+
+React: A popular library for building user interfaces. Angular: A powerful framework for building complex, scalable web applications. Vue: A...
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+> The sources indicate that Kubernetes employs rolling updates as its default deployment strategy, which allows for gradual replacement of old pods with new ones to ensure zero-downtime upgrades. This strategy is highlighted in various contexts, including a guide on live cluster updates, a DevOps tutorial, and a video demonstration. Rolling updates are emphasized as a key concept for production Kubernetes workloads, ensuring applications remain available during deployments. The sources also mention that Kubernetes handles the release with built-in rolling updates and health checks, and that this method fits most everyday releases, especially for stateless web apps and APIs.
+
+### 1. [Mastering Kubernetes Live Cluster Updates: A Complete DevOps and Platform Engineering Guide](https://medium.com/@salwan.mohamed/mastering-kubernetes-live-cluster-updates-a-complete-devops-and-platform-engineering-guide-80379eed6252)
+
+Sitemap
+
+Open in app
+
+Sign up
+
+Sign in
+
+[](
+
+Get app
+
+Write
+
+Search
+
+Sign up
+
+Sign in
+
+Image 1: Unknown user
+
+Member-only story
+
+DevOps
+
+Kubernetes
+
+Updates
+
+Ci Cd Pipeline
+
+Packaging
+
+# Mastering Kub...
+
+### 2. [Understanding the Role of Kubernetes in DevOps](https://jellyfish.co/library/devops/kubernetes)
+
+1. A developer pushes code to the repository.
+2. The pipeline builds a Docker image from that code.
+3. Automated tests run against the image to catch problems early.
+4. The pipeline pushes the finishe...
+
+### 3. [Kubernetes 1.34 Release Notes Explained for DevOps ...](https://blog.stackademic.com/kubernetes-1-34-released-today-top-features-you-need-to-know-9c3e5570839c)
+
+Kubernetes 1.34 was released on August 27, 2025. Learn the top new features, security changes, and what DevOps teams should test. The GA is out...
+
+### 4. [Day 51 Rolling Update in Kubernetes | 100 Days of DevOps](https://www.youtube.com/watch?v=HHTa53Sbw6M)
+
+In today's Kubernetes challenge, we perform a rolling update on an existing Deployment running the nginx web server....
+
+### 5. [How Kubernetes Rolling Updates Work (Hands-On Deployment Demo) | Kubernetes | DevOps](https://www.youtube.com/watch?v=2iKgnUZvsDM)
+
+Topics covered in this video:
+• What Rolling Update deployment strategy is
+• How Kubernetes replaces pods gradually
+• How zero-downtime upgrades work in Kubernetes
+• Understanding the rolling update p...
+
+---
+
+## 🚀 Startups & Tech Industry
+
+> The tech industry news this week includes the AI race heating up as OpenAI flags an alleged model-copying campaign, California Gov. Gavin Newsom banning AI 'robo bosses' in a landmark state law, and Trump's meeting with tech leaders leaving AI safety more unsettled than ever. Additionally, Blue Origin's CEO announced an oversubscribed funding round, and Grindr expanded beyond dating with a $250 million PurposeMed acquisition. Meanwhile, the Right Livelihood Award recognized efforts against AI-related harms, and SpaceX's rideshare launch marked a milestone for Starfish Space’s Otter space vehicle.
+
+### 1. [Indian Startup Funding Trends Q1 2026 | Inc42 Media posted on the topic | LinkedIn](https://www.linkedin.com/posts/inc42_startupfunding-indianstartups-startupecosystem-activity-7448708023226892289-0D_s)
+
+Inc42 Media
+
+688,689 followers
+
+ 3mo 
+
+   Report this post
+
+Where is startup funding flowing in India? Q1 2026 data shows that while capital is becoming more selective, activity remains concentrated i...
+
+### 2. [Indian Tech Startup Funding Report Q1 2026](https://inc42.com/reports/indian-tech-startup-funding-report-q1-2026)
+
+India's startup ecosystem is entering a clear reset. Funding fell 26% YoY to $2.3 Bn in Q1 2026, with zero $100 Mn+ deals for the first time...
+
+### 3. [Latest Startup l Technology News | Entrackr](https://entrackr.com)
+
+[Funding and acquisitions in Indian startups this week [Sep 28 - Oct 3]](/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-sep-28-oct-3-12618694...
+
+### 4. [India’s $25 Billion Deep Tech Push: Can It Catch Up With U.S. And China?](https://www.youtube.com/watch?v=ju7VEk4aE7c)
+
+# India’s $25 Billion Deep Tech Push: Can It Catch Up With U.S. And China?
+## Channel: Mint (verified)
+1.52M subscribers
+20 likes
+
+### Description
+2,596 views
+Posted: 2026-09-30
+India is putting toget...
+
+### 5. [Tech News | Startup News | Funding | IT | Crypto - Moneycontrol.com](https://www.moneycontrol.com/news/technology-startups)
+
+DeepSeek unveils Huawei AI chip tools that may replace Nvidia's
+
+India’s top IT firms brace for another slow quarter as client spending remains weak: Analysts
+
+India’s top IT firms brace for another s...
+
+---
+
+## 📱 Products & Gadgets
+
+> Trending smartphone gadget reviews in 2026 include the Xiaomi 18 Pro Max, praised for its different flagship game, and the Vivo X500 Pro Max, noted for its impressive camera performance. The Xiaomi 18 Fold is highlighted as the best passport-foldable phone with a notable quirk. Additionally, the Motorola Signature 27 is suggested as a potential OnePlus 16 replacement in the US market. These reviews emphasize advanced features, competitive pricing, and innovative designs in the smartphone market.
+
+### 1. [11 Cool New Gadgets to Keep on Your Radar](https://www.gearpatrol.com/audio/best-new-tech-releases-8-16-26)
+
+This past week, Google introduced four new Pixel smartphones, Kanto Audio revealed the second-generation of its Obi3 turntable, and Fiio announced its first vacuum tube amplifier. But that’s just scra...
+
+### 2. [Gadgets News, Trends, Reviews, & More | Mashable](https://mashable.com/category/gadgets)
+
+galaxy z flip 8 held in hand
+galaxy z flip 8 held in hand
+Pixel 11 Pro Fold standing upright
+Pixel 11 Pro Fold standing upright
+Google Pixel 11 Pro camera bar
+Google Pixel 11 Pro camera bar
+DJI Mic 3 ...
+
+### 3. [Digital Trends - Tech Product Reviews, How To, Best Ofs, deals and Advice](https://www.digitaltrends.com)
+
+### These 5 Amazon gaming deals put the upgrade money into the controls
+
+### HP OmniBook Ultra review: Utterly sleek and snappy, but I wish it did just a tad more
+
+apple-store-palo-alto
+
+### Apple’s r...
+
+### 4. [Tech | The Verge](https://www.theverge.com/tech)
+
+A satellite equipped with Google’s Tensor Processing Units (TPUs) launched aboard SpaceX’s Falcon 9 rocket on Thursday. The mission is part of Google’s Project Suncatcher, an experimental initiative t...
+
+### 5. [Technology News](https://www.cnbc.com/technology)
+
+Tue, Sep 29th 2026
+
+Tech
+
+Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI
+
+Tue, Sep 29th 2026
+
+Tech
+
+Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence...
+
+---
+
+## 🎓 Learning & Career
+
+> Great Learning Academy offers over 1500+ free online courses in trending fields like Data Science, Artificial Intelligence, Machine Learning, IT, Software Development, Cloud Computing, Cybersecurity, and Digital Marketing. Class Central reports 10,000+ free courses from tech giants including Google, Microsoft, Amazon, and IBM, with Google offering 600 free certifications. Reperio Human Capital lists Udemy, Codecademy, Coursera, edX, FreeCodeCamp, Future Learn, Harvard, and MIT as platforms offering free online courses to improve tech skills. Jobaaj Learning recommends their Generative AI with Deep Learning course, emphasizing its trendiness in the tech job market.
+
+### 1. [Tech Career Decoded #16: Tech trends 2025](https://www.linkedin.com/pulse/tech-career-decoded-16-6-technology-trends-watch-out-2025-krk9f)
+
+"By 2025, the top tech roles in demand are projected to be AI and Machine Learning Specialists, Data Scientists, and Cloud Computing Experts....
+
+### 2. [Report: The tech job market in 2025](https://ravio.com/tech-jobs-report-2025)
+
+Administrative roles that were once essential are now experiencing significant declines as AI systems take over many menial tasks and repeatable processes. This trend extends beyond traditional admin ...
+
+### 3. [Tech Hiring and Job Market Trends 2025 Midyear Report](https://motionrecruitment.com/tech-hiring-midyear-report)
+
+1. Artificial Intelligence and Machine Learning: AI and machine learning roles were among the highest priorities for many businesses looking to transform in the upcoming years. There was a significant...
+
+### 4. [The Future of Jobs Report 2025 | World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest)
+
+Technology-related roles are the fastest- growing jobs in percentage terms, including Big Data Specialists, Fintech Engineers, AI and Machine Learning Specialists and Software and Application Develope...
+
+### 5. [Top 5 tech career paths in 2025.](https://medium.com/@akpotaretega/top-5-tech-career-paths-in-2025-e29c3cacdc95)
+
+Cyberattacks are becoming increasingly sophisticated and frequent, posing a significant threat to businesses and individuals. Companies are investing heavily in cybersecurity to protect their data and...
+
+---
+
+
+*Generated by [ai-tools](https://github.com/amrendramishra/ai-tools) automation*
