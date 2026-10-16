@@ -1,113 +1,113 @@
 {
   "niche_id": "data_science",
   "niche_name": "Data Science & ML",
-  "timestamp": "2026-10-15T00:14:38.903897",
+  "timestamp": "2026-10-16T00:00:58.918570",
   "searches": [
     {
       "query": "trending machine learning topics",
-      "answer": "The sources indicate that trending machine learning topics in 2026 include the rise of generative models for complex content generation, the use of small language models (SLM), and automated machine learning for speed and cost-cutting. Other notable trends are the expansion of unsupervised and reinforcement ML due to no-code ML, and the growth in augmented reality and quantum computing. Additionally, AI-generated content is transforming media, marketing, and entertainment industries, and there is a focus on explainable AI (XAI) to address ethical concerns and enhance transparency in complex systems.",
+      "answer": "The sources indicate that trending machine learning topics include adversarial machine learning in IoT security, robust defenses against adversarial machine learning, fine-tuning GPT-OSS, and the use of GPUs for accelerated model training. Additionally, there is a focus on shifting from large language models (LLMs) to smaller, more efficient models (SLMs) for specific applications. Projects in image and video processing, NLP, AI, Python, generative AI, and data analytics are also highlighted as areas of interest. The sources do not provide a definitive answer to the question.",
       "results": [
         {
-          "title": "Machine learning trend analysis in 2025 | Cambridge Advance Online",
-          "url": "https://advanceonline.cam.ac.uk/blog/machine-learning-trend-analysis",
-          "content": "1. Autonomous decision-making\n2. Federate learning\n3. Machine learning operationalisation management (MLOps)\n4. AI and sustainability\n5. Quantum ML\n6. Explainable AI (XAI)\n7. Edge AI\n8. AI-generated content\n9. AI in healthcare\n10. Augmented workforce\n\n## Analysis of the 2025 ML trends\n\n### 1. Autonomous decision-making [...] Indeed, machine learning is driving significant advancements across industries. Finance and healthcare are some fields benefiting from these advancements, with trends like a",
-          "score": 0.82761955
+          "title": "50 AI Research Topics + Machine Learning - Grad Coach",
+          "url": "https://gradcoach.com/research-topics-ai-machine-learning",
+          "content": "### Short courses \u203a\n\nFrom $249\n\nSelf-paced online courses that walk you through each key stage of your research, step by step.\n\n Research Topic 101  Research Proposal 101  Literature Review 101  Research Methodology 101\n\nNot sure what you need? Book a free, no-obligation consultation.\n\n Book a free chat\n\nResearch Topic Ideation \n\n# AI Research Topics & Ideas (Including Machine Learning Topics) [...] For most of these topics, no. Plenty of the work on this page runs on a single machine or a modes",
+          "score": 0.8106891880274981
         },
         {
           "title": "Top 13 Machine Learning Trends CTOs Need to Know in 2026",
           "url": "https://mobidev.biz/blog/future-machine-learning-trends-impact-business",
-          "content": "In this article, we are going to shed light on the latest trends in machine learning (ML), and how they can drive business growth and provide tangible value. From GenAI creating complex multimedia content to the rise of small language models (SLM) \u2013 the trends listed below will be in the headlines a lot in 2026.\n\n## Trend #1. The rise of generative models for complex content generation [...] Why is this trend important? The rising use of ML models for content generation raises ethical concerns o",
-          "score": 0.81347597
+          "content": "### How to implement this trend\n\n1. Identify resource and time limitations\n2. Select an SLM model that aligns with these limitations\n3. Train the model and identify topics where it exhibits hallucination\n4. Deploy the model\n\n## Trend #3. GPUs for accelerated model training [...] 1. Identify the user needs for AI-generated content\n2. Determine the resource limitations of your system\n3. Identify potential use cases or topics that should not be addressed using the developed approach\n4. Develop the ",
+          "score": 0.7527629598407616
         },
         {
-          "title": "AI trends: A closer look at machine learning's role | IBM",
-          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
-          "content": "Unsupervised and reinforcement ML are both expected to expand in the coming year, in part because of no-code ML.\n\nAs ML evolves, we will likely see growth in other technologies like augmented reality and quantum computing. \u201cMachine learning models can generate 3D objects for apps and other uses in augmented reality,\u201d Lu\u00eds Fernando Torres wrote. In addition, ML will play a role in improved facial recognition technology and interactions with generative AI. [...] Security   Artificial intelligence\n",
-          "score": 0.6786044
-        },
-        {
-          "title": "50 AI Research Topics + Machine Learning - Grad Coach",
-          "url": "https://gradcoach.com/research-topics-ai-machine-learning",
-          "content": "Bio-Integrated Interfaces for Human-Machine Interaction: Sensing, Actuation, and Computing  Pengfei Deng \u00b7 Purdue University \u00b7 2026\n\n## Machine learning methods and theory\n\n5 research topic ideas\n\n Download the full list\n\n1. 31 \n\n   ### What changes about training a network once you make it very deep?\n\n   A sample dissertation\n\n    Mastering infinite depths: Optimization and generalization in deeper neural networks  Tianxiang Gao \u00b7 Iowa State University \u00b7 2024\n2. 32 [...] What makes a strong AI ",
-          "score": 0.562874
+          "title": "Machine Learning Projects - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/machine-learning/machine-learning-projects",
+          "content": "Machine Learning projects provide practical experience in applying algorithms to real-world problems using datasets, models, and Python libraries. This articles includes 100+ Machine Learning projects with source code, covering beginner to advanced topics.\n\n## Beginners Project [...] geeksforgeeks\n\nsearch icon\n\n Interview Prep\n\n Python for Machine Learning\n Machine Learning with R\n Machine Learning Algorithms\n EDA\n Math for Machine Learning\n Machine Learning Interview Questions\n ML Projects\n Dee",
+          "score": 0.7507828167246369
         },
         {
           "title": "33 Machine Learning Projects for All Levels in 2026 | DataCamp",
           "url": "https://www.datacamp.com/blog/machine-learning-projects-for-all-levels",
-          "content": "These advanced machine learning projectsfocus on building and training deep learning modelsand processing unstructured datasets. You will train convolutional neural networks, gated recurrent units, finetune large language models, and reinforcement learning models.\n\n### 15. Service desk ticket classification with deep learning [...] ### 9. Facial recognition with supervised learning [...] ur:\n\n NLP projects\n AI projects\n Python projects\n Generative AI projects\n Data analytics projects\n\n### Are th",
-          "score": 0.36602354
+          "content": "Bexruz (Bex) Tuychiev's photo\n\nBexruz (Bex) Tuychiev\n\n15 min\n\nMachine Learning Interview Questions\n\nblog\n\n### Top 35 Machine Learning Interview Questions For 2026\n\nPrepare for your interview with this comprehensive guide to machine learning questions, covering everything from basic concepts and algorithms to advanced and role-specific topics.\n\nAbid Ali Awan's photo\n\nAbid Ali Awan\n\n15 min\n\nSee More\nSee More [...] ur:\n\n NLP projects\n AI projects\n Python projects\n Generative AI projects\n Data analy",
+          "score": 0.7087133327456396
+        },
+        {
+          "title": "AI trends: A closer look at machine learning's role | IBM",
+          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
+          "content": "Your form was submitted. An IBM representative will call or email you shortly.\n\n## How we use machine learning [...] Hear from industry experts on the latest in AI news, listen to the Mixture of Experts podcast. New episodes on Fridays at 6 AM EST.\n\nGo to episodes\n\n## New trends in machine learning",
+          "score": 0.006662599354710024
         }
       ]
     },
     {
       "query": "new data science tools and frameworks",
-      "answer": "The sources mention several new data science tools and frameworks for 2026. Streamlit is highlighted as an open-source framework for creating custom data science applications and dashboards, simplifying the process of building interactive apps using Python scripts. Apache Arrow is noted for revolutionizing data storage and transfer in big data applications through its in-memory columnar format, which accelerates data processing and integration. Apache Spark is recognized as a powerhouse for big data processing, supporting batch processing and streaming data analysis across multiple programming languages. Additionally, the sources mention the importance of frameworks like Pandas for data manipulation and analysis, and R for statistical computing and graphics. IBM's data science tools and solutions are also emphasized for their ability to accelerate AI-driven innovation and provide explainable AI.",
+      "answer": "The sources mention several new data science tools and frameworks. The article on Medium highlights the importance of the Data Pipeline Framework for structuring data science projects. The roadmap on roadmap.sh recommends 11 top tools for data science in 2026, emphasizing the importance of ease of adoption and specific criteria for ratings. Coursera's course on tools for data science covers popular tools used by professionals, including open-source, commercial, and cloud-based tools. The YouTube video suggests Streamlit and Banner as web frameworks in Python for building data dashboards. The sources don't provide a definitive answer to the question.",
       "results": [
-        {
-          "title": "Data Science Tools: Our Top 11 Recommendations for 2026",
-          "url": "https://roadmap.sh/ai-data-scientist/tools",
-          "content": "### Streamlit\n\nStreamlit is an open-source framework for creating custom data science applications and dashboards. It simplifies the process of building interactive apps by using Python scripts, making it accessible even for those with minimal web development experience. Streamlit's API enables rapid prototyping of machine learning tools and visualizations. [...] ### Apache Arrow\n\nApache Arrow is revolutionizing how data is stored and transferred for big data applications. Its in-memory columnar",
-          "score": 0.7701369
-        },
         {
           "title": "10 Frameworks You Need to Know as a Data Scientist",
           "url": "https://medium.com/@ty.stephens2011/10-frameworks-you-need-to-know-as-a-data-scientist-94e4b3a840d3",
-          "content": "The Data Pipeline Framework is indispensable for structuring and streamlining the complex processes involved in data science projects. It ensures that each phase is conducted with precision and purpose. It also helps us think through, and have our stakeholders thing through, the true cost of a new project \u2014 the prep, the follow through, the ongoing maintenance required to keep it in production. My favorite quote from the Phoenix Project \u201cnew data projects are like puppies, it\u2019s never the [...] U",
-          "score": 0.7395922
+          "content": "processes, uncover new opportunities, and leverage data science for strategic advantage. But, and it\u2019s a significant but, the journey is rarely without its detours. [...] The Data Pipeline Framework is indispensable for structuring and streamlining the complex processes involved in data science projects. It ensures that each phase is conducted with precision and purpose. It also helps us think through, and have our stakeholders thing through, the true cost of a new project \u2014 the prep, the follow",
+          "score": 0.8832485269119925
         },
         {
-          "title": "Data Science Tools & Solutions | IBM",
-          "url": "https://www.ibm.com/solutions/data-science",
-          "content": "Practicing data science comes with challenges. It comes with fragmented data, a short supply of data science skills, and various tools, practices, and frameworks to choose from run with rigid IT standards for training and deployment. It's also challenging to operationalize ML models with unclear accuracy and difficult-to-audit predictions. [...] Using IBM data science tools and solutions, you can accelerate AI-driven innovation with:  \n - An intelligent data fabric  \n - A simplified ModelOps lif",
-          "score": 0.6493346
+          "title": "Data Science Tools: Our Top 11 Recommendations for 2026",
+          "url": "https://roadmap.sh/ai-data-scientist/tools",
+          "content": "Learning Curve: Ease of adoption for new and experienced users. Tools with clear documentation and intuitive interfaces were rated more favorably. [...] However, choosing that tool isn't just about star ratings or feature lists\u2014it's about finding what works best for your specific context.\n\nAnd remember, data science is as much about the journey as it is about the results. Exploring new tools, learning from community resources, and iterating on your processes will make you a better data scientist",
+          "score": 0.8764537298677013
         },
         {
-          "title": "20 Tools for Data Scientists | Pragmatic Institute",
-          "url": "https://www.pragmaticinstitute.com/resources/articles/data/20-data-tools-commonly-used-by-data-practitioners",
-          "content": "### 9. Pandas\n\nPandas is an open-source data manipulation and analysis tool that provides labeled data structures. It is built on Python\u2019s Numpy and is used in machine learning and data science tasks.\n\nPandas enables users to perform various tasks such as data filling, merges and joins, statistical analysis, loading and saving data, and data visualization. [...] Machine learning tools allow computers to learn from data and make decisions without being explicitly programmed. They use algorithms t",
-          "score": 0.6388584
+          "title": "Wiz Expands AI Security Platform Across Agent Frameworks, Coding Tools, and Cloud Edge",
+          "url": "https://www.ai-360.online/wiz-expands-ai-security-platform-across-agent-frameworks-coding-tools-and-cloud-edge",
+          "content": "Share this post\n\nThe link has been copied!\n\nYour link has expired. Please request a new one.\n\nYour link has expired. Please request a new one.\n\nYour link has expired. Please request a new one.\n\nGreat! You've successfully signed up.\n\nGreat! You've successfully signed up.\n\nWelcome back! You've successfully signed in.\n\nSuccess! You now have access to additional content. [...] Wiz has expanded its AI Application Protection Platform (AI-APP), which it introduced last month at RSAC, adding new capabil",
+          "score": 0.8719022309472375
         },
         {
           "title": "Tools for Data Science | Coursera",
           "url": "https://www.coursera.org/learn/open-source-tools-for-data-science",
-          "content": "You will become familiar with the Data Scientist\u2019s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations. This course gives plenty of hands-on experience in order to [...] ",
-          "score": 0.61307496
+          "content": "Learn new concepts from industry experts\n Gain a foundational understanding of a subject or tool\n Develop job-relevant skills with hands-on projects\n Earn a shareable career certificate\n\n## There are 6 modules in this course\n\nIn order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. [...] Learner since 2020\n\n\"I directly applie",
+          "score": 0.8661975060640291
+        },
+        {
+          "title": "The Essential Tools for Data Science",
+          "url": "https://www.youtube.com/watch?v=pAXeCpwKgYg",
+          "content": "[9:26] web Frameworks in Python I like using streamlit which allows you to easily turn data script into a shareable web\n[9:33] app it can take only a few minutes and recently I discovered Banner which is also a very nice and easy tool to build\n[9:41] data dashboard in Python it's definitely a new library than streamlit and it's not as mature when it comes to different kinds of widgets that you can use but",
+          "score": 0.8623078355446586
         }
       ]
     },
     {
       "query": "latest research papers AI ML simplified",
-      "answer": "The latest research papers in AI and ML include \"Generative Adversarial Nets\" by Ian Goodfellow et al., \"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\" by Jacob Devlin et al., \"Deep Residual Learning for Image Recognition\" by Kaiming He et al., and \"AlphaGo: Mastering the Game of Go with Deep Neural Networks and Tree Search\" by Silver et al. from GeeksforGeeks. Morgan Stanley's 2023 papers focus on generative diffusion with stochastic processes and a provably convergent Schr\u00f6dinger bridge for time series imputation. Kaggle's collection includes implementations of LSTM, HyperNetworks, ResNet, ConvMixer, Capsule Networks, Generative Adversarial Networks, Diffusion models, Sketch RNN, Graph Neural Networks, and Recurrent Highway Networks. PMC's research includes mobile data science, AI-based modeling, cybersecurity, and deep cybersecurity.",
+      "answer": "The sources indicate that there are several repositories and platforms dedicated to highlighting recent AI and machine learning research papers. GitHub's \"AI-Papers-of-the-Week\" repository highlights top AI papers weekly, while Kaggle's \"50 AI/ML research paper implementations\" provides annotated implementations of popular research papers. Morgan Stanley's machine learning research papers focus on optimization, sampling, and games, and Sebastian Raschka's list of \"10 Noteworthy AI Research Papers of 2023\" emphasizes large language models. These sources collectively suggest a vibrant community actively sharing and discussing the latest advancements in AI and ML.",
       "results": [
         {
-          "title": "10 Must Read Machine Learning Research Papers - GeeksforGeeks",
-          "url": "https://www.geeksforgeeks.org/machine-learning/10-must-read-machine-learning-research-papers",
-          "content": "6. \u201cGenerative Adversarial Nets\u201d by Ian Goodfellow et al.\n 7. \u201cBERT: Pre-training of Deep Bidirectional Transformers for Language Understanding\u201d by Jacob Devlin et al.\n 8. \u201cDeep Residual Learning for Image Recognition\u201d by Kaiming He et al.\n 9. \u201cA Survey on Deep Learning in Medical Image Analysis\u201d by Geert Litjens et al.\n 10. \u201cAlphaGo: Mastering the Game of Go with Deep Neural Networks and Tree Search\u201d by Silver et al. [...] 1. \u201cA Few Useful Things to Know About Machine Learning\u201d by Pedro Domingo",
-          "score": 0.58123237
-        },
-        {
-          "title": "10 Noteworthy AI Research Papers of 2023",
-          "url": "https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023",
-          "content": "To conclude an eventful 2023 in machine learning and AI research, I'm excited to share 10 noteworthy papers I've read this year. My personal focus has been more on large language models, so you'll find a heavier emphasis on large language model (LLM) papers than computer vision papers this year. [...] In DPO, we still keep the supervised finetuning step (step 1 above), but we replace steps 2 and 3 with a single step to further finetune the model on the preference data. In other words, DPO skips ",
-          "score": 0.5101799
-        },
-        {
-          "title": "Machine Learning Research Papers | Morgan Stanley",
-          "url": "https://www.morganstanley.com/about-us/technology/machine-learning-research-papers",
-          "content": "Here we augment generative diffusion with stochastic processes, which allows us to model irregular time sequences.\n\nICML 2023\n\nProvably Convergent Schr\u00f6dinger Bridge With Applications to Probabilistic Time Series Imputation(opens in a new tab)\n\nIn this paper, we propose a time series imputation and prediction model based on conditional generative AI and Schrodinger bridge SDE.\n\nAISTATS 2023\n\nRisk Bounds for Aleatoric Uncertainty Recovery(opens in a new tab) [...] We propose a policy evaluation b",
-          "score": 0.50959414
-        },
-        {
-          "title": "50 AI/ML research paper implementations with side-by-side notes | Kaggle",
-          "url": "https://www.kaggle.com/general/278939",
-          "content": "#### \u2728 LSTM\n\n#### \u2728 HyperNetworks - HyperLSTM\n\n#### \u2728 ResNet\n\n#### \u2728 ConvMixer\n\n#### \u2728 Capsule Networks\n\n#### \u2728 Generative Adversarial Networks\n\n Original GAN\n GAN with deep convolutional network\n Cycle GAN\n Wasserstein GAN\n Wasserstein GAN with Gradient Penalty\n StyleGAN 2\n\n#### \u2728 Diffusion models\n\n Denoising Diffusion Probabilistic Models (DDPM)\n\n#### \u2728 Sketch RNN\n\n#### \u2728 Graph Neural Networks\n\n Graph Attention Networks (GAT)\n Graph Attention Networks v2 (GATv2) [...] I would like to share our",
-          "score": 0.502564
+          "title": "GitHub - dair-ai/AI-Papers-of-the-Week: \ud83d\udd25Highlighting the top ML papers every week. \u00b7 GitHub",
+          "url": "https://github.com/dair-ai/AI-Papers-of-the-Week",
+          "content": "## Navigation Menu\n\n## Latest commit\n\n## History\n\n## Folders and files\n\n| Name | | Name | Last commit message | Last commit date |\n ---  --- \n| pics | | pics |  |  |\n| research | | research |  |  |\n| years | | years |  |  |\n| .gitignore | | .gitignore |  |  |\n| README.md | | README.md |  |  |\n| SUMMARY.md | | SUMMARY.md |  |  |\n| View all files | | |\n\n## Repository files navigation\n\n# AI Papers of the Week\n\nSubscribe to our newsletter to get a weekly list of top AI papers in your inbox. [...] At",
+          "score": 0.9340271708855805
         },
         {
           "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7983091",
-          "content": "103. Sarker IH, Hoque MM, MdK Uddin, Tawfeeq A. Mobile data science and intelligent apps: concepts, ai-based modeling and research directions. Mob Netw Appl, pages 1\u201319, 2020. doi:10.1007/s11036-020-01650-z PMCID:PMC7489576 PMID:40477078\n104. Sarker IH, Kayes ASM. Abc-ruleminer: user behavioral rule-based machine learning method for context-aware intelligent services. J Netw Comput Appl. 2020; page 102762 [...] 94. Sarker IH. A machine learning based robust prediction model for real-life mobile ",
-          "score": 0.45420644
+          "content": "Artificial intelligence (AI), particularly, machine learning (ML) have grown rapidly in recent years in the context of data analysis and computing that typically allows the applications to function in an intelligent manner . ML usually provides systems with the ability to learn and enhance from experience automatically without being specifically programmed and is generally referred to as the most popular latest technologies in the fourth industrial revolution (4IR or Industry 4.0) [103, 105]. [.",
+          "score": 0.9290197665270294
+        },
+        {
+          "title": "50 AI/ML research paper implementations with side-by-side notes | Kaggle",
+          "url": "https://www.kaggle.com/general/278939",
+          "content": "Kaggle uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.\n\nLearn more\n\nOK, Got it.\n\nVaruna Jayasiri \u00b7 Posted 5 years ago in General\n\n# 50 AI/ML research paper implementations with side-by-side notes [...] Website with side-by-side notes: nn.labml.ai\n Github repo: labmlai/annotated\\_deep\\_learning\\_paper\\_implementations\n\nScreenshot\n\nWould love to hear your feedback and suggestions. Feel free to open issues on Github if you see any problems. We pic",
+          "score": 0.9055105396656092
+        },
+        {
+          "title": "Machine Learning Research Papers | Morgan Stanley",
+          "url": "https://www.morganstanley.com/about-us/technology/machine-learning-research-papers",
+          "content": "NeurIPS Workshop on Frontiers of Optimization, Sampling, and Games\n\nRethinking Langevin Thompson Sampling from A Stochastic Approximation Perspective(opens in a new tab)\n\nWe propose interpreting Langevin Thompson Sampling from a stochastic approximation perspective, enabling a simplified and more intuitive theoretical analysis.\n\nSODA 2025\n\nAverage-Case Hardness of Parity Problems: Orthogonal Vectors, k-SUM and More(opens in a new tab) [...] Market Trends\n\nFrom volatility and geopolitics to econo",
+          "score": 0.8976455197140575
+        },
+        {
+          "title": "10 Noteworthy AI Research Papers of 2023",
+          "url": "https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023",
+          "content": "I decided to include the paper on this list because the Mistral 7B model was not only very popular upon release, but also served as the base model, leading to the development of two other notable models: Zephyr 7B and the latest Mistral Mixture of Experts (MoE) approach. These models are good examples of the trend I foresee for small LLMs in (at least) the early half of 2024.\n\nBefore we discuss the Zephyr 7B and Mistral MoE models, let's briefly talk about Mistral 7B itself. [...] # Ten Notewort",
+          "score": 0.8915497374586578
         }
       ]
     }
