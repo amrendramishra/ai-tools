@@ -1,0 +1,115 @@
+{
+  "niche_id": "data_science",
+  "niche_name": "Data Science & ML",
+  "timestamp": "2026-11-10T03:56:22.657595",
+  "searches": [
+    {
+      "query": "trending machine learning topics",
+      "answer": "Federated Learning and Edge AI & TinyML are gaining traction for privacy-preserving machine learning and real-time processing on low-power devices, respectively. AutoML is streamlining the machine learning pipeline. Generative AI in life sciences, CV, and reinforcement learning are trending, with a focus on robotics and mixed reality. The rise of generative models for complex content generation and MLOps for successful model deployment and maintenance are also noted trends. Unsupervised and reinforcement ML are expected to expand, alongside growth in augmented reality and quantum computing.",
+      "results": [
+        {
+          "title": "\ud83d\udccc 10. 10 Recent Trends & Research Topics in AI & ML",
+          "url": "https://www.linkedin.com/pulse/10-recent-trends-research-topics-ai-ml-yesu-ragavi-wnjbc",
+          "content": "\ud83d\udce1 2. Federated Learning Privacy-preserving machine learning is gaining traction. Federated Learning enables model training across decentralized devices without transferring raw data, making it ideal for sensitive sectors like healthcare and finance. [...] \ud83d\udcf1 3. Edge AI & TinyML Bringing intelligence to low-power devices is the focus of Edge AI and TinyML. This trend supports real-time processing on microcontrollers and embedded systems, enabling smarter wearables, IoT sensors, and robotics with m",
+          "score": 0.85509074
+        },
+        {
+          "title": "[D] What are some trendy or emerging topics in AI/ML research beyond LLMs and NLP? : r/MachineLearning",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1oa7bb2/d_what_are_some_trendy_or_emerging_topics_in_aiml",
+          "content": "[](\n\nJonathanMa021703\n\n\u20221y ago\n\nMy professor said DRO and RLHF are trending\n\n3 more replies \n\n3 more replies \n\n3 more replies\n\n[](\n\nLelouchZer12\n\n\u20221y ago\n\nVideo generation like veo3 ?\n\nThey start having a really good quality from what I can see, but its easy to only show cherry picked examples\n\nImage 16: u/HeWhoIsGodd avatar\n\nHeWhoIsGodd\n\n\u20221y ago\n\nCV and Reinforcement learning seems to be where the future is headed, just wait for robotics to get to that point.\n\nImage 17: u/constant94 avatar [...",
+          "score": 0.82560414
+        },
+        {
+          "title": "Machine Learning Statistics for 2026: The Ultimate List",
+          "url": "https://www.itransition.com/machine-learning/statistics",
+          "content": "Trending topics\n\nArtificial intelligence  ERP  Customer experience  Cloud  Internet of things  RPA  Blockchain\n\nIndustry-related topics\n\nHealthcare  Retail & Ecommerce  Fintech  Insurance  Edtech  Manufacturing\n\nOur experts\n\nMeet the specialists behind our insights. Discover their expertise across various development technologies, platforms, and business domains.\n\nTrending topics\n\nArtificial intelligence  ERP  Customer experience  Cloud  Internet of things  RPA  Blockchain [...] Technology consu",
+          "score": 0.82391036
+        },
+        {
+          "title": "Top 13 Machine Learning Trends CTOs Need to Know in 2026",
+          "url": "https://mobidev.biz/blog/future-machine-learning-trends-impact-business",
+          "content": "In this article, we are going to shed light on the latest trends in machine learning (ML), and how they can drive business growth and provide tangible value. From GenAI creating complex multimedia content to the rise of small language models (SLM) \u2013 the trends listed below will be in the headlines a lot in 2026.\n\n## Trend #1. The rise of generative models for complex content generation [...] Why is this trend important? The rising use of ML models for content generation raises ethical concerns o",
+          "score": 0.81347597
+        },
+        {
+          "title": "AI trends: A closer look at machine learning's role | IBM",
+          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
+          "content": "Unsupervised and reinforcement ML are both expected to expand in the coming year, in part because of no-code ML.\n\nAs ML evolves, we will likely see growth in other technologies like augmented reality and quantum computing. \u201cMachine learning models can generate 3D objects for apps and other uses in augmented reality,\u201d Lu\u00eds Fernando Torres wrote. In addition, ML will play a role in improved facial recognition technology and interactions with generative AI. [...] Security   Artificial intelligence\n",
+          "score": 0.6786044
+        }
+      ]
+    },
+    {
+      "query": "new data science tools and frameworks",
+      "answer": "The sources mention several new data science tools and frameworks for 2026. Tools like Power BI, Tableau, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Keras, MLflow, Kubeflow, Apache Spark, Apache Flink, NLTK, spaCy, Gensim, MySQL, PostgreSQL, MongoDB, Redshift, Snowflake, Hadoop, S3, Pandas, NumPy, and OpenRefine are highlighted. Streamlit and Apache Arrow are noted for their capabilities in creating custom data science applications and accelerating data processing, respectively. Other tools mentioned include ConnectorX, Optimus, Cleanlab, Polars, and various platforms like IBM SPSS Modeler, Matlab, SAS, Altair RapidMiner, Alteryx One, Amazon SageMaker, Anaconda, Azure Machine Learning, BigML, Databricks Data Intelligence Platform, Dataiku, DataRobot, Domino Enterprise AI Platform, Google Cloud Vertex AI Platform, H2O AI Cloud, IBM Watson Studio, Knime, Qubole, and Saturn Cloud. Weka is also noted for its classification, clustering, regression, and association rule mining applications.",
+      "results": [
+        {
+          "title": "Top 12 Data Science Tools to Consider in 2026",
+          "url": "https://lakefs.io/blog/data-science-tools",
+          "content": "Data Exploration and Visualization Tools \u2013 Tools like Power BI, Tableau, Matplotlib, and Seaborn help you understand and communicate data using visual representations.\n Machine Learning and Modeling Tools \u2013 Scikit-learn, TensorFlow, PyTorch, and Keras are data science tools that provide methods and frameworks for developing and training machine learning models. [...] Model Deployment and Management Tools \u2013 Data science tools like MLflow and Kubeflow assist with the deployment and management of m",
+          "score": 0.78866494
+        },
+        {
+          "title": "Data Science Tools: Our Top 11 Recommendations for 2026",
+          "url": "https://roadmap.sh/ai-data-scientist/tools",
+          "content": "### Streamlit\n\nStreamlit is an open-source framework for creating custom data science applications and dashboards. It simplifies the process of building interactive apps by using Python scripts, making it accessible even for those with minimal web development experience. Streamlit's API enables rapid prototyping of machine learning tools and visualizations. [...] ### Apache Arrow\n\nApache Arrow is revolutionizing how data is stored and transferred for big data applications. Its in-memory columnar",
+          "score": 0.7701369
+        },
+        {
+          "title": "10 Frameworks You Need to Know as a Data Scientist",
+          "url": "https://medium.com/@ty.stephens2011/10-frameworks-you-need-to-know-as-a-data-scientist-94e4b3a840d3",
+          "content": "The Data Pipeline Framework is indispensable for structuring and streamlining the complex processes involved in data science projects. It ensures that each phase is conducted with precision and purpose. It also helps us think through, and have our stakeholders thing through, the true cost of a new project \u2014 the prep, the follow through, the ongoing maintenance required to keep it in production. My favorite quote from the Phoenix Project \u201cnew data projects are like puppies, it\u2019s never the [...] U",
+          "score": 0.7395922
+        },
+        {
+          "title": "7 newer data science tools you should be using with Python | InfoWorld",
+          "url": "https://www.infoworld.com/article/2338444/7-newer-data-science-tools-you-should-be-using-with-python.html",
+          "content": "Optimus can use Pandas, Dask, CUDF (and Dask + CUDF), Vaex, or Spark as its underlying data engine. Data can be loaded in from and saved back out to Arrow, Parquet, Excel, a variety of common database sources, or flat-file formats like CSV and JSON. [...] Cleanlab is data-model and data-framework agnostic, a powerful aspect of its design. It doesn\u2019t matter if you\u2019re running PyTorch, OpenAI, scikit-learn, or Tensorflow; Cleanlab can work with any classifier. It does, however, have specific workfl",
+          "score": 0.73299384
+        },
+        {
+          "title": "18 data science tools to consider using in 2026 | TechTarget",
+          "url": "https://www.techtarget.com/news/18-data-science-tools-to-consider-using-in-2026/842305",
+          "content": "IBM SPSS Modeler, Matlab and SAS can also be counted among the data science platforms. Other prominent platform options for data science teams include the following technologies:\n\n Altair RapidMiner.\n Alteryx One.\n Amazon SageMaker.\n Anaconda.\n Azure Machine Learning.\n BigML.\n Databricks Data Intelligence Platform.\n Dataiku.\n DataRobot.\n Domino Enterprise AI Platform.\n Google Cloud Vertex AI Platform.\n H2O AI Cloud.\n IBM Watson Studio.\n Knime.\n Qubole.\n Saturn Cloud. [...] The workbench can be u",
+          "score": 0.72977066
+        }
+      ]
+    },
+    {
+      "query": "latest research papers AI ML simplified",
+      "answer": "The latest research papers in AI and ML include advancements such as Idefics2 in April 2024, which improved OCR capabilities and simplified architecture, and Phi 3 Vision in May 2024, the first multimodal model in the Phi family that can reason over images and text from images. Other notable papers include SimCLR from February 2020, which introduced a simplified framework for contrastive learning, and the development of TriSCOPE in Nature for identifying gene programs specific to individual brain cell types in Alzheimer\u2019s disease. Additionally, Morgan Stanley's research includes a provably convergent Schr\u00f6dinger Bridge model for time series imputation and a manifold view of adversarial risk.",
+      "results": [
+        {
+          "title": "GitHub - dair-ai/ML-Papers-Explained: Explanation to key concepts in ML \u00b7 GitHub",
+          "url": "https://github.com/dair-ai/ML-Papers-Explained",
+          "content": "| Idefics2 | April 2024 | Improvement upon Idefics1 with enhanced OCR capabilities, simplified architecture, and better pre-trained backbones, trained on a mixture of openly available datasets and fine-tuned on task-oriented data. |\n| Phi 3 Vision | May 2024 | First multimodal model in the Phi family, bringing the ability to reason over images and extract and reason over text from images. | [...] | Paper | Date | Description |\n --- \n| SimCLR | February 2020 | A simplified framework for contrasti",
+          "score": 0.68191797
+        },
+        {
+          "title": "Machine learning - Latest research and news | Nature",
+          "url": "https://www.nature.com/subjects/machine-learning",
+          "content": "A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace\u2019s operations.\n\n### Making AI approachable, one byte at a time\n\nIntroducing AI Bytes, a new educational column at Nature Methods that aims to simplify technical concepts in artificial intelligence for the life sciences research community.\n\n### Biological foundation models [...] ### Single-cell machine learning uncovers g",
+          "score": 0.60805947
+        },
+        {
+          "title": "10 Noteworthy AI Research Papers of 2023",
+          "url": "https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023",
+          "content": "To conclude an eventful 2023 in machine learning and AI research, I'm excited to share 10 noteworthy papers I've read this year. My personal focus has been more on large language models, so you'll find a heavier emphasis on large language model (LLM) papers than computer vision papers this year. [...] In DPO, we still keep the supervised finetuning step (step 1 above), but we replace steps 2 and 3 with a single step to further finetune the model on the preference data. In other words, DPO skips ",
+          "score": 0.5101799
+        },
+        {
+          "title": "Machine Learning Research Papers | Morgan Stanley",
+          "url": "https://www.morganstanley.com/about-us/technology/machine-learning-research-papers",
+          "content": "Here we augment generative diffusion with stochastic processes, which allows us to model irregular time sequences.\n\nICML 2023\n\nProvably Convergent Schr\u00f6dinger Bridge With Applications to Probabilistic Time Series Imputation(opens in a new tab)\n\nIn this paper, we propose a time series imputation and prediction model based on conditional generative AI and Schrodinger bridge SDE.\n\nAISTATS 2023\n\nRisk Bounds for Aleatoric Uncertainty Recovery(opens in a new tab) [...] We propose a policy evaluation b",
+          "score": 0.50959414
+        },
+        {
+          "title": "Machine Learning: Algorithms, Real-World Applications and Research Directions",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7983091",
+          "content": "103. Sarker IH, Hoque MM, MdK Uddin, Tawfeeq A. Mobile data science and intelligent apps: concepts, ai-based modeling and research directions. Mob Netw Appl, pages 1\u201319, 2020. doi:10.1007/s11036-020-01650-z PMCID:PMC7489576 PMID:40477078\n104. Sarker IH, Kayes ASM. Abc-ruleminer: user behavioral rule-based machine learning method for context-aware intelligent services. J Netw Comput Appl. 2020; page 102762 [...] 94. Sarker IH. A machine learning based robust prediction model for real-life mobile ",
+          "score": 0.45420644
+        }
+      ]
+    }
+  ]
+}

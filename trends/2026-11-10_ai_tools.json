@@ -1,0 +1,115 @@
+{
+  "niche_id": "ai_tools",
+  "niche_name": "AI Tools & Automation",
+  "timestamp": "2026-11-10T03:55:33.494008",
+  "searches": [
+    {
+      "query": "trending AI tools 2025",
+      "answer": "The sources mention several AI tools for 2025, including Crunchbase, Optimizely One, Leena AI, and Fireflies, highlighting their specific applications in marketing, HR automation, and meeting documentation. The video on YouTube discusses AI tools like Nano Banana Pro, VO 3.1, and notebook LM, focusing on image editing, video generation, and quiz/slide/video creation. TechRadar's list includes Google Assistant, Amazon Alexa, Canva, and Luminar Neo, emphasizing their utility in daily tasks, visual editing, and photo creation. Efficient App's review points to ChatGPT and Viktor, noting their versatility and integration capabilities. The sources do not provide a definitive answer on the trending AI tools for 2025 as a whole.",
+      "results": [
+        {
+          "title": "28 Best AI Tools to Use in 2025 | Crunchbase Blog",
+          "url": "https://about.crunchbase.com/blog/ai-tools",
+          "content": "We\u2019ve taken a look at the different AI tools you can use to enhance your day-to-day work and meet your professional goals. These platforms range from marketing and sales tools to analytics software and more. Here are the 28 essential AI tools of 2025:\n\n### 1. Crunchbase\n\nBest for: Private company predictions [...] Optimizely One, an optimization platform and powerful AI tool, integrates artificial intelligence throughout the entire marketing lifecycle and across every customer interaction. It of",
+          "score": 0.8325776
+        },
+        {
+          "title": "Top AI Tools in 2025 | Complete AI Tier List Explained",
+          "url": "https://www.youtube.com/watch?v=w70XVzGO6vQ",
+          "content": "Artificial Intelligence tools are evolving faster than ever, and in this video we present the AI Tier List 2025, ranking the most popular and powerful AI tools based on performance, usefulness, accuracy, and real-world applications. From AI chatbots and coding assistants to image, video, and productivity tools, we break down which AI tools fall into S-tier, A-tier, and beyond. This video will help students, professionals, creators, and developers understand which AI tools are worth using in [...",
+          "score": 0.8058924
+        },
+        {
+          "title": "I tried 70+ best AI tools in 2026 | TechRadar",
+          "url": "https://www.techradar.com/best/best-ai-tools",
+          "content": "Try EaseMate AI for free\n\nTry EaseMate AI for free\n\nDitch juggling AI tools.\n\nEaseMate AI packs leading AI models like GPT, Gemini, Claude, Nano Banana, Deepseek, Sora 2, Kling, and Seedance into one seamless platform for chat, PDF analysis, documentation, image generation, and video creation \u2013 much of it is free, just a quick sign-up required.\n\nNo need to pay for separate AI tools.\n\nTechRadar Pro Approved - Sponsored offerView Deal\n\n## The best AI tools of 2025 in full: [...] Google Assistant s",
+          "score": 0.79080546
+        },
+        {
+          "title": "11 Best AI Tools (2026): Ranked & Reviewed | Efficient App",
+          "url": "https://efficient.app/best/ai",
+          "content": "It was early 2025 when I started feeling like AI had gotten good enough to pay for. I subscribed to ChatGPT and started using it to help me organize my thoughts when writing a message, review, or video script. Before I knew it, I had a paid subscription for personal use and one for work. So did Alex (that's four subscriptions in one household). [...] As of 2026, ChatGPT is the best overall AI tool for most people. It's the most versatile, has the best memory features, and works well for everythi",
+          "score": 0.6783488
+        },
+        {
+          "title": "The Best AI Tools for 2026",
+          "url": "https://medium.com/artificial-corner/the-best-ai-tools-for-2026-933535a44f8b",
+          "content": "Sitemap\n\nOpen in app\n\nSign up\n\nSign in\n\n Claude course: \n\nFollow publication\n\n3\n\n\u00b7\nTop highlight\n\nMember-only story\n\nFeatured\n\nArtificial Intelligence\n\nChatGPT\n\nTechnology\n\nProductivity\n\n# The Best AI Tools for 2026\n\n## If you\u2019re going to learn a new AI tool, make sure it\u2019s one of these\n\nImage 3: Frank Andrade\n\nFrank Andrade\n\nFollow\n\n8 min read\n\n\u00b7\n\nDec 1, 2025\n\n or__ChatGPT course_\n\nOver the past three years, I\u2019ve tried dozens of AI tools for different tasks. [...] Without a doubt, ChatGPT, Gemi",
+          "score": 0.6437107
+        }
+      ]
+    },
+    {
+      "query": "new AI automation tools released this week",
+      "answer": "The sources mention several new AI automation tools released this week. Notably, Gemini 2.5 summarizes YouTube videos, Google Opal helps create AI mini apps, and SpotScribe converts Spotify podcasts into searchable text archives. Additionally, ApexVix AI uncovers YouTube niches and trends, and ShareSpeak is an invisible AI teleprompter. For workflow automation, n8n offers flexibility with its AI workflow builder, while Zapier and Lindy are recommended for those needing a more managed experience. The sources do not provide a definitive answer on all new releases, but these are highlighted as notable tools.",
+      "results": [
+        {
+          "title": "AI Tool Releases This Week: Your Guide to the Hottest New AI Tools",
+          "url": "https://storychief.io/blog/new-ai-tools",
+          "content": "### 1. Gemini 2.5\n\nGemini 2.5 summarizes YouTube videos, giving key timestamps, transcripts, and topic breakdowns. It\u2019s perfect for researchers, journalists, and content strategists who want to get the main points without watching the whole video.\n\n### 2. Google Opal\n\nOpal is an innovative tool from Google Labs designed to help you create and share powerful AI mini apps. It allows you to link prompts, models, and tools through straightforward natural language and visual editing. [...] ### 10. Sp",
+          "score": 0.82425016
+        },
+        {
+          "title": "This Week's Top 10 New AI Tools, Ranked and Explained",
+          "url": "https://www.youtube.com/watch?v=sZQpKHL58tk",
+          "content": "### Description\n3,076 views\nPosted: 2026-10-20\nEvery day someone says a new AI tool changed everything. So I took the one list where thousands of people actually vote on new launches, the Product Hunt weekly leaderboard (Oct 12\u201318, 2026), and went through all ten. Five of them are completely free. I ran two of them for real (OpenCode 2.0 and Google's EmbeddingGemma 2), and at the end you'll know which two or three are worth your evening. [...] 7. OpenCode 2.0 (322) \u00b7 FREE: Open-source coding age",
+          "score": 0.798077
+        },
+        {
+          "title": "11 Best AI Automation Tools & Workflows for 2026 | Reclaim",
+          "url": "https://reclaim.ai/blog/ai-automation-tools",
+          "content": "What kept us interested is its governance story. UiPath gives you one model for your whole automation program instead of stitching together five.\n\nHowever, this isn't a tool one person can run from a laptop. Most rollouts we hear about need a real platform team behind them. Expect a long procurement cycle, security review, change management, and a multi-month implementation. If you want to ship a useful workflow this week, look further down the list at Zapier or Lindy.\n\n### Key features [...] Be",
+          "score": 0.599087
+        },
+        {
+          "title": "Future Tools - The Pulse of AI",
+          "url": "https://futuretools.io",
+          "content": "## AI News with Matt\n\nThe latest breakdowns from the YouTube channel.\n\nWatch on YouTube \u2192\n\nAI News: The Only 6 Stories Worth Knowing This Week\n\nHe Breaks Down His 3 Most Powerful AI Automations\n\nAI News: 24 Things You Need To Know This Week\n\n## Commentary & Analysis\n\nView all articles\n\n### What We Should Keep Human\n\nBy Matt Wolfe\u00b7 Aug 11, 2026\n\n### Why Everyone Should Have a Local AI Model (Even If You Love ChatGPT)\n\nBy Roya Lotfi\u00b7 Jul 7, 2026\n\n### AI Agents, 6G, and the Future of Computing [...",
+          "score": 0.57666177
+        },
+        {
+          "title": "Top AI Workflow Automation Tools for 2026 \u2013 n8n Blog",
+          "url": "https://blog.n8n.io/best-ai-workflow-automation-tools",
+          "content": "You\u2019ll find it either refreshing or limiting that Gumloop, as a platform, is the newest company on this list of the best AI workflow automation tools. But what it lacks in tenure, it makes up for in robust niche use cases. [...] n8n is getting a lot of buzz, and for good reason. In tandem with the AI assistant, the recently released AI workflow builder has made getting started easier than ever, alongside a robust user community that has contributed 4,000+ starter templates on n8n \u2014 with even mor",
+          "score": 0.56719416
+        }
+      ]
+    },
+    {
+      "query": "best free AI tools for productivity",
+      "answer": "According to the sources, some of the best free AI tools for productivity include Zapier, which offers free automations across 9,000+ apps; NotebookLM from Google Cloud, which provides a free plan with 100 notebooks and 50 sources per notebook; and Motion, which can be used as a personal AI assistant and to monitor team capacity. Other notable mentions are Goblin tools and Julius AI, both offering free tiers with limited usage, and Grammarly for writing and editing.",
+      "results": [
+        {
+          "title": "Best AI productivity tools (2026): 20 tools to help you work smarter, not harder",
+          "url": "https://plusai.com/blog/best-ai-productivity-tools",
+          "content": "Goblin tools is free to use. But if you need something more advanced, Hive Mind is also an excellent tool. Like Goblin tools, it can also break down your projects into various tasks so you know the next step to take. It can also create emails, content, blog outlines, etc.\n\n### 2: Motion to have a productive schedule\n\nMotion is like Clockwise on steroids. You can use it as a personal AI assistant and as a leader to monitor your team\u2019s capacity. [...] ChatGPT can do this, too, but it pollutes its ",
+          "score": 0.7303861
+        },
+        {
+          "title": "18 best AI productivity tools I can't live without in 2026",
+          "url": "https://www.gumloop.com/blog/best-ai-productivity-tools",
+          "content": "Free is $0 and includes chat on web, mobile, and desktop, code generation, content writing, web search, memory across conversations, file creation, MCP connectors, and extended thinking.\n Pro is $17/month (annual) or $20/month billed monthly. It includes everything in Free, plus more usage, Claude Code, Claude Cowork, unlimited projects, Research, access to more models, and Claude for Excel and PowerPoint (beta). [...] The free plan for Magic only gives you 100 credits per month, which can go fa",
+          "score": 0.67832696
+        },
+        {
+          "title": "The best AI productivity tools in 2026 | Zapier",
+          "url": "https://zapier.com/blog/best-ai-productivity-tools",
+          "content": "Try Zapier free\n\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\n\n## 2. AI chatbots [...] ### Ideogram\n\nImage models are famous for their trouble when drawing letters. But Ideogram got the hang of it: it can generate accurate text whenever you ask for it in a prompt. Apart from that, it",
+          "score": 0.6154924
+        },
+        {
+          "title": "10+ Free AI tools for 2026 | Google Cloud",
+          "url": "https://cloud.google.com/use-cases/free-ai-tools",
+          "content": "NotebookLM\n\nDescription\n\nCreate a personalized AI assistant that surfaces insights and provides Audio Overviews on data you upload.\n\nFree offer details\n\nNotebookLM offers a powerful Free Plan that includes: 100 notebooks, 50 sources per notebook, and a source capacity of up to 500,000 words per source.\n\nPricing\n\nNotebookLM pricing details\n\nTranslation Basic\n\nDescription\n\nTranslate and localize text in real time with support for 100+ language pairs.\n\nCompare to AWS Polly\n\nFree offer details [...]",
+          "score": 0.60865223
+        },
+        {
+          "title": "AI tools for personal productivity : r/ProductivityApps",
+          "url": "https://www.reddit.com/r/ProductivityApps/comments/1hzjkc4/ai_tools_for_personal_productivity",
+          "content": "# Productivity\n\nABY Journal - best AI journal so far.\n\nIf you're a person who likes writing down their thoughts, experiences and tries to become your best self, ABY will help.\n\nIt's a smart journal that provides insights into your personality, thinking patterns and dealing with your emotions to be a better you.\n\nOh, and the design is slick.\n\nGranola - Great AI notepad for meetings.\n\nIt\u2019s a desktop app, so there\u2019s no bot joining your meetings. [...] I use it when I want to retain what I'm reading",
+          "score": 0.5268905
+        }
+      ]
+    }
+  ]
+}
