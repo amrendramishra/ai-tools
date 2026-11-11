@@ -1,0 +1,115 @@
+{
+  "niche_id": "data_science",
+  "niche_name": "Data Science & ML",
+  "timestamp": "2026-11-11T01:39:43.896398",
+  "searches": [
+    {
+      "query": "trending machine learning topics",
+      "answer": "According to the sources, trending machine learning topics in 2026 include horizontal and vertical federated learning, multimodal machine learning, reinforcement learning, and no-code machine learning. Specific areas of focus are healthcare and financial services for federated learning due to compliance requirements, and multimodal AI is expected to grow significantly. Additionally, reinforcement learning and computer vision are highlighted for robotics and mixed reality, and no-code machine learning is anticipated to expand, allowing companies to implement machine learning without extensive coding knowledge.",
+      "results": [
+        {
+          "title": "Machine Learning Trends 2026: What to Expect",
+          "url": "https://softteco.com/blog/machine-learning-trends",
+          "content": "Horizontal federated learning. When the central model is trained on similar datasets. For example, several hospitals are training a common model to detect pneumonia using X-ray images.\n   Vertical federated learning.When the data are complementary. For example, film and book reviews are combined to predict a user\u2019s music preferences. [...] In addition, it eliminates the need to move large datasets to a central server, thereby saving bandwidth and reducing costs. Due to these benefits, federating",
+          "score": 0.685318
+        },
+        {
+          "title": "[D] What are some trendy or emerging topics in AI/ML research beyond LLMs and NLP? : r/MachineLearning",
+          "url": "https://www.reddit.com/r/MachineLearning/comments/1oa7bb2/d_what_are_some_trendy_or_emerging_topics_in_aiml",
+          "content": "[](\n\nJonathanMa021703\n\n\u20221y ago\n\nMy professor said DRO and RLHF are trending\n\n3 more replies \n\n3 more replies \n\n3 more replies\n\n[](\n\nLelouchZer12\n\n\u20221y ago\n\nVideo generation like veo3 ?\n\nThey start having a really good quality from what I can see, but its easy to only show cherry picked examples\n\nImage 16: u/HeWhoIsGodd avatar\n\nHeWhoIsGodd\n\n\u20221y ago\n\nCV and Reinforcement learning seems to be where the future is headed, just wait for robotics to get to that point.\n\nImage 17: u/constant94 avatar [...",
+          "score": 0.6758716
+        },
+        {
+          "title": "AI trends: A closer look at machine learning's role | IBM",
+          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
+          "content": "Unsupervised and reinforcement ML are both expected to expand in the coming year, in part because of no-code ML.\n\nAs ML evolves, we will likely see growth in other technologies like augmented reality and quantum computing. \u201cMachine learning models can generate 3D objects for apps and other uses in augmented reality,\u201d Lu\u00eds Fernando Torres wrote. In addition, ML will play a role in improved facial recognition technology and interactions with generative AI. [...] Machine learning is all about data.",
+          "score": 0.66486675
+        },
+        {
+          "title": "Machine Learning Statistics for 2026: The Ultimate List",
+          "url": "https://www.itransition.com/machine-learning/statistics",
+          "content": "| Top machine learning areas or modalities that ML practitioners work on include Time Series (17%), Tabular (15%), recommender systems (12%), and causal inference (6%). Areas like regression (linear regression, logistic regression, etc.) and reinforcement learning are currently less popular. | The Institute for Ethical AI & Machine Learning | [...] Trending topics\n\nArtificial intelligence  ERP  Customer experience  Cloud  Internet of things  RPA  Blockchain\n\nIndustry-related topics\n\nHealthcare  ",
+          "score": 0.66377795
+        },
+        {
+          "title": "10 AI and machine learning trends to watch in 2026",
+          "url": "https://www.techtarget.com/news/10-AI-and-machine-learning-trends-to-watch-in-2026/834246",
+          "content": "Such AI chips are embedded in robotics, autonomous vehicles, healthcare wearables and other consumer devices such as smartphones. These AI-enabled devices use a field of machine learning called TinyML and specialize in creating small, highly optimized ML models with small software footprints and ultra-low power chip requirements. Local AI also lowers AI power use, mitigates bandwidth demands, especially for costly services such as 5G, and reduces network latency for faster response times that [.",
+          "score": 0.6592955
+        }
+      ]
+    },
+    {
+      "query": "new data science tools and frameworks",
+      "answer": "The sources mention several newer data science tools and frameworks for 2026. These include Cleanlab, Optimus, Polars, Spacy, RandomForest, Xgboost, LightGBM, Apache Spark, Fast.ai, ONNX, Jupyter Notebook, Amazon SageMaker, Google Cloud Datalab, TensorFlow, Scikit-learn, Keras, Pandas, Streamlit, Apache Arrow, MLflow, Kubeflow, KNIME, IBM SPSS Modeler, Matlab, SAS, Altair RapidMiner, Alteryx One, Amazon SageMaker, Anaconda, Azure Machine Learning, BigML, Databricks Data Intelligence Platform, Dataiku, DataRobot, Domino Enterprise AI Platform, Google Cloud Vertex AI Platform, H2O AI Cloud, IBM Watson Studio, Qubole, and Saturn Cloud. Some tools like Optimus and TensorFlow are noted for their extensive use and capabilities in data science workflows.",
+      "results": [
+        {
+          "title": "7 newer data science tools you should be using with Python | InfoWorld",
+          "url": "https://www.infoworld.com/article/2338444/7-newer-data-science-tools-you-should-be-using-with-python.html",
+          "content": "Cleanlab is data-model and data-framework agnostic, a powerful aspect of its design. It doesn\u2019t matter if you\u2019re running PyTorch, OpenAI, scikit-learn, or Tensorflow; Cleanlab can work with any classifier. It does, however, have specific workflows for common tasks like token classification, multi-labeling, regression, image segmentation and object detection, outlier detection, and so on. It\u2019s worth perusing the example set to see for yourself how the process works and what results you can [...] ",
+          "score": 0.7300013
+        },
+        {
+          "title": "List of 11 Best Frameworks used by Data Scientists",
+          "url": "https://devopscube.com/list-best-frameworks-data-scientists",
+          "content": "An advantage of Spacy is that, it comes with pre-trained models that can be used for various NLP tasks. Also, it has an easy to use API with lot of customizations and extensibility.\n\nHere are some other frameworks and tools worth considering.\n\n1. RandomForest\n2. Xgboost\n3. LightGBM\n4. Apache Spark\n5. Fast.ai\n6. ONNX\n7. Jupyter Notebook\n8. Amazon SageMaker for Data Scientists\n9. Google Cloud Datalab\n\n## Conclusion [...] ### 1. TensorFlow\n\nTensorflow is an open-source machine learning library deve",
+          "score": 0.7134316
+        },
+        {
+          "title": "Data Science Tools: Our Top 11 Recommendations for 2026",
+          "url": "https://roadmap.sh/ai-data-scientist/tools",
+          "content": "### Streamlit\n\nStreamlit is an open-source framework for creating custom data science applications and dashboards. It simplifies the process of building interactive apps by using Python scripts, making it accessible even for those with minimal web development experience. Streamlit's API enables rapid prototyping of machine learning tools and visualizations. [...] ### Apache Arrow\n\nApache Arrow is revolutionizing how data is stored and transferred for big data applications. Its in-memory columnar",
+          "score": 0.7000752
+        },
+        {
+          "title": "Top 12 Data Science Tools to Consider in 2026",
+          "url": "https://lakefs.io/blog/data-science-tools",
+          "content": "Model Deployment and Management Tools \u2013 Data science tools like MLflow and Kubeflow assist with the deployment and management of machine learning models in production environments.\n Big Data Tools \u2013 Apache Spark and Apache Flink are data science tools built to handle large datasets.\n Natural Language Processing (NLP) Tools \u2013 NLTK, spaCy, and Gensim are three data science tools used for tasks requiring human language, such as text classification, sentiment analysis, and machine translation. [...]",
+          "score": 0.6819386
+        },
+        {
+          "title": "18 data science tools to consider using in 2026 | TechTarget",
+          "url": "https://www.techtarget.com/news/18-data-science-tools-to-consider-using-in-2026/842305",
+          "content": "IBM SPSS Modeler, Matlab and SAS can also be counted among the data science platforms. Other prominent platform options for data science teams include the following technologies:\n\n Altair RapidMiner.\n Alteryx One.\n Amazon SageMaker.\n Anaconda.\n Azure Machine Learning.\n BigML.\n Databricks Data Intelligence Platform.\n Dataiku.\n DataRobot.\n Domino Enterprise AI Platform.\n Google Cloud Vertex AI Platform.\n H2O AI Cloud.\n IBM Watson Studio.\n Knime.\n Qubole.\n Saturn Cloud. [...] The workbench can be u",
+          "score": 0.6591858
+        }
+      ]
+    },
+    {
+      "query": "latest research papers AI ML simplified",
+      "answer": "The latest research papers in AI and ML include \"SimCLR\" from February 2020, which introduced a simplified framework for contrastive learning, and \"Idefics2\" from April 2024, which improved OCR capabilities with a simplified architecture. Other notable papers include \"Phi 3 Vision\" from May 2024, which is the first multimodal model in the Phi family, and \"GPT-4.5\" from February 2025, which represents an advancement in scaling unsupervised learning. Additionally, repositories like \"ML-Papers-Explained\" and \"ML-AI-Research-Papers---Solved\" provide explanations and summaries of key concepts in ML, while \"MachineLearningMastery.com\" highlights breakthrough papers that make powerful AI more accessible through reduced computing costs and faster response times.",
+      "results": [
+        {
+          "title": "GitHub - dair-ai/ML-Papers-Explained: Explanation to key concepts in ML \u00b7 GitHub",
+          "url": "https://github.com/dair-ai/ML-Papers-Explained",
+          "content": "| Paper | Date | Description |\n --- \n| SimCLR | February 2020 | A simplified framework for contrastive learning that optimizes data augmentation composition, introduces learnable nonlinear transformations, and leverages larger batch sizes and more training steps. | [...] | Idefics2 | April 2024 | Improvement upon Idefics1 with enhanced OCR capabilities, simplified architecture, and better pre-trained backbones, trained on a mixture of openly available datasets and fine-tuned on task-oriented dat",
+          "score": 0.61947125
+        },
+        {
+          "title": "GitHub - Coder-World04/ML-AI-Research-Papers---Solved: This repository contains everything you need to become proficient in ML/AI Research and Research Papers \u00b7 GitHub",
+          "url": "https://github.com/Coder-World04/ML-AI-Research-Papers---Solved",
+          "content": "| Paper Name | Simplified/Summarized Version |\n --- |\n| Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models | Link |\n| Bag of Tricks for Efficient Text Classification | Link |\n| Visualizing Linguistic Diversity of Text Datasets Synthesized by Large Language Models | Link |\n| (QA)\u00b2: Question Answering with Questionable Assumptions | Link |\n| QueryForm: A Simple Zero-shot Form Entity Query Framework | Link |\n| Semi-supervised Sequence Learning | Link | [...] # CV Research Papers\n\n| Pap",
+          "score": 0.6050992
+        },
+        {
+          "title": "5 Breakthrough Machine Learning Research Papers Already in 2025 - MachineLearningMastery.com",
+          "url": "https://machinelearningmastery.com/5-breakthrough-machine-learning-research-papers-already-in-2025",
+          "content": "Faster: Responses can be generated in significantly less time\n Less expensive: The approach reduces computing costs by minimizing the use of large models\n Just as good: The quality of responses remains the same\n\nThis advance could make powerful AI more accessible by reducing the computing resources needed to run these systems. For companies operating AI services, it means lower costs and faster response times for users.\n\n## 5. Transformers Learn Low Sensitivity Functions [...] Model cascades: Us",
+          "score": 0.5195975
+        },
+        {
+          "title": "Machine learning - Latest research and news | Nature",
+          "url": "https://www.nature.com/subjects/machine-learning",
+          "content": "A team of artificial-intelligence agents simulates a laboratory of robots and instruments to ensure that the physical workspace functions smoothly and then directs that workspace\u2019s operations.\n\n### Making AI approachable, one byte at a time\n\nIntroducing AI Bytes, a new educational column at Nature Methods that aims to simplify technical concepts in artificial intelligence for the life sciences research community.\n\n### Biological foundation models [...] ### Single-cell machine learning uncovers g",
+          "score": 0.5084602
+        },
+        {
+          "title": "Machine Learning Research Papers | Morgan Stanley",
+          "url": "https://www.morganstanley.com/about-us/technology/machine-learning-research-papers",
+          "content": "NeurIPS Workshop on Frontiers of Optimization, Sampling, and Games\n\nRethinking Langevin Thompson Sampling from A Stochastic Approximation Perspective(opens in a new tab)\n\nWe propose interpreting Langevin Thompson Sampling from a stochastic approximation perspective, enabling a simplified and more intuitive theoretical analysis.\n\nSODA 2025\n\nAverage-Case Hardness of Parity Problems: Orthogonal Vectors, k-SUM and More(opens in a new tab) [...] This survey provides a systematic overview of various m",
+          "score": 0.4988365
+        }
+      ]
+    }
+  ]
+}
