@@ -1,0 +1,115 @@
+{
+  "niche_id": "data_science",
+  "niche_name": "Data Science & ML",
+  "timestamp": "2026-11-13T02:19:50.260718",
+  "searches": [
+    {
+      "query": "trending machine learning topics",
+      "answer": "Trending machine learning topics in 2026 include horizontal and vertical federated learning, multimodal machine learning, no-code machine learning, TinyML for AI-enabled devices, and the growing importance of multimodal AI. Additionally, areas like time series, tabular data, recommender systems, and causal inference are prominent, while regression and reinforcement learning are less popular. Other trending topics include artificial intelligence, ERP, customer experience, cloud, Internet of Things, RPA, and blockchain.",
+      "results": [
+        {
+          "title": "Machine Learning Trends 2026: What to Expect",
+          "url": "https://softteco.com/blog/machine-learning-trends",
+          "content": "Horizontal federated learning. When the central model is trained on similar datasets. For example, several hospitals are training a common model to detect pneumonia using X-ray images.\n   Vertical federated learning.When the data are complementary. For example, film and book reviews are combined to predict a user\u2019s music preferences. [...] In addition, it eliminates the need to move large datasets to a central server, thereby saving bandwidth and reducing costs. Due to these benefits, federating",
+          "score": 0.685318
+        },
+        {
+          "title": "AI trends: A closer look at machine learning's role | IBM",
+          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
+          "content": "Unsupervised and reinforcement ML are both expected to expand in the coming year, in part because of no-code ML.\n\nAs ML evolves, we will likely see growth in other technologies like augmented reality and quantum computing. \u201cMachine learning models can generate 3D objects for apps and other uses in augmented reality,\u201d Lu\u00eds Fernando Torres wrote. In addition, ML will play a role in improved facial recognition technology and interactions with generative AI. [...] Machine learning is all about data.",
+          "score": 0.66486675
+        },
+        {
+          "title": "Machine Learning Statistics for 2026: The Ultimate List",
+          "url": "https://www.itransition.com/machine-learning/statistics",
+          "content": "| Top machine learning areas or modalities that ML practitioners work on include Time Series (17%), Tabular (15%), recommender systems (12%), and causal inference (6%). Areas like regression (linear regression, logistic regression, etc.) and reinforcement learning are currently less popular. | The Institute for Ethical AI & Machine Learning | [...] Trending topics\n\nArtificial intelligence  ERP  Customer experience  Cloud  Internet of things  RPA  Blockchain\n\nIndustry-related topics\n\nHealthcare  ",
+          "score": 0.66377795
+        },
+        {
+          "title": "10 AI and machine learning trends to watch in 2026",
+          "url": "https://www.techtarget.com/news/10-AI-and-machine-learning-trends-to-watch-in-2026/834246",
+          "content": "Such AI chips are embedded in robotics, autonomous vehicles, healthcare wearables and other consumer devices such as smartphones. These AI-enabled devices use a field of machine learning called TinyML and specialize in creating small, highly optimized ML models with small software footprints and ultra-low power chip requirements. Local AI also lowers AI power use, mitigates bandwidth demands, especially for costly services such as 5G, and reduces network latency for faster response times that [.",
+          "score": 0.6592955
+        },
+        {
+          "title": "Trending Papers - Hugging Face",
+          "url": "https://huggingface.co/papers/trending",
+          "content": "The PyTorch distributed data parallel module optimizes large-scale model training using techniques like gradient bucketing, computation-communication overlap, and selective synchronization to achieve near-linear scalability.\n\n### PyTorch Distributed: Experiences on Accelerating Data Parallel Training [...] World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alig",
+          "score": 0.5652388
+        }
+      ]
+    },
+    {
+      "query": "new data science tools and frameworks",
+      "answer": "The sources do not provide specific information about new data science tools and frameworks as of today's date, November 13, 2026. However, they do mention ongoing discussions and concerns related to AI, such as the ethical use of AI in property image enhancement, the scandal involving Nvidia CEO Jensen Huang, and advocacy groups suing AI giants over the risks of new models. Additionally, there is a mention of Google's Anthropic and the 2026 midterm election updates, but no direct information on data science tools and frameworks is available.",
+      "results": [
+        {
+          "title": "News",
+          "url": "https://www.npr.org/sections/news",
+          "content": "#### Share Data for Targeted Sponsorship\n\n- [x] Share Data for Targeted Sponsorship [...] Toggle more options\n   Download\n   EmbedEmbed `<iframe src=\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">` \n\nSponsor Message [...] choose not to allow certain types of cookies, which may impact your experience of the site, app, and the services we are able to offer. Click on the different category headings to find out more and change our default settings accord",
+          "score": 0.011732464
+        },
+        {
+          "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
+          "url": "https://www.bbc.com/news",
+          "content": "A composite image of two bedrooms side by side. On the left, the image has been AI-enhanced, giving the room warm lighting and luxurious decor. On the right the bed is unmade, the lighting is drab, there is no luxurious decor.   \n\n## The rise of 'housefishing' - when does using AI go from enhancing to misleading?\n\nExperts warn that using AI to enhance property images can go too far and mislead prospective buyers. [...] A woman and a boy in a mask holding a smokey sparkler with flames on the grou",
+          "score": 0.010611421
+        },
+        {
+          "title": "Google News",
+          "url": "https://news.google.com",
+          "content": "[](\n\nImage 62\n\nWIRED\n\nMore\n\nTear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers\n\nImage 63\n\n2 days ago\n\n  \n\nBy Will Knight\n\n[](\n\nImage 64\n\nAnthropic\n\nMore\n\nClaude can design electronic prototypes from start to finish\n\nImage 65\n\n2 days ago\n\n[](\n\nImage 66\n\nCBS News\n\nMore\n\n2026 midterm election updates as Trump says U.S. took a \"giant step back in history\"\n\nImage 67\n\n3 days ago\n\n  \n\nBy Kaia Hubbard, Stefan Becket & Kathryn Watson [...] News\n\nGoogle News\n\nNews\n\nAd",
+          "score": 0.010130412
+        },
+        {
+          "title": "CBS News | Breaking News, Top Stories & Exclusive Coverage",
+          "url": "https://www.cbsnews.com",
+          "content": "## How to qualify for credit card debt forgiveness in 2027\n\n Best debt relief companies, plus advice borrowers need to know now\n\n More\n\n## MoneyWatch\n\n More\n\nChatGPT, Grok Bot, Claude on Smartphone \n\n## Major AI developers can't control their own tech, lawsuit alleges\n\nNvidia CEO Jensen Huang looks on during a press briefing in Paris on Oct. 13, 2026. \n\n## Nvidia CEO Jensen Huang resigns in wake of affair, spy scandal\n\nDove \n\n## China fines a company over a Dove chocolate \"situationship\" ad",
+          "score": 0.009859855
+        },
+        {
+          "title": "Associated Press News: Breaking News | Latest News Today",
+          "url": "https://apnews.com",
+          "content": "### Police lock down D.C.\u2019s Logan Circle after deadly shooting near the White House, in photos\n\nImage 66: People attend an election event for Mississippi Democratic U.S. Senate candidate Scott Colom in Jackson, Miss., Wednesday, Nov. 11, 2026. (AP Photo/Ellen Schmidt)\n\n### The top photos of the day by AP\u2019s photojournalists\n\n\n\n### Advocacy groups sue AI giants to freeze new models, warning of \u2018catastrophic\u2019 risks [...] Business\n\nSECTIONS TariffsInflationFinancial MarketsFinancial WellnessTechnolo",
+          "score": 0.009821793
+        }
+      ]
+    },
+    {
+      "query": "latest research papers AI ML simplified",
+      "answer": "The latest research papers in AI and ML include SimCLR from February 2020, which simplifies contrastive learning, and LLaVA 1.5 from October 2023, which enhances large multimodal models. Idefics2 from April 2024 improves OCR capabilities and simplifies architecture. Phi 3 Vision from May 2024 is the first multimodal model in the Phi family. The sources also mention SLIDE, which drastically reduces computations on a CPU, and Learning to Simulate Complex Physics with Graph Networks, which outperforms Tensorflow on the best available GPU.",
+      "results": [
+        {
+          "title": "GitHub - dair-ai/ML-Papers-Explained: Explanation to key concepts in ML \u00b7 GitHub",
+          "url": "https://github.com/dair-ai/ML-Papers-Explained",
+          "content": "| Paper | Date | Description |\n --- \n| SimCLR | February 2020 | A simplified framework for contrastive learning that optimizes data augmentation composition, introduces learnable nonlinear transformations, and leverages larger batch sizes and more training steps. | [...] | Idefics2 | April 2024 | Improvement upon Idefics1 with enhanced OCR capabilities, simplified architecture, and better pre-trained backbones, trained on a mixture of openly available datasets and fine-tuned on task-oriented dat",
+          "score": 0.61947125
+        },
+        {
+          "title": "Top AI & ML Research Papers | NYAI",
+          "url": "https://www.nyai.co/top-ai-ml-research-papers",
+          "content": "Summary: Deep Learning (DL) algorithms are the central focus of modern machine learning systems. The progress on the algorithmic front has failed to demonstrate a direct advantage over powerful hardware such as NVIDIA-V100 GPUs. Using just a CPU, SLIDE drastically reduces the computations during both training and inference outperforming an optimized implementation of Tensorflow (TF) on the best available GPU. On the same CPU hardware, SLIDE is over 10x faster than TF.\n\nHow We Rank Papers [...] S",
+          "score": 0.49046442
+        },
+        {
+          "title": "10 Must Read Machine Learning Research Papers - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/machine-learning/10-must-read-machine-learning-research-papers",
+          "content": "Summary: This paper introduces the Transformer model, which relies solely on attention mechanisms, discarding recurrent layers used in previous models. It has become the backbone of many modern NLP systems.\n\n### Key Contributions:\n\n Proposed the Transformer architecture, which uses self-attention to capture dependencies.\n Demonstrated improvements in training efficiency and performance over RNN-based models.\n Led to the development of models like BERT, GPT, and others. [...] Distills core princi",
+          "score": 0.41211605
+        },
+        {
+          "title": "How to actually learn AI/ML: Reading Research Papers",
+          "url": "https://www.youtube.com/watch?v=x6slke5niqw",
+          "content": "[6:32] processing medical speech audio it's a really nice place if you want to look at papers based on categories second one is\n[6:39] distilled AI list of research papers and it also has computer vision NLP speech core ML and different categories but\n[6:47] this one is also categorized by year so it's great if you want to look up papers from the past to present for each topic [...] [6:55] and maybe see how it has changed over the years but let's say you want want to look at the newest stuff wel",
+          "score": 0.34114337
+        },
+        {
+          "title": "Machine learning, explained | MIT Sloan",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained",
+          "content": "Successful machine learning algorithms can do different things, Malone wrote in a recent research brief about AI and the future of work that was co-authored by MIT professor and CSAIL director Daniela Rus and Robert Laubacher, the associate director of the MIT Center for Collective Intelligence. [...] \u201cThe function of a machine learning system can be descriptive, meaning that the system uses the data to explain what happened; predictive, meaning the system uses the data to predict what will happ",
+          "score": 0.3110082
+        }
+      ]
+    }
+  ]
+}
