@@ -1,0 +1,115 @@
+{
+  "niche_id": "ai_tools",
+  "niche_name": "AI Tools & Automation",
+  "timestamp": "2026-11-14T01:55:44.640084",
+  "searches": [
+    {
+      "query": "trending AI tools 2025",
+      "answer": "According to the sources, popular AI tools in 2025 include Adobe Firefly for image generation, CapCut for video editing, Character.ai for conversational AI, and Notion for productivity, which leverages AI capabilities. Additionally, Synthesia is noted for AI video generation, while GitHub Copilot is highlighted for code assistance. Other tools mentioned include Grammarly for writing assistance, H2O.ai for scalable machine learning, and Tableau AI for data visualization. Notably, ChatGPT is recognized for its versatility in conversational AI and customer support, and Google Gemini is mentioned as a significant player in the AI space.",
+      "results": [
+        {
+          "title": "40 Most Popular AI Tools Right Now: 2025 Edition",
+          "url": "https://learn.g2.com/most-popular-ai-tools",
+          "content": "|  |  |  |  |\n ---  --- |\n| AI tool | Category | Free or paid | Popularity signal |\n| Adobe Firefly | Image generation | Freemium | Generated 22B+ assets under 2 years |\n| CapCut | Video editing | Freemium | Rated 4.8/5 on App Store with over 13.7K reviews |\n| Character.ai | Conversational AI | Freemium | 20M active users in January 2025 |\n| Claude | Conversational AI | Freemium | 18.9M monthly active users globally | [...] Originally launched in 2023 as Google Bard, Gemini is now a central part",
+          "score": 0.78613067
+        },
+        {
+          "title": "Top AI Tools in 2025 | Complete AI Tier List Explained",
+          "url": "https://www.youtube.com/watch?v=w70XVzGO6vQ",
+          "content": "[2:29] release, we also got so many tools. We got Nano Banana Pro, which is probably the best [music] image editing and\n[2:37] creation tool out there. We got VO 3.1, [music] which is probably the second or\n[2:44] third best video generation tool out there.\n[2:48] We even got notebook LM which is definitely best in its class for any\n[2:56] quiz generation, any slide dig generation, any video generation from one particular source. [...] Artificial Intelligence tools are evolving faster than ever,",
+          "score": 0.66061044
+        },
+        {
+          "title": "28 Best AI Tools to Use in 2025 | Crunchbase Blog",
+          "url": "https://about.crunchbase.com/blog/ai-tools",
+          "content": "Grammarly is an AI-powered writing assistant that aids users in enhancing their writing quality by checking for grammar and spelling errors, suggesting style improvements and ensuring consistency in communication. As one of the most versatile AI tools, Grammarly can analyze text in real-time and can provide instant feedback on emails, marketing copy, presentations and more.\n\n### 7. GitHub Copilot\n\nBest for: Code assistance [...] ### 24. H2O.ai\n\nBest for: Scalable machine learning and AI\n\nH2O.ai ",
+          "score": 0.6374823
+        },
+        {
+          "title": "I tried 70+ best AI tools in 2026 | TechRadar",
+          "url": "https://www.techradar.com/best/best-ai-tools",
+          "content": "Try EaseMate AI for free\n\nTry EaseMate AI for free\n\nDitch juggling AI tools.\n\nEaseMate AI packs leading AI models like GPT, Gemini, Claude, Nano Banana, Deepseek, Sora 2, Kling, and Seedance into one seamless platform for chat, PDF analysis, documentation, image generation, and video creation \u2013 much of it is free, just a quick sign-up required.\n\nNo need to pay for separate AI tools.\n\nTechRadar Pro Approved - Sponsored offerView Deal\n\n## The best AI tools of 2025 in full: [...] ChatGPT has mature",
+          "score": 0.48707104
+        },
+        {
+          "title": "Medium",
+          "url": "https://ilampadmanabhan.medium.com/the-best-ai-tools-of-2025-a-practical-no-hype-guide-to-what-actually-works-e98598fa04ff",
+          "content": "There is no single \u201cbest AI tool\u201d because different ai models excel at different tasks.  \nIf you want ai writing tools or an ai writing assistant, ChatGPT, Notion AI, and Claude are strongest.  \nFor image generation, tools like Midjourney and Stable Diffusion are clear leaders.  \nFor video generation and video creation, Runway ML is far ahead.  \nFor data analysis, Gemini and OpenAI\u2019s advanced machine learning models can work with real time data and automate tasks across large datasets.",
+          "score": 0.40597853
+        }
+      ]
+    },
+    {
+      "query": "new AI automation tools released this week",
+      "answer": "The sources mention several new AI automation tools released this week. Codex CLI 0.169.0 introduced features like terminal workspace tabs and activity folding. OpenCode 2.3.0 now runs subagents in the background by default. Zapier continues to be highlighted for its extensive automation capabilities across numerous apps. Additionally, Zapier Copilot assists in configuring automation workflows based on natural language descriptions. The sources don't provide a definitive answer on all new releases for the week.",
+      "results": [
+        {
+          "title": "New AI Releases Daily \u2014 Models, Tools & Papers | AI/TLDR",
+          "url": "https://ai-tldr.dev",
+          "content": "Codex CLI 0.169.0 lets the terminal workspace hold several side-chat tabs that survive a restart, searches older tasks in the agent command center, and can fold finished activity under each prompt in the transcript.\n OpenCode 2.3.0 \u2014 subagents run in the background by defaultAnomaly \u00b7 2026-11-13 \u00b7 tool \u00b7 \ud83d\udee0 opencode [...] ha-mcp is an MIT-licensed MCP server with 87 tools that lets Claude, ChatGPT and other assistants build and debug a Home Assistant setup. Version 9.2.0 moves to Python 3.14 and ",
+          "score": 0.45565268
+        },
+        {
+          "title": "12 BEST AI Test Automation Tools for 2026 The Third Wave",
+          "url": "https://testguild.com/7-innovative-ai-test-automation-tools-future-third-wave",
+          "content": "Check it out: Perfecto \u2013 Look for their Agentic AI features (released July 15, 2025)\n\nWatch my hands-on review: TestGuild YouTube Channel \u2013 I did a deep dive showing this in action\n\nHear the full conversation: TestGuild Podcast Episode A554 with Don Jackson\n\n## Five More Fourth Wave Tools I\u2019ve Had On The Podcast This Year [...] Stop overthinking it. Pick 2-3 tools from this list based on your primary pain point. Get trial access. Build the same 5 tests in each. See which one clicks with your tea",
+          "score": 0.431704
+        },
+        {
+          "title": "The best AI productivity tools in 2026 | Zapier",
+          "url": "https://zapier.com/blog/best-ai-productivity-tools",
+          "content": "Try Zapier free\n\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\n\n## 2. AI chatbots [...] Zapier Copilot: your natural language builder for automation. Describe what you want to happen (\"summarize new leads in Slack every morning\"), and Copilot will automatically brainstorm and configur",
+          "score": 0.37011155
+        },
+        {
+          "title": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+          "url": "https://www.synthesia.io/post/ai-tools",
+          "content": "Claude Cowork is available in the app version of Claude, and can carry out tasks across your computer files and tools without you needing to write any code. For people who don\u2019t know how to code, this capability lets you easily set up and automate processes.\n\nLike other AI tools, there\u2019s a free version of Claude, but more sophisticated features come with the paid plans, starting at $17 per month.\n\n## 5. Grok\n\nimage\n\nUse it for: Fact checking and generating images and videos.\n\nURL:",
+          "score": 0.31869715
+        },
+        {
+          "title": "I tried 70+ best AI tools in 2026 | TechRadar",
+          "url": "https://www.techradar.com/best/best-ai-tools",
+          "content": "For developers who want serious AI coding help without abandoning the tools they already know, Copilot is the most practical starting point in 2026. It handles completions, chat, agent tasks, and full PR reviews across every major IDE under one subscription. Students and verified open source maintainers get Pro free. Everyone else starts at $10/month.\n\nView Deal\n\n### Best AI automation tools\n\nAn image showing how AI automation tools work\n\n(Image credit: Future)\n\n## 1. Zapier [...] Zapier is best",
+          "score": 0.31552503
+        }
+      ]
+    },
+    {
+      "query": "best free AI tools for productivity",
+      "answer": "According to the sources, some of the best free AI tools for productivity include Muse, which is Meta's new personal AI assistant and is currently free; NotebookLM, which is free within usage limits; Wispr Flow, which offers a basic free tier after its trial; and Zapier, which allows you to build automations for free. Other tools mentioned include Superhuman Mail, Raycast, and Buffer's AI Assistant, which are also noted for their productivity features.",
+      "results": [
+        {
+          "title": "9 Best AI Productivity Tools (2026): Ranked & Reviewed | Efficient App",
+          "url": "https://efficient.app/best/ai-productivity",
+          "content": "Muse is Meta\u2019s new personal AI assistant. It's currently free, and in a world where you're constantly running out of AI tokens, this is the time to take advantage!\n\nMuse\n\n### What is Muse?\n\nMuse is Meta's new personal AI assistant and it's currently free \ud83d\udc40\n\nUnlike a normal AI chatbot, Muse can actually complete tasks for you. It gets its own secure virtual computer and browser, so it can research products, fill out forms, shop, monitor things, and keep working after you close the app. [...] ### ",
+          "score": 0.7279754
+        },
+        {
+          "title": "7 FREE AI Tools to be 99.9% More Productive",
+          "url": "https://www.youtube.com/watch?v=ngYdZdczOv8",
+          "content": "[8:46] structured answer with citations. It shows that notebook LM is free within usage limits. Whisperflow offers a basic\n[8:53] free tier after its trial. Napkin AI provides limited free credits for visual generation. Gamma has a free plan with limited AI features and Pomelli is free\n[9:02] during its beta phase. Every single claim has a source link. I can click on any of them to verify the information myself. I also use Perplexity to find [...] Tools Mentioned:\n\n1. NotebookLM\n2. Wispr Flow\n3.",
+          "score": 0.72233117
+        },
+        {
+          "title": "18 best AI productivity tools I can't live without in 2026",
+          "url": "https://www.gumloop.com/blog/best-ai-productivity-tools",
+          "content": "Free is $0 and includes chat on web, mobile, and desktop, code generation, content writing, web search, memory across conversations, file creation, MCP connectors, and extended thinking.\n Pro is $17/month (annual) or $20/month billed monthly. It includes everything in Free, plus more usage, Claude Code, Claude Cowork, unlimited projects, Research, access to more models, and Claude for Excel and PowerPoint (beta). [...] The free plan for Magic only gives you 100 credits per month, which can go fa",
+          "score": 0.67832696
+        },
+        {
+          "title": "The best AI productivity tools in 2026 | Zapier",
+          "url": "https://zapier.com/blog/best-ai-productivity-tools",
+          "content": "Try Zapier free\n\nBuild automations from wherever you work. Describe the outcome you want, and Zapier connects your tools, runs the steps, and stays on the job after you close the chat. Combine AI with reliable, deterministic automation across 9,000+ apps. Get started for free.\n\n## 2. AI chatbots [...] ### Ideogram\n\nImage models are famous for their trouble when drawing letters. But Ideogram got the hang of it: it can generate accurate text whenever you ask for it in a prompt. Apart from that, it",
+          "score": 0.6154924
+        },
+        {
+          "title": "8 of the Best AI Productivity Tools to Help You Optimize How You Work",
+          "url": "https://buffer.com/resources/ai-productivity-tools",
+          "content": "It can help you workshop existing content. For example, you can repurpose a successful post from one platform to another. That\u2019s my favorite use case.\n\nBuffer pricing: Buffer and the AI Assistant are free to use for up to three channels. Paid plans start at $5 per month per channel.\n\n\u26a1\n\nTry Buffer's AI Assistant for free (no sign-up required) right in our Social Media Post Creator \u2192\n\n## 2. ChatGPT\n\nUse AI to take the admin jobs off your to-do list. [...] ChatGPT\u2019s chatbot functionality helps if ",
+          "score": 0.61352605
+        }
+      ]
+    }
+  ]
+}
