@@ -1,0 +1,115 @@
+{
+  "niche_id": "cloud_devops",
+  "niche_name": "Cloud & DevOps",
+  "timestamp": "2026-11-22T01:51:47.644342",
+  "searches": [
+    {
+      "query": "trending cloud computing topics AWS Azure",
+      "answer": "The sources indicate that AI and crypto are trending topics in cloud computing, with significant interest in generative AI driving cloud spending. AWS and Azure are leading the market, with AWS having a larger market share and Azure showing significant growth. Additionally, there are mentions of strategic investments and partnerships, such as AWS's collaboration with Google Cloud and Azure's enhancements in AI services. Other companies like Zscaler and ServiceNow are also gaining traction in the cloud computing space, outperforming traditional leaders like AWS and Azure in certain metrics.",
+      "results": [
+        {
+          "title": "26 Cloud Computing Trends That Will Dominate",
+          "url": "https://www.simplilearn.com/trends-in-cloud-computing-article",
+          "content": "| AWS Trainium2 instances | Next\u2011gen AI training with 16 Trainium2 chips per instance for higher performance and efficiency. |\n| Google Cloud Next 2024 platform updates | Gemini 2.0 advances and Vertex AI enterprise features that improve grounding and reduce hallucinations. Broad AI\u2011first updates across compute and data. |\n| Azure OpenAI Service enhancements | Expanded GPT\u20114 and generative AI model support with enterprise features and governance. | [...] After a brief slump where companies focus",
+          "score": 0.7262315
+        },
+        {
+          "title": "Cloud Computing Watch: AWS, Azure, Google Cloud Multicloud Interconnects, VMware Private AI Cloud & the End of Cloud-First Strategy - The CODEW",
+          "url": "https://www.thecodew.com/2026/09/aws-azure-google-cloud-multicloud-interconnects-milestone.html",
+          "content": "Enterprise cloud infrastructure spending jumped more than $43 billion YoY to reach $143 billion in Q2 2026 \u2014 the 11th consecutive quarter of rising growth per Synergy Research \u2014 yet the strategic conversation has moved from \u201chow fast to public cloud?\u201d to \u201cwhere does each workload actually belong?\u201d Two product moves define the answer: AWS and Microsoft putting AWS Interconnect \u2013 multicloud with Azure into Public Preview \u2014 a purpose-built, open-spec, managed L3 fabric with MACsec and a 100 Gbps [.",
+          "score": 0.717408
+        },
+        {
+          "title": "What's the Difference Between AWS vs. Azure vs. Google Cloud?",
+          "url": "https://www.coursera.org/articles/aws-vs-azure-vs-google-cloud",
+          "content": "## Benefits and considerations of AWS, Azure, and Google Cloud\n\nWhen deciding which cloud computing platform to use, take into account some of the following benefits and considerations.\n\n### Amazon Web Services\n\nPros\n\n   Provides most services, from networking to robots.\n\n   Most mature\n\n   Considered the best for reliability and security\n\n   More computational capacity than Azure and GCP\n\nCons [...] | SERVICE | AWS | AZURE | GCP |\n ---  --- |\n| VM (Compute Instance) | EC2 (Elastic Compute) | Az",
+          "score": 0.5927255
+        },
+        {
+          "title": "Where Will the Cloud Race Take AWS and Azure?",
+          "url": "https://finance.yahoo.com/news/where-cloud-race-aws-azure-125212094.html",
+          "content": "It seems like almost every business house wants to get into the cloud business. And the top two cloud vendors, Amazon.com, Inc. AMZN and Microsoft Corporation MSFT, are contesting fiercely to gain market share. Let us, thus, look at the companies to examine which is a better cloud play.\n\nAmazon Web Services Leads Market [...] This change will certainly lead to greater acceptance of Microsoft's Azure for hosting applications and storing data. And that's critical for Microsoft if it wants to catch",
+          "score": 0.58646363
+        },
+        {
+          "title": "Cloud Computing Kings: 3 Companies Outperforming AWS and Azure",
+          "url": "https://finance.yahoo.com/news/cloud-computing-kings-3-companies-100000194.html",
+          "content": "1. Crypto\n2. AI\n\n   AI\n\nTrending \n\n Nvidia national security\n Home Depot earnings\n Stock market today\n Nvidia live updates\n\nInvestorPlace\n\n# Cloud Computing Kings: 3 Companies Outperforming AWS and Azure\n\nMarc Guberti\n\n4 min read\n\n NOW -6.52%\n MSFT -3.09%\n AMZN -0.48%\n ZS -5.14%\n DDOG -5.62% [...] The growth among customers paying over $100,000 in annual recurring revenue is also a good sign. This figure went up from about 2,600 customers to about 3,130 customers in one year. That's a 20.4% year",
+          "score": 0.5266471
+        }
+      ]
+    },
+    {
+      "query": "new DevOps tools and practices",
+      "answer": "In 2026, new DevOps tools and practices include Harness CI for CI/CD, Jenkins, and CircleCI for building and testing, and Selenium for test automation. The sources highlight the importance of tools like Jira for continuous development, Jenkins for CI/CD, and Bamboo for continuous testing. Container management is facilitated by Docker, and container orchestration is managed by tools like Jenkins X and Weave GitOps. Best practices emphasize the use of an open toolchain approach, allowing customization with best-of-breed tools, and the integration of infrastructure workflows with DevOps practices, such as AWS CloudFormation.",
+      "results": [
+        {
+          "title": "DevOps Tools List: The Only Stack You Need in 2026",
+          "url": "https://www.harness.io/blog/devops-tools-list",
+          "content": "| Stage | What it does | Common DevOps tools |\n --- \n| Source control | Version code and manage pull requests | GitHub, GitLab, Bitbucket |\n| Build and CI | Compile, test, and create artifacts on every commit | Harness CI, Jenkins, CircleCI |\n| Test automation | Validate quality; select and run affected tests intelligently | Harness AI Test Automation, Selenium |\n| Artifact registry | Store and version build outputs | Harness Artifact Registry, JFrog, ECR | [...] Simplify test maintenance with t",
+          "score": 0.6684475
+        },
+        {
+          "title": "Top 26 DevOps Tools In 2026 And How To Choose | Octopus Deploy",
+          "url": "https://octopus.com/devops/ci-cd/devops-tools",
+          "content": "# Top 26 DevOps tools in 2026 and how to choose\n\nTable of contents\n\n1. What are DevOps tools?\n2. DevOps market and trends\n3. Continuous Integration and Continuous Delivery tools\n4. Version control tools\n5. Configuration management tools\n6. Containerization and orchestration tools\n7. Infrastructure as code (IaC) tools\n8. Monitoring and logging tools\n9. Collaboration and communication tools\n10. Security and compliance tools\n11. Best practices for choosing DevOps tools\n12. Conclusion [...] Extendin",
+          "score": 0.6658453
+        },
+        {
+          "title": "11 DevOps Tools for 2026 | Coursera",
+          "url": "https://www.coursera.org/articles/devops-tools",
+          "content": "## Key takeaways\n\n Some DevOps tools to consider include Jira for continuous development, Jenkins for CI/CD, Bamboo for continuous testing, and Docker for container management.\n\n DevOps automation tools, like Selenium, automate specific repetitive tasks, such as testing and deployment, or the entire DevOps process, from ideation to deployment and monitoring. [...] Bamboo: Bamboo is a server-based DevOps tool. It allows users to create complex build plans and trigger them to start automatically. ",
+          "score": 0.66486675
+        },
+        {
+          "title": "GitHub - techiescamp/devops-tools: Curated List of Best DevOps Tools \u00b7 GitHub",
+          "url": "https://github.com/techiescamp/devops-tools",
+          "content": "Gitlab CD (Free & Enterprise): GitLab's continuous delivery solution, allowing automated deployment and monitoring of applications.\n Weave GitOps (Enterprise): An enterprise-grade GitOps solution, providing a set of best practices for deploying and managing applications and infrastructure.\n Jenkins X (Open Source): An open-source project that provides automated CI/CD for Kubernetes, with preview environments and promotion across environments. [...] Docker Bench (Open Source): A script that check",
+          "score": 0.6594051
+        },
+        {
+          "title": "DevOps Tools for Each Phase of the DevOps Lifecycle | Atlassian",
+          "url": "https://www.atlassian.com/devops/devops-tools",
+          "content": "Continuous integration is the practice of checking in code to a shared repository several times a day, and testing it each time. That way, you automatically detect problems early, fix them when they\u2019re easiest to fix, and roll out new features to your users as early as possible.\n\nCode review by pull-requests requires branching and is all the rage. The DevOps North Star is a workflow that results in fewer and faster branches and maintains testing rigor without sacrificing development speed. [...]",
+          "score": 0.6504673
+        }
+      ]
+    },
+    {
+      "query": "Kubernetes Docker latest updates",
+      "answer": "Docker Desktop 4.51.0 integrates improvements with Kind (Kubernetes in Docker), ensuring that only required dependency images are pulled if they aren\u2019t already available locally, reducing unnecessary downloads and speeding up cluster setup. Kubernetes 1.20 introduces a deprecation warning for Docker runtime support, which will be removed in future releases, specifically planned for version 1.22 next year. Kubernetes is shifting towards container runtimes like containerd and CRI-O, and Dockershim will be removed from Kubelet as early as v1.23 release. Kubernetes clusters are not automatically upgraded with Docker Desktop updates, and must be manually reset to upgrade.",
+      "results": [
+        {
+          "title": "Docker Desktop 4.51.0 Kubernetes Gets a Major Update | Cloud and Datacenter Management Blog",
+          "url": "https://mountainss.wordpress.com/2025/11/16/docker-desktop-4-51-0-kubernetes-gets-a-major-update",
+          "content": "Docker Desktop now integrates improvements with Kind (Kubernetes in Docker), ensuring that only required dependency images are pulled if they aren\u2019t already available locally. This reduces unnecessary downloads and speeds up cluster setup.\n\n1. Updated Core Components\n\n Docker Engine v28.5.2 ships with this release, ensuring stability and performance improvements.\n Enhanced Linux kernel support for smoother Kubernetes operations.\n\nWhy This Matters [...] # Cloud and Datacenter Management Blog\n\n## ",
+          "score": 0.745954
+        },
+        {
+          "title": "What\u2019s new in Kubernetes 1.20? New features and updates",
+          "url": "https://www.redhat.com/en/blog/whats-new-kubernetes-120-new-features-and-updates",
+          "content": "With 1.20, the Kubernetes release team is giving the community a heads up that Docker runtime support is going to be removed within the next few releases (currently planned for version 1.22 next year). This is not necessarily surprising given that the Docker runtime is not compliant with the Container Runtime Interface (CRI) for Kubernetes and some Kubernetes platforms such as Azure Kubernetes Service (AKS) and Red Hat OpenShift have already moved to default to other container runtimes such as [",
+          "score": 0.6910806
+        },
+        {
+          "title": "Don't Panic: Kubernetes and Docker | Kubernetes",
+          "url": "https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker",
+          "content": "## Kubernetes Blog\n\n# Don't Panic: Kubernetes and Docker\n\nBy Jorge Castro, Duffie Cooley, Kat Cosgrove, Justin Garrison, Noah Kantrowitz, Bob Killen, Rey Lejano, Dan \u201cPOP\u201d Papandrea, Jeffrey Sica, Davanum \u201cDims\u201d Srinivas |\n\nUpdate: Kubernetes support for Docker via `dockershim` is now removed. For more information, read the removal FAQ. You can also discuss the deprecation via a dedicated GitHub issue.\n\nKubernetes is deprecating Docker as a container runtime after v1.20. [...] If you\u2019re rolling ",
+          "score": 0.67928505
+        },
+        {
+          "title": "Kubernetes is dropping Docker support - What does it mean for YOU?",
+          "url": "https://www.youtube.com/watch?v=7KUdmFyefSA",
+          "content": "Kubernetes deprecated Docker since version 1.20!\nWhat the Kubernetes announcement actually means and how it will affect you:\n\u25ba as a software developer, who is using Docker and Kubernetes or\n\u25ba as a DevOps engineer, who is administering Kubernetes using a Managed Kubernetes Service or a self-managed Kubernetes cluster\n\n\ud83d\udd17 Useful Links: [...] ### Transcript\n[0:00] a couple of days ago an update was released that kubernetes will no longer support docker so what does that actually\n[0:08] mean why did ",
+          "score": 0.60399026
+        },
+        {
+          "title": "Explore the Kubernetes view",
+          "url": "https://docs.docker.com/desktop/use-desktop/kubernetes",
+          "content": "Kubernetes clusters are not automatically upgraded with Docker Desktop updates. To upgrade the cluster, you must manually select Reset cluster in the Kubernetes settings.\n\n## Configuring a custom image registry for Kubernetes control plane images\n\nDocker Desktop uses containers to run the Kubernetes control plane. By default, Docker Desktop pulls the associated container images from Docker Hub. The images pulled depend on the cluster provisioning mode. [...] Docker Build Cloud  \n       Setup\n   ",
+          "score": 0.4237561
+        }
+      ]
+    }
+  ]
+}
