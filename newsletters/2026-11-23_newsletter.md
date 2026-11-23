@@ -1,0 +1,249 @@
+# 📰 Weekly Tech & AI Newsletter
+
+**Week of November 16 - November 23, 2026**
+
+---
+
+## 🤖 AI & Machine Learning
+
+> According to the sources, there were no confirmed releases in the last 24 hours, with the latest being Clef and Clef-Flash by Cloudflare on October 1, 2026. This week's releases include MAI-Voice-2.1 and MAI-Transcribe-2-Streaming by Microsoft, Perplexity Decider v1 27B by Perplexity, Pareto 26.10 Preview by Unbiased, Embed 5 Pro and Fast by Cohere, GLiDE by Fastino, Gemini 4 Argon by Google, Mercury Voice by Inception, Ling 3.1 Flash by InclusionAI, GPT-6.1 Sol by OpenAI, Claude Sonnet 5.5 by Anthropic, Eleven v4 and Eleven v4 Turbo by ElevenLabs, and Phonon-2 by Fermion Research. Additionally, Miniax released M2.7, a proprietary model designed for AI agents, and Mistraw released Mistraw Small 4, an openweight model. Microsoft also introduced MAI image 2, focusing on photo realism.
+
+### 1. [New AI Models: Live Release Tracker (Last 24 Hours) | BenchLM](https://benchlm.ai/model-updates)
+
+### What AI models were released this week?
+
+13 confirmed releases appear in the trailing seven-day window: Clef and Clef-Flash (Cloudflare), MAI-Voice-2.1 and MAI-Transcribe-2-Streaming (Microsoft), ...
+
+### 2. [AI News: 5 New Models Dropped This Week (You Won’t Believe #3!)](https://www.youtube.com/watch?v=Pvb_11qSuYU)
+
+[0:47] professionals, this means faster answers and smarter assistance. Gemini 3.1 Pro is designed to compete directly with the
+[0:56] best AI models on the market. Next is OpenAI's new release GPT 5....
+
+### 3. [25 Biggest AI Releases This Week (Claude Fable Ranked #1)](https://www.youtube.com/watch?v=wTKY2R4ji1w)
+
+Muse Ember handles the volume. Same split as Google's orchestrator. It's on the Meta model API and in Musecode, but it's hosted only. There are no weights. And in Meta's own table, Haiku 5.5 is ahead ...
+
+### 4. [AI Model Release Tracker: New AI Models, November 2026](https://opper.ai/model-releases)
+
+AI Model Release Tracker: New AI Models, November 2026 | Opper AI
+
+Toggle Menu
+
+ Models
+ Rankings
+ Apps
+ Chat
+ Features
+ Enterprise
+ Pricing
+ Docs
+
+LoginSign up
+
+Release tracker
+
+# Latest AI model rel...
+
+### 5. [AI News: Every Major Announcement From This Week](https://www.youtube.com/watch?v=V4un_4uTEHs&vl=en-US)
+
+[27:40] Miniax released a new model this week called M2.7, which claims to be self evolving. Once again, it's designed to
+[27:48] perform well powering AI agents. And they even specifically shout out ...
+
+---
+
+## 💻 Software Development
+
+> The sources mention the release of KDE Frameworks 6.23, which includes stability updates, memory leak fixes, and broad improvements across KDE libraries. They also mention KDE Frameworks 6.24 with core library enhancements. Additionally, Redwood, a new full-stack framework built for JAMstack with GraphQL baked into its core, was released by Tom Preston-Werner. Furthermore, SvelteKit, Next.js, Alpine.js, and LitElement were highlighted as notable frameworks and libraries in 2025.
+
+### 1. [Top JavaScript Libraries and Frameworks in 2025: What Y - Toxigon](https://www.toxigon.com/top-javascript-libraries-and-frameworks-in-2025)
+
+Title: Top JavaScript Libraries and Frameworks in 2025: What Y - Toxigon
+# Top JavaScript Libraries and Frameworks in 2025: What You Need to Know. Top JavaScript Libraries and Frameworks in 2025: What...
+
+### 2. [Frameworks and Libraries - GraphQL Weekly](https://www.graphqlweekly.com/topic/Frameworks-and-Libraries)
+
+Title: Frameworks and Libraries - GraphQL Weekly
+# A weekly newsletter of the best **news**, **articles** and **projects** about GraphQL. Twitter(opens in new tab)Slack(opens in new tab). Issue 184• M...
+
+### 3. [Frameworks and Libraries - GraphQL Weekly](https://graphqlweekly.com/topic/Frameworks-and-Libraries)
+
+Title: Frameworks and Libraries - GraphQL Weekly
+# A weekly newsletter of the best **news**, **articles** and **projects** about GraphQL. Twitter(opens in new tab)Slack(opens in new tab). Issue 184• M...
+
+### 4. [KDE Frameworks 6.23 Brings Broad Fixes Across Core Libraries](https://linuxiac.com/kde-frameworks-6-23-released)
+
+Title: KDE Frameworks 6.23 Brings Broad Fixes Across Core Libraries
+# KDE Frameworks 6.23 Brings Broad Fixes Across Core Libraries. KDE Frameworks 6.23 is out with stability updates, memory leak fixes...
+
+### 5. [KDE Frameworks 6.5 released](https://www.linuxcompatible.org/story/kde-frameworks-65-released)
+
+Title: KDE Frameworks 6.5 released
+## KDE Frameworks 6.5 released. KDE Frameworks 6.5 has been released. > #### KDE Ships Frameworks 6.5.0. > KDE today announces the release of KDE Frameworks 6.5.0. >...
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+> The sources indicate that Kubernetes plays a significant role in DevOps by supporting rolling updates for safer deployments, enabling zero downtime through gradual pod replacement, and integrating with GitOps for automated CI/CD pipelines. Kubernetes also facilitates infrastructure as code, supports auto-scaling, and offers tools for monitoring and logging. Argo Rollouts can simplify advanced rollout strategies like canary and blue-green deployments. Kubegrade and other tools further streamline Kubernetes operations, providing automated deployments, simplified monitoring, and streamlined upgrades.
+
+### 1. [How Kubernetes Rolling Updates Work (Hands-On Deployment Demo) | Kubernetes | DevOps](https://www.youtube.com/watch?v=2iKgnUZvsDM)
+
+Topics covered in this video:
+• What Rolling Update deployment strategy is
+• How Kubernetes replaces pods gradually
+• How zero-downtime upgrades work in Kubernetes
+• Understanding the rolling update p...
+
+### 2. [Kubernetes DevOps: A Comprehensive Guide - Kubegrade](https://kubegrade.com/kubernetes-devops-guide)
+
+Use Version Control: Store all deployment configurations in version control.
+ Automate Testing: Automate testing to ensure that updates do not introduce regressions.
+ Use Canary Deployments: Use canar...
+
+### 3. [What is the Role of Kubernetes in DevOps?](https://spacelift.io/blog/kubernetes-devops)
+
+### 2. Declarative IaC
+
+Kubernetes lets you define the state of your resources using a declarative IaC approach. This helps improve the consistency of configuration throughout the DevOps lifecycle. Fu...
+
+### 4. [AWS, Google link up to ease multicloud deployments](https://www.ciodive.com/news/aws-google-link-cloud-products/806705)
+
+AWS and Google Cloud launched a joint multicloud collaboration Sunday, allowing customers an easier way to connect the cloud platforms. The effort, currently in preview, marks the start of a multiclou...
+
+### 5. [Medium](https://medium.com/@surbhi19/the-role-of-kubernetes-in-modern-devops-strategies-0bb81839c362)
+
+## Kubernetes Features Enhancing DevOps
+
+Kubernetes offers a robust set of features that align with DevOps objectives:
+
+- Declarative Configurations: YAML or JSON-based configurations simplify managin...
+
+---
+
+## 🚀 Startups & Tech Industry
+
+> The sources indicate that the tech industry has been marked by significant developments. Notably, the AI Action Summit in Paris highlighted the global push for ethical AI regulations, while tech giants continue to develop AI with minimal oversight. DeepSeek, a Chinese AI startup, has been gaining traction, with major corporations considering its cost-effective models. In the automotive sector, the integration of Automotive Grade Linux signifies the auto industry's shift towards technology. Additionally, Hitachi has increased its participation in the Linux Foundation, supporting various open-source projects. The UK tech industry remains supportive of legal skilled migration, and there is a growing focus on AI tools and their adoption.
+
+### 1. [Tech Startup Funding News | September, 2026 (STARTUP EDITION)](https://blog.mean.ceo/tech-startup-funding-news-september-2026)
+
+Yet founders should not confuse U.S. dominance with a requirement to build only for America. India became one of the top three global destinations for tech startup funding in 2025. Seedscope cites rou...
+
+### 2. [Tech News Of The Week (February 10 - February 14, 2025) | Tech Refreshing](https://techrefreshing.com/tech-news-of-the-week-february-10-february-14-2025)
+
+Title: Tech News Of The Week (February 10 - February 14, 2025) | Tech Refreshing
+# Tech News of the Week (February 10 – February 14, 2025). Tech News of the Week (February 10 - February 14, 2025) 1")....
+
+### 3. [India’s $25 Billion Deep Tech Push: Can It Catch Up With U.S. And China?](https://www.youtube.com/watch?v=ju7VEk4aE7c)
+
+[1:26] cut off entirely. This fear recently played out for real. Anthropic had to disable access to its new Fable and MAS
+[1:33] AI models for users outside the US in order to comply with American exp...
+
+### 4. [Startup Funding News Today, September 28, 2026: erad, Complaion, Humanos & More - Tech Startups](https://techstartups.com/2026/09/28/startup-funding-news-today-september-28-2026-erad-complaion-humanos-more)
+
+Today’s verified rounds disclosed $31.2 million in dollar-denominated funding, €14.1 million in euro-denominated capital, and ₹100 crore in India. Five of the companies are AI-native or use AI as a me...
+
+### 5. [Startups in India - 2026 Latest Funding Rounds, Trends and News - Tracxn](https://tracxn.com/d/geographies/india/__ujYf3QI9FSnpS3x-zJCSwnay2nENQhm1kAN-U8-6Kfg)
+
+## Recent Funding Rounds in India
+
+In the year 2026, till November 2026, $19.6B has been raised in 1.95K equity funding rounds across India. In the same period last year (i.e. till November 2025), $18...
+
+---
+
+## 📱 Products & Gadgets
+
+> The trending smartphone gadget reviews include the Infinix GT 50 Pro 5G, Tecno Pova 8 Pro, Oppo Find X10 Pro Max, and iPhone 18 Pro Max, all reviewed on Beebom Gadgets. On Instagram, trending topics involve the smallest smartphone, top camera phones under 20,000, best budget gaming phones, and comparisons between domestic and international brands like Samsung and vivo. Digital Trends highlights the Vivo X Fold6, Red Magic Astra 2, Xiaomi 17T, and iPhone 18 Pro, while also featuring guides on Opera browser on iPhone and Google’s Pixel Tag. The best phones in 2026 according to Digital Trends include the Samsung Galaxy S26 Ultra and OnePlus 15, alongside reviews of the iPhone Duo and iPhone 18 Pro Max on Gadgets Now.
+
+### 1. [In-depth Tech Reviews | Beebom Gadgets](https://gadgets.beebom.com/reviews)
+
+# Reviews
+
+Trending
+
+Infinix GT 50 Pro 5G Review: An Expensive Treat for Mobile Gamers
+
+Anshuman Jain
+
+Nov 4, 2026
+
+Tecno Pova 8 Pro Review: Quirky, Capable, and Surprisingly Likeable
+
+Shashwat Khatri...
+
+### 2. [smartphone gadget reviews](https://www.instagram.com/popular/smartphone-gadget-reviews)
+
+### @nathanespinozayt
+
+its SO TINY 🤏 #tech #techtok #smallestphone unboxing review of the smallest smartphone in the world what is the smallest phone in the world
+
+- Plays: 339689
+- Hashtags: #tech #t...
+
+### 3. [Phones - Digital Trends](https://www.digitaltrends.com/phones)
+
+## Phone Reviews
+
+Vivo X Fold6
+
+### Vivo X Fold6 Review: This is the foldable I’d buy for the cameras. The rest isn’t bad either.
+
+Red Magic Astra 2 gaming tablet.
+
+### REDMAGIC Astra 2 review: I fina...
+
+### 4. [The best phones in 2026: our 14 favorite smartphones right now - Digital Trends](https://www.digitaltrends.com/phones/best-smartphones)
+
+Samsung Galaxy S26 Ultra Review
+
+|  |  |
+ --- |
+| Pros | Cons |
+| Smooth day-to-day performance. | No upgrade in battery capacity. |
+| Privacy display works well. | No magnetic wireless charging. |
+| ...
+
+### 5. [9 Cool New Gadgets to Keep on Your Radar | Gear Patrol](https://www.gearpatrol.com/audio/best-new-tech-releases-7-26-26)
+
+This past week, Samsung introduced its latest foldable smartphones, there’s a new $35 Kodak camera, and Quad revealed a new entry-level loudspeaker range. But that’s just scratching the surface.
+
+Belo...
+
+---
+
+## 🎓 Learning & Career
+
+> Great Learning Academy offers over 1500 free courses in trending tech fields like Data Science, Artificial Intelligence, and Cloud Computing. Class Central lists over 10,000 free tech courses from big tech companies including Google, Microsoft, and Amazon, covering AI, programming, and cloud computing. LinkedIn Learning offers courses on tech topics like programming and web development, with a free month trial. Alison provides free IT courses on topics like computer networking and programming languages. Open Culture lists 1,700 free online courses from top universities, including courses on blockchain, AI, and cloud computing.
+
+### 1. [Tech Career Decoded #16: Tech trends 2025](https://www.linkedin.com/pulse/tech-career-decoded-16-6-technology-trends-watch-out-2025-krk9f)
+
+"By 2025, the top tech roles in demand are projected to be AI and Machine Learning Specialists, Data Scientists, and Cloud Computing Experts. The World Economic Forum anticipates a 40% increase in dem...
+
+### 2. [State of the IT Job Market 2025](https://imagine-america.org/blog/state-of-it-job-market-2025)
+
+- AI, machine learning and data science: 44%
+- IT operations and support: 39%
+- Cybersecurity and privacy: 30%
+- Technology process automation: 25%
+- Software and web applications development: 22%
+- C...
+
+### 3. [Tech Hiring and Job Market Trends 2025 Midyear Report](https://motionrecruitment.com/tech-hiring-midyear-report)
+
+These trends highlight how technological advancements, particularly in AI and machine learning, are significantly shaping the IT job market in 2025.
+
+Are IT salaries increasing?
+
+While IT salaries hav...
+
+### 4. [The Future of Jobs Report 2025 | World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2025)
+
+Technology-related roles are the fastest- growing jobs in percentage terms, including Big Data Specialists, Fintech Engineers, AI and Machine Learning Specialists and Software and Application Develope...
+
+### 5. [State of the Tech Workforce 2025 | CompTIA Report](https://www.comptia.org/en-us/resources/research/state-of-the-tech-workforce-2025)
+
+Tech occupation employment over the next 10 years is expected to grow at about twice the rate (2x) of overall employment across the economy. This confirms the relative strength of tech employment comp...
+
+---
+
+
+*Generated by [ai-tools](https://github.com/amrendramishra/ai-tools) automation*
