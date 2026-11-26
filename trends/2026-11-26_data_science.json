@@ -1,0 +1,115 @@
+{
+  "niche_id": "data_science",
+  "niche_name": "Data Science & ML",
+  "timestamp": "2026-11-26T03:53:49.918216",
+  "searches": [
+    {
+      "query": "trending machine learning topics",
+      "answer": "Trending machine learning topics include generative AI and its applications, AI in healthcare, multi-modal AI, AI and quantum computing, federated learning and privacy-preserving AI, large language models and their applications, edge AI and TinyML, AI-enhanced cybersecurity, new trends in learning algorithms such as self-supervised, active, contrastive, and continual learning, graph neural networks, and ethics and responsible AI. Additionally, there is a growing interest in unsupervised and reinforcement machine learning, especially with the advent of no-code ML, and its integration with augmented reality and quantum computing. Other areas of focus include machine learning for anomaly detection, recommendation systems, and its applications in various industries like healthcare, retail, fintech, and manufacturing.",
+      "results": [
+        {
+          "title": "Emerging Trends in Machine Learning and Artificial Intelligence | Computers | MDPI",
+          "url": "https://www.mdpi.com/journal/computers/special_issues/4koriti42u",
+          "content": "- Generative AI and its applications;\n- AI in healthcare;\n- Multi-modal AI;\n- AI and quantum computing;\n- Federated learning and privacy-preserving AI;\n- Large language models (LLMs) and their applications;\n- Edge AI and TinyML;\n- AI-enhanced cybersecurity;\n- New trends in learning algorithms: self-supervised, active, contrastive, and continual learning;\n- Graph neural networks and their applications;\n- Ethics and responsible AI; [...] of AI systems but are also addressing some of the long-stand",
+          "score": 0.80069196
+        },
+        {
+          "title": "AI trends: A closer look at machine learning's role | IBM",
+          "url": "https://www.ibm.com/think/insights/ai-trends-machine-learning-role",
+          "content": "Unsupervised and reinforcement ML are both expected to expand in the coming year, in part because of no-code ML.\n\nAs ML evolves, we will likely see growth in other technologies like augmented reality and quantum computing. \u201cMachine learning models can generate 3D objects for apps and other uses in augmented reality,\u201d Lu\u00eds Fernando Torres wrote. In addition, ML will play a role in improved facial recognition technology and interactions with generative AI. [...] Machine learning is all about data.",
+          "score": 0.66486675
+        },
+        {
+          "title": "Machine Learning Statistics for 2026: The Ultimate List",
+          "url": "https://www.itransition.com/machine-learning/statistics",
+          "content": "| Top machine learning areas or modalities that ML practitioners work on include Time Series (17%), Tabular (15%), recommender systems (12%), and causal inference (6%). Areas like regression (linear regression, logistic regression, etc.) and reinforcement learning are currently less popular. | The Institute for Ethical AI & Machine Learning | [...] Trending topics\n\nArtificial intelligence  ERP  Customer experience  Cloud  Internet of things  RPA  Blockchain\n\nIndustry-related topics\n\nHealthcare  ",
+          "score": 0.66377795
+        },
+        {
+          "title": "10 Great Machine Learning (ML) and Artificial Intelligence (AI) Blogs To Follow | Tableau",
+          "url": "https://www.tableau.com/learn/articles/blogs-about-machine-learning-artificial-intelligence",
+          "content": "Machine learning (ML) isn\u2019t new. However, the field of big data is revitalizing the subject and more organizations are relying on ML models to scale their operations, support staff in working better and faster, to uncover hidden insights from data, or even confirm and challenge underlying assumptions. This is creating widespread interest in related topics with the C-suite, and across business lines and job roles, as enterprises embrace the value of artificial intelligence (AI) and ML. To make a ",
+          "score": 0.5636782
+        },
+        {
+          "title": "Machine Learning Projects - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/machine-learning/machine-learning-projects",
+          "content": "Machine Learning can understand text and images. From detecting spam emails to recognizing handwritten digits or even colouring old black-and-white photos, these projects show how ML works with everyday data.\n\n### 2. Social Media and Sentiment Analysis\n\nPeople express their opinions on social media every day. Machine Learning can study these posts to understand whether people feel positive, negative or neutral about a topic.\n\n### 3. Finance and Economics [...] Shops and businesses want to know w",
+          "score": 0.54649615
+        }
+      ]
+    },
+    {
+      "query": "new data science tools and frameworks",
+      "answer": "The sources mention several new data science tools and frameworks. DeepLearning4j is an open-source Java-based deep-learning framework developed by Eclipse, compatible with multiple languages and scalable through distributed GPU and CPU support. TensorFlow, developed by Google, is a scalable, interactive, and multiplatform Python-based ML tool with extensive libraries for various applications. KNIME Analytics is an open-source platform for creating data science workflows visually without coding. TIBCO offers a comprehensive suite for BI, analytics, and data science with features like AutoML and Jupyter Notebooks. Azure Machine Learning supports multiple open-source frameworks and languages. The sources do not provide a definitive answer on all new tools and frameworks.",
+      "results": [
+        {
+          "title": "Best Data Science Tools and Frameworks: A Brief Overview",
+          "url": "https://www.swanintelligence.com/best-data-science-tools-and-frameworks-a-brief-overview",
+          "content": "### DeepLearning4j\n\nDeveloped by Eclipse, DeepLearning4j is the first open-source Java-based enterprise-grade deep-learning framework for JVM that facilitates designing, training, and deploying neural networks. Being distributed in nature, DL4j can significantly speed up training by leveraging multi-CPUs.\n\n#### Pros\n\n- Compatible with Clojure, Kotlin, and Scala\n- Seamlessly integrates with Apache Spark and Apache Hadoop\n- Distributed GPU and CPU support\n- CNNs, DBNs, RBMs, and RNNs supported [..",
+          "score": 0.7356416
+        },
+        {
+          "title": "The 16 Best Data Science Software & ML Tools for 2026",
+          "url": "https://solutionsreview.com/business-intelligence/the-best-data-science-and-machine-learning-platforms",
+          "content": "Description: KNIME Analytics is an open-source platform for creating data science. It enables the creation of visual workflows via a drag-and-drop-style graphical interface that requires no coding. Users can choose from more than 2000 nodes to build workflows, model each step of analysis, control the flow of data, and ensure work is current. KNIME can blend data from any source and shape data to derive statistics, clean data, and extract and select features. The product leverages AI and machine ",
+          "score": 0.65057826
+        },
+        {
+          "title": "The 16 Best Enterprise Data Science Software & ML Tools for 2026",
+          "url": "https://solutionsreview.com/business-intelligence/the-best-enterprise-data-science-software-ml-tools",
+          "content": "as protect data with differential privacy and confidential computing. Azure Machine Learning supports open-source frameworks and languages like MLflow, Kubeflow, ONNX,PyTorch, TensorFlow, Python, and R. [...] Description:KNIME Analytics is an open-source platform for creating data science. It enables the creation of visual workflows via a drag-and-drop-style graphical interface that requires no coding. Users can choose from more than 2000 nodes to build workflows, model each step of analysis, co",
+          "score": 0.6435533
+        },
+        {
+          "title": "The Data Science Toolkit: 24 free data science tools",
+          "url": "https://www.springboard.com/blog/data-science/data-science-toolkit",
+          "content": "Get 24 free forever, awesome tools \u30fb 7-SQL Structured Query Language or SQL \u30fb 12-Apache Spark Apache Spark is a cluster-computing framework",
+          "score": 0.5643386
+        },
+        {
+          "title": "Data science - Articles - IBM Developer",
+          "url": "https://developer.ibm.com/technologies/data-science/articles",
+          "content": "IBM  Developer\n\nOptions\n\nLoading page...\n\n# Data science\n\n#### Analyze structured and unstructured data to extract knowledge and insights.\n\nData science is the process of using algorithms, methods, and systems to extract knowledge and insights from structured and unstructured data. It can be used to make predictions and decisions using analytics and machine learning.\n\n Articles\n Blogs\n Courses\n Learning Paths\n\n### Articles\n\nLoading content...",
+          "score": 0.12357699
+        }
+      ]
+    },
+    {
+      "query": "latest research papers AI ML simplified",
+      "answer": "The latest research in AI and machine learning focuses on scalability, AutoML, and deep learning. Wang et al. (2020) discuss the importance of simplification, approximation, and parallelism in large-scale machine learning. Baratchi et al. (2024) highlight how AutoML improves access to high-performance machine learning. The 2021 scientometric review indicates a significant increase in deep learning publications, especially transformers. Additionally, the NYAI ranking lists papers like \"Learning to Simulate Complex Physics with Graph Networks\" as central to modern machine learning systems. The Ocean of Papers blog suggests starting with foundational papers like \"Attention Is All You Need\" and \"BERT\" before exploring subtopics in vision, language models, generative AI, and reinforcement learning.",
+      "results": [
+        {
+          "title": "Latest Machine Learning Research and Trends | Paperguide",
+          "url": "https://paperguide.ai/research-reviews/machine-learning",
+          "content": "| Wang et al. 2020 | Survey | Large-scale ML | Scalability taxonomy | Not reported | Efficient learning on large data requires simplification, approximation, and parallelism (Wang et al., 2020) |\n| Baratchi et al. 2024 | Survey | AutoML | Search space, strategy, evaluation | Not reported | AutoML improves access to high-performance ML (Baratchi et al., 2024) | [...] Despite widespread progress, the literature repeatedly returns to the problem of model selection. Core algorithm reviews conclude t",
+          "score": 0.6228035
+        },
+        {
+          "title": "From Classical Machine Learning to Deep Neural Networks: A Simplified Scientometric Review",
+          "url": "https://www.academia.edu/66830109/From_Classical_Machine_Learning_to_Deep_Neural_Networks_A_Simplified_Scientometric_Review",
+          "content": "From Classical Machine Learning to Deep Neural Networks: A Simplified Scientometric Review. 2021; doi:10.3390/APP11125541\n\nHarvard content_copy\n\n\u201cFrom Classical Machine Learning to Deep Neural Networks: A Simplified Scientometric Review\u201d (2021). Applied Sciences. doi: 10.3390/APP11125541.\n\nbookmark Save to Library share Share\n\ndownload\n12\n\ndownloads\n\nformat_quote\n8 citations\n\n2021\n\nvisibility\n52 views\n\ndescription\n26 pages\n\nclose\n\nImage 9\n#### Sign up for access to the world's latest research [.",
+          "score": 0.5402569
+        },
+        {
+          "title": "Top AI & ML Research Papers | NYAI",
+          "url": "https://www.nyai.co/top-ai-ml-research-papers",
+          "content": "Summary: Deep Learning (DL) algorithms are the central focus of modern machine learning systems. The progress on the algorithmic front has failed to demonstrate a direct advantage over powerful hardware such as NVIDIA-V100 GPUs. Using just a CPU, SLIDE drastically reduces the computations during both training and inference outperforming an optimized implementation of Tensorflow (TF) on the best available GPU. On the same CPU hardware, SLIDE is over 10x faster than TF.\n\nHow We Rank Papers [...] S",
+          "score": 0.49046442
+        },
+        {
+          "title": "Machine Learning Research Papers PDF: 15 Free Must-Reads (2026)",
+          "url": "https://www.oceanofpapers.com/blog/ai-machine-learning-research-papers",
+          "content": "## Quick answer\n\nAlmost every landmark AI and machine learning research paper is free as a PDF on arXiv. Start with Attention Is All You Need, ResNet, Adam and BERT, then follow your subtopic: vision (U-Net, ViT), language models (GPT-3, InstructGPT), generative AI (GANs, diffusion) or reinforcement learning. Below are 15 verified free PDFs, grouped by topic, with a reading order.\n\nSearch machine learning papers free\n\n## Where to Get AI and Machine Learning Research Papers as Free PDFs [...] | N",
+          "score": 0.42268336
+        },
+        {
+          "title": "Medium",
+          "url": "https://medium.com/@aipapers",
+          "content": "AI Papers Academy\u00b7Jul 1170,927 AI Papers Reveal the Biggest Research Shifts of the First Half of 2026We analyzed 170,927 AI research papers posted to arXiv since the beginning of 2025 up to June 26th across its four main machine-learning\u2026\n\nAI Papers Academy\u00b7Jun 16Microsoft Found Gradient Descent for AI Agent SkillsIn this post, we break down SkillOpt: Executive Strategy for Self-Evolving Agent Skills, a new Microsoft research paper that introduces a\u202611 [...] AI Papers Academy\u00b7Oct 25, 2025Less Is",
+          "score": 0.3685193
+        }
+      ]
+    }
+  ]
+}
