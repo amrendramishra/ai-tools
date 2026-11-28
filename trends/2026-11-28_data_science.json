@@ -1,0 +1,115 @@
+{
+  "niche_id": "data_science",
+  "niche_name": "Data Science & ML",
+  "timestamp": "2026-11-28T03:41:01.177095",
+  "searches": [
+    {
+      "query": "trending machine learning topics",
+      "answer": "The sources indicate several trending machine learning topics for 2026, including agentic AI and generative AI reshaping system design, specialized models, edge computing, human-AI collaboration, and responsible AI. Other trends highlighted are reinforcement learning, federated learning, explainable AI, multimodal models, and automated machine learning. Additionally, generative models, multimodal learning, and optimization algorithms are noted as significant research areas. Projects like image recognition, deep learning, intelligent chatbots, sentiment analysis, and sales forecasting are also emphasized.",
+      "results": [
+        {
+          "title": "Identify Trending Machine Learning Topics in Science With Topic Modeling",
+          "url": "https://pub.towardsai.net/identify-trending-machine-learning-topics-in-science-with-topic-modeling-dc457177166d",
+          "content": "Metadata about ML-related papers (44,502 entries) in 2022 was used to identify the top 4 most important ML topics in 2022.\n   BERTopic was used to apply topic modeling.\n   Based on the used 2022 data set, the top 4 identified ML topics in science were: Reinforcement learning, Federated learning, Speech recognition, and Explainable ML.\n   All topics could be directly or indirectly found in Gartner\u2019s 2022 AI Hype Cycle.\n   Scroll down to \u201c\ud83d\udca0Results\u201d to see more details. [...] Explainable AI (XAI), ",
+          "score": 0.8062431
+        },
+        {
+          "title": "7 Machine Learning Trends to Watch in 2026 - MachineLearningMastery.com",
+          "url": "https://machinelearningmastery.com/7-machine-learning-trends-to-watch-in-2026",
+          "content": "Topics we will cover include:\n\n Why agentic AI and generative AI are reshaping how machine learning systems are designed and deployed.\n How specialized models, edge deployment, and operational maturity are changing what effective machine learning looks like in practice.\n Why human collaboration, explainability, and responsible design are becoming essential as machine learning moves deeper into decision-making.\n\nLet\u2019s not waste any more time.\n\n7 Machine Learning Trends to Watch in 2026 [...] The ",
+          "score": 0.80084777
+        },
+        {
+          "title": "Top 10 Machine Learning Trends in 2026 | Hachion",
+          "url": "https://www.hachion.co/blogs/machine-learning-with-ai/ml-trends",
+          "content": "Generative AI and large language models, AI agents, MLOps, edge and on-device ML, explainable AI and multimodal models are among the most important trends, because they change how ML systems are built, deployed and governed.\n\nIs machine learning still worth learning in 2026?\n\nYes. Generative AI and agents are built on machine learning foundations, and teams still need people who can prepare data, train and evaluate models, and run them reliably in production. [...] Why it matters: Reduces latenc",
+          "score": 0.80022407
+        },
+        {
+          "title": "Top Machine Learning Research Topics: An Analysis of 3,700 ICLR-2025 Papers",
+          "url": "https://www.paperdigest.org/report/data/iclr-2025-topics.html",
+          "content": "Diffusion-Based Planning for Autonomous Driving with Flexible Guidance\n Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks\n Training Language Models to Self-Correct via Reinforcement Learning\n Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence\n Towards General-Purpose Model-Free Reinforcement Learning\n\n## 6. Multimodal Learning (Vision-Language, Audio, Video, 3D) [...] Scaling and evaluating sparse autoencode",
+          "score": 0.7018153
+        },
+        {
+          "title": "25 Exciting Machine Learning Projects for 2026 blog",
+          "url": "https://www.icertglobal.com/blog/25-exciting-machine-learning-projects-blog",
+          "content": "This project teaches a computer to recognize objects in pictures, like identifying a cat, a car, or a tree. Image recognition is used in security cameras, self-driving cars, and more.\n\n11. Deep Learning Projects\n\nDeep learning is a type of ML that uses structures called neural networks, which are inspired by how the human brain works. These projects help solve really hard problems like voice recognition and advanced image analysis.\n\n12. Intelligent Chatbots [...] Just like predicting stock price",
+          "score": 0.5970206
+        }
+      ]
+    },
+    {
+      "query": "new data science tools and frameworks",
+      "answer": "The sources mention several new data science tools and frameworks for 2026, including TensorFlow, Scikit-learn, Keras, and Pandas for machine learning and data manipulation. Streamlit is highlighted for creating custom data science applications and dashboards. Apache Arrow is noted for its role in accelerating data processing and integration. Other tools include Jupyter Notebook, Amazon SageMaker, Google Cloud Datalab, and various platforms like IBM SPSS Modeler, Matlab, SAS, Altair RapidMiner, Alteryx One, and more. Libraries like Spark, Dask, and Ray are recommended for processing large datasets. Additionally, packages like Shiny, PyTorch, and TensorFlow are mentioned for their specialized functionality in data science.",
+      "results": [
+        {
+          "title": "List of 11 Best Frameworks used by Data Scientists",
+          "url": "https://devopscube.com/list-best-frameworks-data-scientists",
+          "content": "An advantage of Spacy is that, it comes with pre-trained models that can be used for various NLP tasks. Also, it has an easy to use API with lot of customizations and extensibility.\n\nHere are some other frameworks and tools worth considering.\n\n1. RandomForest\n2. Xgboost\n3. LightGBM\n4. Apache Spark\n5. Fast.ai\n6. ONNX\n7. Jupyter Notebook\n8. Amazon SageMaker for Data Scientists\n9. Google Cloud Datalab\n\n## Conclusion [...] ### 1. TensorFlow\n\nTensorflow is an open-source machine learning library deve",
+          "score": 0.7134316
+        },
+        {
+          "title": "Data Science Tools: Our Top 11 Recommendations for 2026",
+          "url": "https://roadmap.sh/ai-data-scientist/tools",
+          "content": "### Streamlit\n\nStreamlit is an open-source framework for creating custom data science applications and dashboards. It simplifies the process of building interactive apps by using Python scripts, making it accessible even for those with minimal web development experience. Streamlit's API enables rapid prototyping of machine learning tools and visualizations. [...] ### Apache Arrow\n\nApache Arrow is revolutionizing how data is stored and transferred for big data applications. Its in-memory columnar",
+          "score": 0.7000752
+        },
+        {
+          "title": "Data Science Tool List: 59 Useful Tools Explained",
+          "url": "https://brollyacademy.com/data-science-tool-list",
+          "content": "- Jupyter Notebook for interactive computing\n- Apache Spark for big data processing\n- RStudio for R programming\n- KNIME for data analytics and reporting\n\n### 11. What is the role of machine learning frameworks in data science?\n\nMachine learning frameworks, such as TensorFlow, PyTorch, and Scikit-learn, provide pre-built algorithms and tools for building, training, and deploying machine learning models efficiently, enabling data scientists to focus on solving complex problems. [...] 1. Comprehens",
+          "score": 0.6683393
+        },
+        {
+          "title": "18 data science tools to consider using in 2026 | TechTarget",
+          "url": "https://www.techtarget.com/news/18-data-science-tools-to-consider-using-in-2026/842305",
+          "content": "IBM SPSS Modeler, Matlab and SAS can also be counted among the data science platforms. Other prominent platform options for data science teams include the following technologies:\n\n- Altair RapidMiner.\n- Alteryx One.\n- Amazon SageMaker.\n- Anaconda.\n- Azure Machine Learning.\n- BigML.\n- Databricks Data Intelligence Platform.\n- Dataiku.\n- DataRobot.\n- Domino Enterprise AI Platform.\n- Google Cloud Vertex AI Platform.\n- H2O AI Cloud.\n- IBM Watson Studio.\n- Knime.\n- Qubole.\n- Saturn Cloud. [...] The wo",
+          "score": 0.6680145
+        },
+        {
+          "title": "Data Science Tools: Software & Frameworks Guide | Domino.ai",
+          "url": "https://domino.ai/blog/data-science-tools",
+          "content": "Packages are a grouping of code modules that provide specialized functionality or programmatic building blocks within an IDE or language. They save data scientists a great deal of time by eliminating the need to write code from scratch every time they build a model. Examples include Shiny, PyTorch and Tensorflow. Shiny is an R package that enables building interactive web applications that can execute R code on the backend.PyTorch is primarily used with Python for high level features such as [..",
+          "score": 0.63793355
+        }
+      ]
+    },
+    {
+      "query": "latest research papers AI ML simplified",
+      "answer": "The latest research papers in AI/ML include \"SimCLR\" from February 2020, which introduced a simplified framework for contrastive learning, and \"Idefics2\" from April 2024, which improved OCR capabilities with a simplified architecture. Other notable papers are \"Phi 3 Vision\" from May 2024, a multimodal model, and \"GPT-4.5\" from February 2025, which represents advancements in scaling unsupervised learning. Additionally, Morgan Stanley's research includes works on Langevin Thompson Sampling and adaptive sampling techniques for rare event evaluation. The sources do not provide a definitive answer to the latest research papers but highlight these significant contributions.",
+      "results": [
+        {
+          "title": "GitHub - dair-ai/ML-Papers-Explained: Explanation to key concepts in ML \u00b7 GitHub",
+          "url": "https://github.com/dair-ai/ML-Papers-Explained",
+          "content": "| Paper | Date | Description |\n---\n| SimCLR | February 2020 | A simplified framework for contrastive learning that optimizes data augmentation composition, introduces learnable nonlinear transformations, and leverages larger batch sizes and more training steps. | [...] | Idefics2 | April 2024 | Improvement upon Idefics1 with enhanced OCR capabilities, simplified architecture, and better pre-trained backbones, trained on a mixture of openly available datasets and fine-tuned on task-oriented data.",
+          "score": 0.620909
+        },
+        {
+          "title": "Machine Learning Research Papers | Morgan Stanley",
+          "url": "https://www.morganstanley.com/about-us/technology/machine-learning-research-papers",
+          "content": "NeurIPS Workshop on Frontiers of Optimization, Sampling, and Games\n\nRethinking Langevin Thompson Sampling from A Stochastic Approximation Perspective(opens in a new tab)\n\nWe propose interpreting Langevin Thompson Sampling from a stochastic approximation perspective, enabling a simplified and more intuitive theoretical analysis.\n\nSODA 2025\n\nAverage-Case Hardness of Parity Problems: Orthogonal Vectors, k-SUM and More(opens in a new tab) [...] We propose a policy evaluation based on adaptive sampli",
+          "score": 0.4988365
+        },
+        {
+          "title": "AI Papers to Read in\u00a02025 | Towards Data Science",
+          "url": "https://towardsdatascience.com/ai-papers-to-read-in-2025",
+          "content": "In this work, the authors do not propose a new formulation or a clever approximation to the original formula. Instead, they present a fast GPU implementation that makes better use of the (complicated) GPU memory structure. The proposed method is significantly faster while having little to no drawbacks over the original.\n\nReason 1: Many research papers get rejected because they are just new implementations or not \u201cnovel enough\u201d. Sometimes, that\u2019s all we need. [...] Since the 2017 groundbreaking p",
+          "score": 0.45953086
+        },
+        {
+          "title": "50 AI/ML research paper implementations with side-by-side notes | Kaggle",
+          "url": "https://www.kaggle.com/general/278939",
+          "content": "Multi-headed attention\n   Transformer building blocks\n   Transformer XL\n       Relative multi-headed attention\n\n   Compressive Transformer\n   GPT Architecture\n   GLU Variants\n   kNN-LM: Generalization through Memorization\n   Feedback Transformer\n   Switch Transformer\n   Fast Weights Transformer\n   FNet\n   Attention Free Transformer\n   Masked Language Model\n   MLP-Mixer: An all-MLP Architecture for Vision\n   Pay Attention to MLPs (gMLP)\n   Vision Transformer (ViT)\n   Primer EZ [...] #### \u2728 Recurr",
+          "score": 0.43980747
+        },
+        {
+          "title": "How to actually learn AI/ML: Reading Research Papers",
+          "url": "https://www.youtube.com/watch?v=x6slke5niqw",
+          "content": "[6:32] processing medical speech audio it's a really nice place if you want to look at papers based on categories second one is\n[6:39] distilled AI list of research papers and it also has computer vision NLP speech core ML and different categories but\n[6:47] this one is also categorized by year so it's great if you want to look up papers from the past to present for each topic [...] [6:55] and maybe see how it has changed over the years but let's say you want want to look at the newest stuff wel",
+          "score": 0.34114337
+        }
+      ]
+    }
+  ]
+}
